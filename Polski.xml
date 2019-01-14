@@ -1,0 +1,1255 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pl">
+  <siteinfo>
+    <sitename>Minecraft Wiki Polska</sitename>
+    <dbname>minecraft_pl_gamepedia</dbname>
+    <base>https://minecraft-pl.gamepedia.com/Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Użytkownik</namespace>
+      <namespace key="3" case="first-letter">Dyskusja użytkownika</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki Polska</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Minecraft Wiki Polska</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2300" case="first-letter">Gadżet</namespace>
+      <namespace key="2301" case="first-letter">Dyskusja gadżetu</namespace>
+      <namespace key="2302" case="case-sensitive">Definicja gadżetu</namespace>
+      <namespace key="2303" case="case-sensitive">Dyskusja definicji gadżetu</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Aboutme</title>
+    <ns>8</ns>
+    <id>13204</id>
+    <revision>
+      <id>74638</id>
+      <timestamp>2016-03-29T10:39:26Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">O mnie</text>
+      <sha1>il6wnhcqjy3b18sswa5spl7mylypnjb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Aboutmehelp</title>
+    <ns>8</ns>
+    <id>13206</id>
+    <revision>
+      <id>74640</id>
+      <timestamp>2016-03-29T10:40:32Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55">Pole to może zostać sformatowane używając Wikikodu.</text>
+      <sha1>akaek7x679lz4a32yj8yvuc7q9h77pm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements</title>
+    <ns>8</ns>
+    <id>12994</id>
+    <revision>
+      <id>73465</id>
+      <timestamp>2016-03-20T19:45:11Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>spolszczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Osiągnięcia</text>
+      <sha1>2w9l7pplkdgdldyxgpd50cczve69vap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievementsearned</title>
+    <ns>8</ns>
+    <id>13147</id>
+    <revision>
+      <id>74578</id>
+      <timestamp>2016-03-29T10:04:25Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Osiągnięcia</text>
+      <sha1>2w9l7pplkdgdldyxgpd50cczve69vap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Alreadyfriends</title>
+    <ns>8</ns>
+    <id>17709</id>
+    <revision>
+      <id>102810</id>
+      <timestamp>2017-07-02T12:41:47Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Znajomi!&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Znajomi!</text>
+      <sha1>iik3tzmq8qdww5xuwxjvvuqlkof46rr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Auth continue</title>
+    <ns>8</ns>
+    <id>19359</id>
+    <revision>
+      <id>112440</id>
+      <timestamp>2018-09-08T11:18:41Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Kontynuuj</text>
+      <sha1>nc4tkagwulb5c3k27217z568sx8i77i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avatar-help</title>
+    <ns>8</ns>
+    <id>13209</id>
+    <revision>
+      <id>74643</id>
+      <timestamp>2016-03-29T10:41:53Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="190">Gamepedia korzysta z usług Gravatar, by wyświetlać avatar w profilu, opierajac się o adres email użytkownika. Odwiedź [http://www.gravatar.com/ gravatar.com], by zmienić swój avatar.</text>
+      <sha1>l6j7xap5fito87huins69sdbz95plzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Awardachievement</title>
+    <ns>8</ns>
+    <id>15552</id>
+    <revision>
+      <id>89184</id>
+      <timestamp>2016-09-10T22:50:44Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34">Przyznaj lub odbierz osiągnięcia</text>
+      <sha1>f1z6p7phw1qdufm2w28vz2hll19m3ji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentaction</title>
+    <ns>8</ns>
+    <id>13162</id>
+    <revision>
+      <id>74593</id>
+      <timestamp>2016-03-29T10:08:26Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Skomentuj</text>
+      <sha1>q7kd01mwwwewk61sa7efsxwikhbu9u0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentarchivelink</title>
+    <ns>8</ns>
+    <id>13159</id>
+    <revision>
+      <id>74590</id>
+      <timestamp>2016-03-29T10:08:00Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Archiwum komentarzy</text>
+      <sha1>ray8148ivkzeztbc2859247tsn2lmrm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentmoderation</title>
+    <ns>8</ns>
+    <id>15554</id>
+    <revision>
+      <id>89186</id>
+      <timestamp>2016-09-10T22:52:17Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Moderacja komentarzy</text>
+      <sha1>3sqmnuqb8fh8czj768onuwlisn20pf4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentplaceholder</title>
+    <ns>8</ns>
+    <id>13165</id>
+    <revision>
+      <id>74596</id>
+      <timestamp>2016-03-29T10:08:56Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Napisz komentarz</text>
+      <sha1>816v8g4zy1hh3tdx4swkfnnys5p170v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection</title>
+    <ns>8</ns>
+    <id>13153</id>
+    <revision>
+      <id>74584</id>
+      <timestamp>2016-03-29T10:06:49Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="57">Osiągnięcia ([[Special:Achievements|Zobacz wszystkie]])</text>
+      <sha1>qprsr0hbahu4haez55fwiszbwrk972l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-editprofile</title>
+    <ns>8</ns>
+    <id>13187</id>
+    <revision>
+      <id>74618</id>
+      <timestamp>2016-03-29T10:22:35Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Edytuj profil</text>
+      <sha1>ac8mjusq7phdlatjw70waxsga4vvo3l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection</title>
+    <ns>8</ns>
+    <id>13149</id>
+    <revision>
+      <id>104042</id>
+      <parentid>74580</parentid>
+      <timestamp>2017-07-29T17:26:29Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Wygląda na stary, niedziałający już element strony</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Znajomi</text>
+      <sha1>g5h5n7sr6j50nxz7yddt7yu456371o2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection-all</title>
+    <ns>8</ns>
+    <id>15337</id>
+    <revision>
+      <id>87529</id>
+      <timestamp>2016-08-15T14:43:50Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="90">([[Special:Friends/$1/$3|{{#ifeq: $1 | $2 | Zarządzaj znajomymi | Zobacz wszystkich }}]])</text>
+      <sha1>cwcyaxtz4plv5csjn6k7rql79s3pm3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentactivitysection</title>
+    <ns>8</ns>
+    <id>13170</id>
+    <revision>
+      <id>74601</id>
+      <timestamp>2016-03-29T10:11:46Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33">Ostatnia aktywność użytkownika</text>
+      <sha1>jkg4eptp3uzm4zw1r4bi77xtvr7w5qt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentcommentssection</title>
+    <ns>8</ns>
+    <id>13156</id>
+    <revision>
+      <id>74587</id>
+      <timestamp>2016-03-29T10:07:34Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Komentarze profilu</text>
+      <sha1>fehxnw3e4w0iljanru1slat7rg9fvpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-statisticssection</title>
+    <ns>8</ns>
+    <id>13134</id>
+    <revision>
+      <id>74565</id>
+      <timestamp>2016-03-29T09:57:13Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Statystyki ogólne&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Statystyki ogólne</text>
+      <sha1>rsynyo00dvzp8fgw2xyiogjmurj8fqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangeemail</title>
+    <ns>8</ns>
+    <id>15555</id>
+    <revision>
+      <id>94668</id>
+      <parentid>89187</parentid>
+      <timestamp>2017-01-27T10:49:30Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <minor/>
+      <comment>półpauza</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Konto Curse – zmień e-mail</text>
+      <sha1>nnzrnx71g8946g0xqcwfeobd3isqjbn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangepassword</title>
+    <ns>8</ns>
+    <id>15556</id>
+    <revision>
+      <id>89188</id>
+      <timestamp>2016-09-10T22:55:54Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Konto Curse - zmień hasło</text>
+      <sha1>iuvvumt8ftycyvngesruloit348ckcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Disable social prompts</title>
+    <ns>8</ns>
+    <id>13225</id>
+    <revision>
+      <id>74662</id>
+      <timestamp>2016-03-29T10:55:05Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="121">Wyłącz okienka stron społecznościowych, umożliwiających dzielenie się zawartością przez Facebooka, Twittera itp.</text>
+      <sha1>q94bvi44o7nhdbarvfu7ftxl8dxwmkd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dismiss notice</title>
+    <ns>8</ns>
+    <id>17028</id>
+    <revision>
+      <id>98031</id>
+      <timestamp>2017-04-14T12:36:22Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Przetłumaczenie elementu interfejsu MW</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Ignoruj</text>
+      <sha1>349wi5o6dy3z6jq624vemontoqphkhk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Edit achievement</title>
+    <ns>8</ns>
+    <id>13277</id>
+    <revision>
+      <id>74748</id>
+      <parentid>74738</parentid>
+      <timestamp>2016-03-29T11:28:49Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>po co to?</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Edytuj</text>
+      <sha1>9dukslflex6jabuto7te809nhr0e152</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Favoritewiki</title>
+    <ns>8</ns>
+    <id>13112</id>
+    <revision>
+      <id>74522</id>
+      <timestamp>2016-03-28T21:40:05Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>spolszczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Ulubiona Wiki</text>
+      <sha1>s4z43m28m8utprfwvoyjspv8nq562k6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Friends</title>
+    <ns>8</ns>
+    <id>13114</id>
+    <revision>
+      <id>74603</id>
+      <parentid>74524</parentid>
+      <timestamp>2016-03-29T10:13:34Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Znajomi</text>
+      <sha1>g5h5n7sr6j50nxz7yddt7yu456371o2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Linkaccounts</title>
+    <ns>8</ns>
+    <id>15548</id>
+    <revision>
+      <id>89180</id>
+      <timestamp>2016-09-10T22:48:03Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Połącz konta</text>
+      <sha1>mn5idr7khrcx0ez611zscj6rl9j8qhn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Localrank</title>
+    <ns>8</ns>
+    <id>13141</id>
+    <revision>
+      <id>74572</id>
+      <timestamp>2016-03-29T10:02:50Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="59">Miejsce na {{SITENAME}}&lt;br&gt;([[Special:WikiPoints|Ranking]])</text>
+      <sha1>6yqs0i5aw4soy4c1idvxqoyj7g514zv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Login name</title>
+    <ns>8</ns>
+    <id>7478</id>
+    <revision>
+      <id>36932</id>
+      <timestamp>2013-12-17T13:22:46Z</timestamp>
+      <contributor>
+        <username>Lewandowski</username>
+        <id>1</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Email lub nazwa użytkownika:&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Email lub nazwa użytkownika:</text>
+      <sha1>n25oj993a8al07tv8zoj7qfx9g480h9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-register</title>
+    <ns>8</ns>
+    <id>18135</id>
+    <revision>
+      <id>105687</id>
+      <timestamp>2017-09-08T12:56:46Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Zarejestruj się</text>
+      <sha1>n7nfa2zcpbxt1p2t3k5wdaupfobkrsg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-signin</title>
+    <ns>8</ns>
+    <id>18132</id>
+    <revision>
+      <id>105684</id>
+      <timestamp>2017-09-08T12:56:17Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Zaloguj się</text>
+      <sha1>17s7dsaklp62x0cxii2hpbydhnnkpic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-user-page</title>
+    <ns>8</ns>
+    <id>13184</id>
+    <revision>
+      <id>74615</id>
+      <timestamp>2016-03-29T10:22:29Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Zmieniono tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Mój profil</text>
+      <sha1>4yl6kxb4udtgz2rqm7t8p5mzr3xre0s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:New account social</title>
+    <ns>8</ns>
+    <id>7439</id>
+    <revision>
+      <id>36893</id>
+      <timestamp>2013-12-17T13:05:05Z</timestamp>
+      <contributor>
+        <username>Lewandowski</username>
+        <id>1</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Dziękujemy za stworzenie nowego konta!&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39">Dziękujemy za stworzenie nowego konta!</text>
+      <sha1>dyprgyns6y3e4hphezkg7ee6vvt2cx1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:New password</title>
+    <ns>8</ns>
+    <id>7444</id>
+    <revision>
+      <id>36898</id>
+      <timestamp>2013-12-17T13:06:16Z</timestamp>
+      <contributor>
+        <username>Lewandowski</username>
+        <id>1</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Nowe hasło&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Nowe hasło</text>
+      <sha1>6gf101pml7bmll2rpku25a0muz9rmiy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Pendingrequests</title>
+    <ns>8</ns>
+    <id>13251</id>
+    <revision>
+      <id>74700</id>
+      <timestamp>2016-03-29T11:14:54Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Oczekujące zaproszenia</text>
+      <sha1>qxcmz76z5vsbdqshw46nvz0hor9uob1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-location</title>
+    <ns>8</ns>
+    <id>13210</id>
+    <revision>
+      <id>74644</id>
+      <timestamp>2016-03-29T10:42:38Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Miejsce zamieszkania</text>
+      <sha1>5g4lfsd22k9bmuyekqmm0xsb3276oyy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-profiles</title>
+    <ns>8</ns>
+    <id>13218</id>
+    <revision>
+      <id>74652</id>
+      <timestamp>2016-03-29T10:49:10Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Pozostałe strony i profile</text>
+      <sha1>i7ajytv9uynh3yxox3df66cg4wzdbm0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-public</title>
+    <ns>8</ns>
+    <id>13197</id>
+    <revision>
+      <id>74631</id>
+      <timestamp>2016-03-29T10:34:47Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Profil publiczny</text>
+      <sha1>3b9e7v73n48pmr2kjfb46gkszk54sm9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-created</title>
+    <ns>8</ns>
+    <id>13119</id>
+    <revision>
+      <id>74538</id>
+      <parentid>74533</parentid>
+      <timestamp>2016-03-28T21:57:05Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>tak?</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Stworzył(a)</text>
+      <sha1>dyylp1k2pz37yz0t2zkww5s3br6t43m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-edited</title>
+    <ns>8</ns>
+    <id>13120</id>
+    <revision>
+      <id>83898</id>
+      <parentid>83896</parentid>
+      <timestamp>2016-06-20T18:14:53Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofano edycje użytkownika [[Special:Contributions/Piotrex43|Piotrex43]] ([[User talk:Piotrex43|dyskusja]]). Autor przywróconej wersji to [[User:NTBG|NTBG]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Edytował(a)</text>
+      <sha1>5cdddwsmg4n51m8xud5l6ecpasarm67</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilelink-help</title>
+    <ns>8</ns>
+    <id>13219</id>
+    <revision>
+      <id>74653</id>
+      <timestamp>2016-03-29T10:50:11Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="95">Powyższe adresy muszą dokładnie pasować do przykładów, aby były poprawnie przedstawione.</text>
+      <sha1>1gwwkcqq3sjiw8s7manu7sbs4kwj1lb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileprefselect</title>
+    <ns>8</ns>
+    <id>13199</id>
+    <revision>
+      <id>74633</id>
+      <timestamp>2016-03-29T10:36:21Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Rodzaj profilu</text>
+      <sha1>fnulexga25xklx2c2q0sf3vqyb0ucux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Rank</title>
+    <ns>8</ns>
+    <id>13178</id>
+    <revision>
+      <id>74609</id>
+      <timestamp>2016-03-29T10:16:41Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Miejsce&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Miejsce</text>
+      <sha1>qhc7g63s0yef99u817sk2xqhgdbytgw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Redirect to gamepedia</title>
+    <ns>8</ns>
+    <id>19360</id>
+    <revision>
+      <id>112441</id>
+      <timestamp>2018-09-08T11:20:32Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Przetłumaczono</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="206">===Jesteś automatycznie przekierowywany do Gamepedii...===
+Logowanie odbywa się teraz na stronie głównej gamepedia.com.
+Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuuj.</text>
+      <sha1>k7fn3c59hjg5o9ag6x8zx5jd7uzbf7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Removefriend</title>
+    <ns>8</ns>
+    <id>13152</id>
+    <revision>
+      <id>74583</id>
+      <timestamp>2016-03-29T10:05:58Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Usuń z listy znajomych</text>
+      <sha1>exxj3rk0qwpoejkn6m3uca2cly93r2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Score</title>
+    <ns>8</ns>
+    <id>13182</id>
+    <revision>
+      <id>74613</id>
+      <timestamp>2016-03-29T10:17:18Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Punktacja</text>
+      <sha1>segcttwgn34pfbmukule7pglgcv72dt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Senddirectrequest</title>
+    <ns>8</ns>
+    <id>13254</id>
+    <revision>
+      <id>74703</id>
+      <timestamp>2016-03-29T11:15:25Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33">Wyślij zaproszenie do znajomych:</text>
+      <sha1>8xmmihbq16j073sf8ovq8kg2l0w92d1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sendrequest</title>
+    <ns>8</ns>
+    <id>13258</id>
+    <revision>
+      <id>74710</id>
+      <timestamp>2016-03-29T11:16:52Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Wyślij zaproszenie</text>
+      <sha1>nydz44gwe908u2mz3co30pg1chbj8uo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing</title>
+    <ns>8</ns>
+    <id>13191</id>
+    <revision>
+      <id>74622</id>
+      <timestamp>2016-03-29T10:25:34Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Podziel się</text>
+      <sha1>s24hbe246n28k3jioyrqfx9ib5ctf5a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors</title>
+    <ns>8</ns>
+    <id>13175</id>
+    <revision>
+      <id>74606</id>
+      <timestamp>2016-03-29T10:16:22Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Najlepsi edytorzy wiki</text>
+      <sha1>ezjbry9bh0ovvtt0nmqp37d1x0kw5s9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors monthly</title>
+    <ns>8</ns>
+    <id>14705</id>
+    <revision>
+      <id>83813</id>
+      <timestamp>2016-06-20T09:43:16Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu - https://minecraft-pl.gamepedia.com/Specjalna:WikiPoints/monthly</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38">Najlepsi edytorzy wiki w tym miesiącu</text>
+      <sha1>0set0bp6v13v500vlhnqe3mpn0inhdp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcontribs</title>
+    <ns>8</ns>
+    <id>13136</id>
+    <revision>
+      <id>74567</id>
+      <timestamp>2016-03-29T09:57:59Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Wkład ogólny&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Wkład ogólny</text>
+      <sha1>3by8fxbozo3h1smmtn078jb2556svef</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaldeletes</title>
+    <ns>8</ns>
+    <id>13139</id>
+    <revision>
+      <id>74570</id>
+      <timestamp>2016-03-29T09:58:55Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Usunięte&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Usunięte</text>
+      <sha1>8d7ld4gw4cgb9p79qef2muktl6oecwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Userprofiletab</title>
+    <ns>8</ns>
+    <id>13166</id>
+    <revision>
+      <id>74597</id>
+      <timestamp>2016-03-29T10:09:39Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Profil użytkownika</text>
+      <sha1>2msk2wpuxtull7m6nzx21n6chne0x9z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wiki user</title>
+    <ns>8</ns>
+    <id>13181</id>
+    <revision>
+      <id>74612</id>
+      <timestamp>2016-03-29T10:16:59Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Użytkownik</text>
+      <sha1>l0pny5xbgp0oxbaslldpk0ykgrsshit</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikisedited</title>
+    <ns>8</ns>
+    <id>13121</id>
+    <revision>
+      <id>112130</id>
+      <parentid>74540</parentid>
+      <timestamp>2018-08-24T22:42:42Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <minor/>
+      <comment>Z wielkiej?</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Edytowanych wiki</text>
+      <sha1>orbjirewlcskrn31hzlg8b756ptj8v3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalpatrols</title>
+    <ns>8</ns>
+    <id>13140</id>
+    <revision>
+      <id>74571</id>
+      <timestamp>2016-03-29T10:00:08Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Przejrzane&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Przejrzane</text>
+      <sha1>e8thylyvyqbe87wwr0wh2h9psfpurvs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalfriends</title>
+    <ns>8</ns>
+    <id>13146</id>
+    <revision>
+      <id>74577</id>
+      <timestamp>2016-03-29T10:04:00Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Znajomi</text>
+      <sha1>g5h5n7sr6j50nxz7yddt7yu456371o2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaledits</title>
+    <ns>8</ns>
+    <id>13138</id>
+    <revision>
+      <id>74569</id>
+      <timestamp>2016-03-29T09:58:20Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Edycje</text>
+      <sha1>6vkkgtihv7vfd0txt636pn0s3bs1idc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-delete achievements</title>
+    <ns>8</ns>
+    <id>17703</id>
+    <revision>
+      <id>102804</id>
+      <timestamp>2017-07-02T12:36:54Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;usuń osiągnięcia&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">usuń osiągnięcia</text>
+      <sha1>fys6t9oteokkf8d8fvieny3rozggkaw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements error</title>
+    <ns>8</ns>
+    <id>17752</id>
+    <revision>
+      <id>102967</id>
+      <timestamp>2017-07-09T17:54:27Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>tłumaczenie (I guess)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Błąd osiągnięć</text>
+      <sha1>lqms2psgkzdl0z7jfvv5a8gohqv8f3q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement image</title>
+    <ns>8</ns>
+    <id>17748</id>
+    <revision>
+      <id>102963</id>
+      <timestamp>2017-07-09T17:53:06Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>tłumaczenie (I guess)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="71">Nazwa pliku (np.: Plik:Przykład.png)  Minimalny rozmiar: 120px x 120px</text>
+      <sha1>grl5vsu1ya0iycyrryux44bl6d0kzm0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement category</title>
+    <ns>8</ns>
+    <id>17699</id>
+    <revision>
+      <id>102797</id>
+      <timestamp>2017-07-02T12:32:55Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Kategoria&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Kategoria</text>
+      <sha1>l3xb8kvg9id7rv8ewevf9h8nv260b6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Active</title>
+    <ns>8</ns>
+    <id>17705</id>
+    <revision>
+      <id>102806</id>
+      <timestamp>2017-07-02T12:39:20Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Aktywni użytkownicy&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Aktywni użytkownicy</text>
+      <sha1>ohcpdz3pm9sz8u3vxkqk599e8tymdvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add achievement</title>
+    <ns>8</ns>
+    <id>13272</id>
+    <revision>
+      <id>74733</id>
+      <timestamp>2016-03-29T11:23:52Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Dodaj nowe</text>
+      <sha1>iv92m2em3iep32ipezi1yknnedawji2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites official</title>
+    <ns>8</ns>
+    <id>17707</id>
+    <revision>
+      <id>102808</id>
+      <timestamp>2017-07-02T12:41:28Z</timestamp>
+      <contributor>
+        <username>@DeletedUser564641</username>
+        <id>564641</id>
+      </contributor>
+      <comment>Utworzono nową stronę &quot;Wszystkie oficjalne wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Wszystkie oficjalne wiki</text>
+      <sha1>57i7t5wrrcd6a6j75ebjqwsoiiz40n4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Change email desc</title>
+    <ns>8</ns>
+    <id>16416</id>
+    <revision>
+      <id>94653</id>
+      <timestamp>2017-01-27T10:44:39Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MW</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="154">Tutaj możesz zmienić adres e-mail swojego konta Curse.com. Zmiana wpłynie na wszystkie konta powiązane z siecią Curse oraz pozostałe wiki Gamepedii.</text>
+      <sha1>tll2dpuzz2nkjgtfqf4ly6vr013rij2</sha1>
+    </revision>
+  </page>
+</mediawiki>
