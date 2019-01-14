@@ -1,5 +1,5 @@
 # gamepedia-translation
-**translation of the MediaWiki** in some languages to facilitate the locations in the wiki of Gamepedia for Portuguese and French
+**translation of the MediaWiki** in some languages to facilitate the locations in the wiki of Gamepedia for Portuguese , French and German
 
 **gamepedia translationis not affiliated with Curse/Gamepedia and is an unofficial tool!**
 
