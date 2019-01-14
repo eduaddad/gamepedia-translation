@@ -1,0 +1,1199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ru">
+  <siteinfo>
+    <sitename>Minecraft Wiki</sitename>
+    <dbname>minecraft_ru_gamepedia</dbname>
+    <base>https://minecraft-ru.gamepedia.com/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Minecraft Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Обсуждение модуля</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Aboutme</title>
+    <ns>8</ns>
+    <id>53185</id>
+    <revision>
+      <id>327304</id>
+      <timestamp>2015-01-21T16:59:23Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Обо мне»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Обо мне</text>
+      <sha1>607goejw76iixvuwvukr2igp952nhgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Aboutmehelp</title>
+    <ns>8</ns>
+    <id>53186</id>
+    <revision>
+      <id>327308</id>
+      <timestamp>2015-01-21T17:00:45Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Викитекст доступен для форматирования.»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="72">Викитекст доступен для форматирования.</text>
+      <sha1>4yaktcup5x2f48cuh5n7r0jjx3ed2i1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements</title>
+    <ns>8</ns>
+    <id>74551</id>
+    <revision>
+      <id>412643</id>
+      <parentid>410239</parentid>
+      <timestamp>2015-09-04T18:58:43Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <minor/>
+      <comment>Asassin 1 переименовал страницу [[MediaWiki:Achievements/en]] в [[MediaWiki:Achievements]] без оставления перенаправления</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Достижения</text>
+      <sha1>b3v2iwthb0dlpop1jxn643il8cy02ns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievementsearned</title>
+    <ns>8</ns>
+    <id>74557</id>
+    <revision>
+      <id>442184</id>
+      <parentid>412647</parentid>
+      <timestamp>2015-12-31T10:25:03Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="88">Достижения ([[Служебная:Achievements|Просмотреть все]])</text>
+      <sha1>fvi4950c9aw0orcwzftifh1ctr0tf6i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addfriend</title>
+    <ns>8</ns>
+    <id>53221</id>
+    <revision>
+      <id>327364</id>
+      <timestamp>2015-01-21T18:29:59Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Добавить в друзья»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32">Добавить в друзья</text>
+      <sha1>657qqbbqsez776jg1re3nblyqzxbwz1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Alreadyfriends</title>
+    <ns>8</ns>
+    <id>53224</id>
+    <revision>
+      <id>327367</id>
+      <timestamp>2015-01-21T18:31:53Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Друзья!»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Друзья!</text>
+      <sha1>tio1qp7o3utzpye3f9cbyrc493o6g0o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avatar-help</title>
+    <ns>8</ns>
+    <id>40811</id>
+    <revision>
+      <id>249800</id>
+      <timestamp>2014-05-15T14:02:33Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Gamepedia использует систему Gravatar для отображения аватарки на основе адреса электронной поч…»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="288">Gamepedia использует систему Gravatar для отображения аватарки на основе адреса электронной почты. Посетите сайт [http://www.gravatar.com/ gravatar.com] для изменения вашей аватарки.</text>
+      <sha1>eyhkdrrfa91dsno75erc95gt76dddix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Awardachievement</title>
+    <ns>8</ns>
+    <id>75041</id>
+    <revision>
+      <id>412661</id>
+      <timestamp>2015-09-04T19:11:35Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Присвоение или лишение достижения»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63">Присвоение или лишение достижения</text>
+      <sha1>crfatebucmb3b7wkqluki3bn9rwjhaj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentaction</title>
+    <ns>8</ns>
+    <id>53253</id>
+    <revision>
+      <id>327408</id>
+      <timestamp>2015-01-21T18:59:50Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Отправить»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Отправить</text>
+      <sha1>dvud62i4ndbw7afsj3b50vrh8c0ctsn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentarchivelink</title>
+    <ns>8</ns>
+    <id>53230</id>
+    <revision>
+      <id>327378</id>
+      <parentid>327373</parentid>
+      <timestamp>2015-01-21T18:35:09Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Архив сообщений</text>
+      <sha1>5lac29mls8xf4fgnumedaw179rxxt9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-link-backtoprofile</title>
+    <ns>8</ns>
+    <id>53247</id>
+    <revision>
+      <id>327402</id>
+      <timestamp>2015-01-21T18:43:33Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «вернуться к профилю»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36">вернуться к профилю</text>
+      <sha1>tiieejn6mj6m0f486tkbkmyc4yg081i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentmoderation</title>
+    <ns>8</ns>
+    <id>93764</id>
+    <revision>
+      <id>503309</id>
+      <timestamp>2016-08-24T18:25:15Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Проверка комментариев профилей»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="58">Проверка комментариев профилей</text>
+      <sha1>nj90rpc7o3tniun3x2lcjem5nf9fidx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentplaceholder</title>
+    <ns>8</ns>
+    <id>53232</id>
+    <revision>
+      <id>327375</id>
+      <timestamp>2015-01-21T18:34:44Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Отправить сообщение»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37">Отправить сообщение</text>
+      <sha1>2vhihv3c1cjqi35t7n8pfgys7xt4z42</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection</title>
+    <ns>8</ns>
+    <id>106964</id>
+    <revision>
+      <id>604859</id>
+      <timestamp>2017-07-21T15:34:19Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Достижения»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Достижения</text>
+      <sha1>b3v2iwthb0dlpop1jxn643il8cy02ns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-editprofile</title>
+    <ns>8</ns>
+    <id>53238</id>
+    <revision>
+      <id>604850</id>
+      <parentid>327390</parentid>
+      <timestamp>2017-07-21T15:30:55Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Править профиль</text>
+      <sha1>is3wjp6e12okezqo0hzgcoqrm77yne2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection</title>
+    <ns>8</ns>
+    <id>106961</id>
+    <revision>
+      <id>604856</id>
+      <timestamp>2017-07-21T15:33:58Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Друзья»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Друзья</text>
+      <sha1>gvj6pq11r5efq40ghsqid8ccvbwnhfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection-all</title>
+    <ns>8</ns>
+    <id>111563</id>
+    <revision>
+      <id>642355</id>
+      <timestamp>2017-11-16T13:17:13Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «([[Служебная:Friends/$1/$3|{{#ifeq: $1 | $2 | Управление дружбой | Смотреть все }}]])»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="122">([[Служебная:Friends/$1/$3|{{#ifeq: $1 | $2 | Управление дружбой | Смотреть все }}]])</text>
+      <sha1>7hlb9gy646omnnlz6jobqsz4qwo1tyl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentactivitysection</title>
+    <ns>8</ns>
+    <id>53258</id>
+    <revision>
+      <id>327413</id>
+      <timestamp>2015-01-21T19:01:54Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Последние действия на вики»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49">Последние действия на вики</text>
+      <sha1>54lcz6drj126puf91rkelny7zamsy0c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentcommentssection</title>
+    <ns>8</ns>
+    <id>53241</id>
+    <revision>
+      <id>327396</id>
+      <timestamp>2015-01-21T18:40:58Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Последние сообщения»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37">Последние сообщения</text>
+      <sha1>1tjq3pniqx6yi5dlqx41p9rw5qcaxdi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-statisticssection</title>
+    <ns>8</ns>
+    <id>106959</id>
+    <revision>
+      <id>604854</id>
+      <timestamp>2017-07-21T15:33:35Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Общая статистика»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">Общая статистика</text>
+      <sha1>90bxpk9quxygto2gt21t21kvyp13qho</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangeemail</title>
+    <ns>8</ns>
+    <id>55164</id>
+    <revision>
+      <id>331266</id>
+      <timestamp>2015-01-27T17:03:58Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Учётная запись Curse — Изменение адреса электронной почты»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="103">Учётная запись Curse — Изменение адреса электронной почты</text>
+      <sha1>s0dm0jlgswofnwra96yhrqae90xw60k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangepassword</title>
+    <ns>8</ns>
+    <id>55165</id>
+    <revision>
+      <id>331270</id>
+      <parentid>331267</parentid>
+      <timestamp>2015-01-27T17:05:06Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="69">Учётная запись Curse — Изменение пароля</text>
+      <sha1>l29pkx22my8wzdmu3njj8o1czp4t2fp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Disable social prompts</title>
+    <ns>8</ns>
+    <id>34217</id>
+    <revision>
+      <id>212198</id>
+      <timestamp>2013-12-15T19:36:16Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Отключить всплывающие окна, предлагающие поделиться ссылками через Facebook, Twitter и другие с…»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="190">Отключить всплывающие окна, предлагающие поделиться ссылками через Facebook, Twitter и другие социальные сети?</text>
+      <sha1>riqwvthp5cgx5rlc3nyax9azlx6sb20</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dismiss notice</title>
+    <ns>8</ns>
+    <id>32938</id>
+    <revision>
+      <id>204010</id>
+      <timestamp>2013-10-28T13:58:45Z</timestamp>
+      <contributor>
+        <username>HEKP0H</username>
+        <id>40</id>
+      </contributor>
+      <comment>Новая страница: «Закрыть»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Закрыть</text>
+      <sha1>8qy3w3lpjfye9req79714cjfv9vrbcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Edit achievement</title>
+    <ns>8</ns>
+    <id>75051</id>
+    <revision>
+      <id>412671</id>
+      <timestamp>2015-09-04T19:18:06Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Править»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Править</text>
+      <sha1>0htpjucvyn6i2til5ym0g3c3hvpexhu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Favoritewiki</title>
+    <ns>8</ns>
+    <id>40425</id>
+    <revision>
+      <id>248367</id>
+      <timestamp>2014-05-09T19:48:24Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Домашняя вики»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Домашняя вики</text>
+      <sha1>ssjohqcunmoy46glddlulxg54ggx2x2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Friends</title>
+    <ns>8</ns>
+    <id>40430</id>
+    <revision>
+      <id>248372</id>
+      <timestamp>2014-05-09T19:48:45Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Друзья»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Друзья</text>
+      <sha1>gvj6pq11r5efq40ghsqid8ccvbwnhfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Locationlabel</title>
+    <ns>8</ns>
+    <id>113525</id>
+    <revision>
+      <id>662939</id>
+      <timestamp>2018-03-01T08:55:13Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Местоположение»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28">Местоположение</text>
+      <sha1>f9s4ff9euy17ess3sq0xtutp6hxq2kc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Login name</title>
+    <ns>8</ns>
+    <id>40580</id>
+    <revision>
+      <id>249315</id>
+      <parentid>249314</parentid>
+      <timestamp>2014-05-13T18:20:33Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <minor/>
+      <comment>Тег не поддерживается )-:</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36">Ваш никнейм или e-mail:</text>
+      <sha1>2ptmkuij7k70af0buxv9s7u7m211w56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-register</title>
+    <ns>8</ns>
+    <id>82178</id>
+    <revision>
+      <id>440441</id>
+      <timestamp>2015-12-24T11:55:15Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Регистрация»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Регистрация</text>
+      <sha1>dbzpjk5228aw4i21enax4dglm2df8qs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-signin</title>
+    <ns>8</ns>
+    <id>82181</id>
+    <revision>
+      <id>440444</id>
+      <timestamp>2015-12-24T11:55:39Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Войти»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Войти</text>
+      <sha1>h8rpfweta9zqwpdv2acy6q1z620uolw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-user-page</title>
+    <ns>8</ns>
+    <id>82176</id>
+    <revision>
+      <id>440439</id>
+      <timestamp>2015-12-24T11:54:41Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Моя страница»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Моя страница</text>
+      <sha1>g10s7r7h9gbntzznf0nobiucmvuimye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:New password</title>
+    <ns>8</ns>
+    <id>82185</id>
+    <revision>
+      <id>440448</id>
+      <timestamp>2015-12-24T11:56:38Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Новый пароль»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Новый пароль</text>
+      <sha1>b0vtxwq3kmsxzlfb5d7e17rbuzv2i3r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-help-email</title>
+    <ns>8</ns>
+    <id>34206</id>
+    <revision>
+      <id>212187</id>
+      <timestamp>2013-12-15T19:33:34Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Необходимо указать адрес электронной почты.»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="81">Необходимо указать адрес электронной почты.</text>
+      <sha1>pi0w4lpk4iwz5w3omxeoojyh8mt39jj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-location</title>
+    <ns>8</ns>
+    <id>113524</id>
+    <revision>
+      <id>662938</id>
+      <timestamp>2018-03-01T08:54:51Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Местоположение»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28">Местоположение</text>
+      <sha1>f9s4ff9euy17ess3sq0xtutp6hxq2kc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-profiles</title>
+    <ns>8</ns>
+    <id>113526</id>
+    <revision>
+      <id>662940</id>
+      <timestamp>2018-03-01T08:56:46Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Другие профили»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Другие профили</text>
+      <sha1>ofxdacnpes3jyzffgizen2d3dux3smc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-public</title>
+    <ns>8</ns>
+    <id>113520</id>
+    <revision>
+      <id>662934</id>
+      <timestamp>2018-03-01T08:52:07Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Общедоступный профиль»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41">Общедоступный профиль</text>
+      <sha1>l1xf60lam4z0lfnq02p0t0c811lssas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-created</title>
+    <ns>8</ns>
+    <id>103742</id>
+    <revision>
+      <id>578978</id>
+      <timestamp>2017-05-11T13:31:24Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Создал страницу»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Создал страницу</text>
+      <sha1>9trnpa9o8y0vy7fzfhpu8s22x2m78wr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-edited</title>
+    <ns>8</ns>
+    <id>103743</id>
+    <revision>
+      <id>578979</id>
+      <timestamp>2017-05-11T13:32:00Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Отредактировал страницу»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45">Отредактировал страницу</text>
+      <sha1>0gejo19jobje0rw0wru1xdi1uvyn06b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilelink-help</title>
+    <ns>8</ns>
+    <id>113529</id>
+    <revision>
+      <id>662943</id>
+      <timestamp>2018-03-01T08:59:25Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Чтобы вышеуказанные ссылки на профили отображались, они должны в точности соответствов…»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="227">Чтобы вышеуказанные ссылки на профили отображались, они должны в точности соответствовать формату, приведённому в примере.</text>
+      <sha1>1bm1slo7ymqstouu0rogb7vz9gnm8bx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileprefselect</title>
+    <ns>8</ns>
+    <id>40806</id>
+    <revision>
+      <id>249795</id>
+      <timestamp>2014-05-15T13:52:48Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Тип личной страницы»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36">Тип личной страницы</text>
+      <sha1>n76zu5v17w3ncaq0a9w6sqcoo530n3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Purge</title>
+    <ns>8</ns>
+    <id>103031</id>
+    <revision>
+      <id>573230</id>
+      <timestamp>2017-04-15T18:56:58Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «обновить»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">обновить</text>
+      <sha1>94i9gff7nf7s7litwqz1g0ycd1l3rms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Rank</title>
+    <ns>8</ns>
+    <id>38973</id>
+    <revision>
+      <id>238746</id>
+      <timestamp>2014-03-20T19:18:48Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Место»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Место</text>
+      <sha1>glxavdrnyaiiy9l3tg9ytrpl03occh7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Removefriend</title>
+    <ns>8</ns>
+    <id>40668</id>
+    <revision>
+      <id>249654</id>
+      <timestamp>2014-05-15T12:57:43Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Убрать из друзей»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30">Убрать из друзей</text>
+      <sha1>0xtwq5iz1cugkh64wyxx3p2q9o3kl4m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Retype new password</title>
+    <ns>8</ns>
+    <id>99368</id>
+    <revision>
+      <id>549281</id>
+      <timestamp>2017-01-31T19:58:17Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Повторите новый пароль»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42">Повторите новый пароль</text>
+      <sha1>qjbua2cenyfru84shgo8whjygbs7lr8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Score</title>
+    <ns>8</ns>
+    <id>38976</id>
+    <revision>
+      <id>238749</id>
+      <timestamp>2014-03-20T19:24:53Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Очки»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Очки</text>
+      <sha1>gs6c4o4pm01mi8t1au4ihqmur6u3l66</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing</title>
+    <ns>8</ns>
+    <id>30829</id>
+    <revision>
+      <id>193924</id>
+      <timestamp>2013-09-21T16:48:47Z</timestamp>
+      <contributor>
+        <username>Norrius</username>
+        <id>1035</id>
+      </contributor>
+      <comment>Новая страница: «Поделиться»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Поделиться</text>
+      <sha1>hys5qu3zn95gi9f5gatitdn8qaw6zys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors</title>
+    <ns>8</ns>
+    <id>38968</id>
+    <revision>
+      <id>238828</id>
+      <parentid>238726</parentid>
+      <timestamp>2014-03-21T10:12:28Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <minor/>
+      <comment>может, лучше так?</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="61">Наиболее активные редакторы вики</text>
+      <sha1>cbf6toc4s88j0o23pm8g2oxl1esryl4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcontribs</title>
+    <ns>8</ns>
+    <id>40790</id>
+    <revision>
+      <id>249776</id>
+      <timestamp>2014-05-15T13:26:29Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Вклад»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Вклад</text>
+      <sha1>16wmuuui1xvnnunzyvf48gznkt7xjib</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaldeletes</title>
+    <ns>8</ns>
+    <id>40787</id>
+    <revision>
+      <id>249773</id>
+      <timestamp>2014-05-15T13:26:22Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Удалённых»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Удалённых</text>
+      <sha1>o3gk7yicdsouwtumdmcxr43lwn2ddyq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Userprofiletab</title>
+    <ns>8</ns>
+    <id>40800</id>
+    <revision>
+      <id>249786</id>
+      <timestamp>2014-05-15T13:42:06Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Профиль»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Профиль</text>
+      <sha1>rgev9huvcf7k0ftemut1kmros5ffmyh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wiki user</title>
+    <ns>8</ns>
+    <id>53194</id>
+    <revision>
+      <id>327337</id>
+      <timestamp>2015-01-21T18:10:02Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Участник»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Участник</text>
+      <sha1>dwf0jr5qnman6zvrbslsvayvftctzav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikisedited</title>
+    <ns>8</ns>
+    <id>82100</id>
+    <revision>
+      <id>440348</id>
+      <timestamp>2015-12-24T11:31:32Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Кол-во ред. вики»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28">Кол-во ред. вики</text>
+      <sha1>f7590uvf0n8gkvqh5zturdj084zarjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalpatrols</title>
+    <ns>8</ns>
+    <id>40794</id>
+    <revision>
+      <id>249780</id>
+      <timestamp>2014-05-15T13:29:02Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Проверенных»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Проверенных</text>
+      <sha1>0jqm4lwcjdkaul9un5n0svoxtqdlnmt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalfriends</title>
+    <ns>8</ns>
+    <id>40782</id>
+    <revision>
+      <id>249768</id>
+      <timestamp>2014-05-15T13:22:23Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Друзья&lt;br&gt;([[Special:Friends/$1|{{#ifeq: $1 | $2 | Редактировать список друзей  | Просмотреть всех }}]])»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="150">Друзья&lt;br&gt;([[Special:Friends/$1|{{#ifeq: $1 | $2 | Редактировать список друзей
+ | Просмотреть всех }}]])</text>
+      <sha1>3261arwu49l63hod4j8618pwcuvmhc2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaledits</title>
+    <ns>8</ns>
+    <id>40784</id>
+    <revision>
+      <id>249770</id>
+      <timestamp>2014-05-15T13:23:32Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Правок»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Правок</text>
+      <sha1>gjilg0mx1ljt413b3uqt5fabnumrczc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements error</title>
+    <ns>8</ns>
+    <id>74554</id>
+    <revision>
+      <id>412646</id>
+      <parentid>410242</parentid>
+      <timestamp>2015-09-04T18:59:22Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <minor/>
+      <comment>Asassin 1 переименовал страницу [[MediaWiki:Achievements error/en]] в [[MediaWiki:Achievements error]] без оставления перенаправления</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33">Ошибка достижений</text>
+      <sha1>g8maamnxpjg0fcyefsbxljpnmrzewa0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Active</title>
+    <ns>8</ns>
+    <id>55158</id>
+    <revision>
+      <id>331254</id>
+      <timestamp>2015-01-27T16:59:57Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Активные участники»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">Активные участники</text>
+      <sha1>r472k6hwgdjuig0hdvhm2af55o1iknq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add condition</title>
+    <ns>8</ns>
+    <id>75097</id>
+    <revision>
+      <id>412720</id>
+      <timestamp>2015-09-04T19:49:39Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Добавить условие»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">Добавить условие</text>
+      <sha1>5rrc3lha50p5jx5dkjifwdrkfp0cnag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add achievement</title>
+    <ns>8</ns>
+    <id>75047</id>
+    <revision>
+      <id>412667</id>
+      <timestamp>2015-09-04T19:16:34Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Добавить»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Добавить</text>
+      <sha1>9zzasjuxcv1qh5rcej38hrsros95txj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites</title>
+    <ns>8</ns>
+    <id>53421</id>
+    <revision>
+      <id>328056</id>
+      <parentid>328050</parentid>
+      <timestamp>2015-01-23T11:23:06Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Все вики сети</text>
+      <sha1>cgqqvzjoa593ai5kf4iy6tfneddlode</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award</title>
+    <ns>8</ns>
+    <id>75042</id>
+    <revision>
+      <id>412662</id>
+      <timestamp>2015-09-04T19:12:47Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Присвоить»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Присвоить</text>
+      <sha1>6s5pj5rlr1wdezfp6fu0n8mur081weh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award hint</title>
+    <ns>8</ns>
+    <id>75044</id>
+    <revision>
+      <id>412664</id>
+      <timestamp>2015-09-04T19:14:52Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Введите имя участника, выберите достижение, затем щёлкните по необходимому действию»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="155">Введите имя участника, выберите достижение, затем щёлкните по необходимому действию</text>
+      <sha1>gwe6wib8vxru5tqmjwqthc4um5fxxdq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Choose username</title>
+    <ns>8</ns>
+    <id>30760</id>
+    <revision>
+      <id>193711</id>
+      <timestamp>2013-09-21T13:55:41Z</timestamp>
+      <contributor>
+        <username>Norrius</username>
+        <id>1035</id>
+      </contributor>
+      <comment>Новая страница: «Выберите имя пользователя»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">Выберите имя пользователя</text>
+      <sha1>8t9cf9e6d5c91zye7y6nn95ytxjy3u8</sha1>
+    </revision>
+  </page>
+</mediawiki>
