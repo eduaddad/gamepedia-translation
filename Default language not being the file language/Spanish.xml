@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="es">
+  <siteinfo>
+    <sitename>Minecraft Wiki</sitename>
+    <dbname>minecraft_es_gamepedia</dbname>
+    <base>https://minecraft-es.gamepedia.com/Minecraft_Wiki</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medio</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discusión</namespace>
+      <namespace key="2" case="first-letter">Usuario</namespace>
+      <namespace key="3" case="first-letter">Usuario discusión</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki</namespace>
+      <namespace key="5" case="first-letter">Minecraft Wiki discusión</namespace>
+      <namespace key="6" case="first-letter">Archivo</namespace>
+      <namespace key="7" case="first-letter">Archivo discusión</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki discusión</namespace>
+      <namespace key="10" case="first-letter">Plantilla</namespace>
+      <namespace key="11" case="first-letter">Plantilla discusión</namespace>
+      <namespace key="12" case="first-letter">Ayuda</namespace>
+      <namespace key="13" case="first-letter">Ayuda discusión</namespace>
+      <namespace key="14" case="first-letter">Categoría</namespace>
+      <namespace key="15" case="first-letter">Categoría discusión</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo discusión</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Dismiss notice/es</title>
+    <ns>8</ns>
+    <id>16983</id>
+    <revision>
+      <id>64854</id>
+      <timestamp>2014-09-19T12:09:08Z</timestamp>
+      <contributor>
+        <username>@DeletedUser168929</username>
+        <id>168929</id>
+      </contributor>
+      <comment>Página creada con «Quitar»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Quitar</text>
+      <sha1>m8yz7kxytxye9zvxh6kp4x0cu4q9awg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing/es</title>
+    <ns>8</ns>
+    <id>9322</id>
+    <revision>
+      <id>35755</id>
+      <timestamp>2014-04-16T21:54:01Z</timestamp>
+      <contributor>
+        <username>Kingpowl</username>
+        <id>235</id>
+      </contributor>
+      <comment>Página creada con «Compartir»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Compartir</text>
+      <sha1>itg9serj9ocqi45animt4m36cuywklo</sha1>
+    </revision>
+  </page>
+</mediawiki>
