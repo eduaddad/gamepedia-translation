@@ -1,0 +1,1576 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de">
+  <siteinfo>
+    <sitename>Minecraft Wiki</sitename>
+    <dbname>minecraft_de_gamepedia</dbname>
+    <base>https://minecraft-de.gamepedia.com/Minecraft_Wiki</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki</namespace>
+      <namespace key="5" case="first-letter">Minecraft Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Modul Diskussion</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget Diskussion</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Aboutme/de</title>
+    <ns>8</ns>
+    <id>28982</id>
+    <revision>
+      <id>246764</id>
+      <timestamp>2014-05-09T06:25:40Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Über mich</text>
+      <sha1>qnirzpjssbq3p51i1idzj71ev3vue5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Aboutmehelp/de</title>
+    <ns>8</ns>
+    <id>28988</id>
+    <revision>
+      <id>246770</id>
+      <timestamp>2014-05-09T06:28:39Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">Wikitext steht für die Formatierung zur Verfügung.</text>
+      <sha1>15ngno0b4u0cxray2uyfz0df7iroazf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements/de</title>
+    <ns>8</ns>
+    <id>42679</id>
+    <revision>
+      <id>363550</id>
+      <timestamp>2015-08-30T12:35:47Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Erfolge</text>
+      <sha1>hynpda7djrqkkbzqlxcel9mlxzwuhci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievementsearned/de</title>
+    <ns>8</ns>
+    <id>42666</id>
+    <revision>
+      <id>409503</id>
+      <parentid>363537</parentid>
+      <timestamp>2016-04-17T15:18:15Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <comment>Übersetzung an geändertes Original angepasst</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Erfolge</text>
+      <sha1>hynpda7djrqkkbzqlxcel9mlxzwuhci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addfriend/de</title>
+    <ns>8</ns>
+    <id>29124</id>
+    <revision>
+      <id>246984</id>
+      <timestamp>2014-05-09T10:38:03Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>hoffentlich ist der Text nicht zu lang...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Als Freund hinzufügen</text>
+      <sha1>q59huu54f2cl2p4vjp31x5yj6w33lsi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Auth continue/de</title>
+    <ns>8</ns>
+    <id>58019</id>
+    <revision>
+      <id>484724</id>
+      <parentid>484712</parentid>
+      <timestamp>2017-06-11T14:27:43Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <comment>Violine1101 verschob die Seite [[MediaWiki Diskussion:Auth continue]] nach [[MediaWiki:Auth continue]], ohne dabei eine Weiterleitung anzulegen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Fortfahren</text>
+      <sha1>5jx5hr0h0qj1rj8cgn69n9aee99or31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avatar-help/de</title>
+    <ns>8</ns>
+    <id>28989</id>
+    <revision>
+      <id>246771</id>
+      <timestamp>2014-05-09T06:31:56Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="169">Gamepedia nutzt Gravatar, um einen Avatar, basierend auf deiner E-Mail-Adresse, anzuzeigen. Besuche [http://www.gravatar.com/ gravatar.com], um deinen Avatar zu ändern.</text>
+      <sha1>9rwna6wox475q1f74a30vrnz2wkstug</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Awardachievement/de</title>
+    <ns>8</ns>
+    <id>42957</id>
+    <revision>
+      <id>365160</id>
+      <timestamp>2015-09-02T19:09:12Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Erfolge zuweisen oder aberkennen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32">Erfolge zuweisen oder aberkennen</text>
+      <sha1>g9gtb7myc28m7fawtjd9ha8ac0jrh90</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentaction/de</title>
+    <ns>8</ns>
+    <id>28913</id>
+    <revision>
+      <id>246623</id>
+      <timestamp>2014-05-08T19:10:57Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Posten“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Posten</text>
+      <sha1>98jsau6688f1mangjj7mdyzzsiyymss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentarchivelink/de</title>
+    <ns>8</ns>
+    <id>28921</id>
+    <revision>
+      <id>246631</id>
+      <timestamp>2014-05-08T19:11:52Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Kommentararchiv“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Kommentararchiv</text>
+      <sha1>p7457fhu1w7keevni1e3n6xstrrhrr5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-empty/de</title>
+    <ns>8</ns>
+    <id>29104</id>
+    <revision>
+      <id>247946</id>
+      <parentid>246913</parentid>
+      <timestamp>2014-05-12T17:54:44Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36">Hier befinden sich keine Kommentare.</text>
+      <sha1>s2y5bf73dfo62wj661418osxe62co6i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-link-backtoprofile/de</title>
+    <ns>8</ns>
+    <id>42780</id>
+    <revision>
+      <id>363825</id>
+      <timestamp>2015-08-30T18:37:16Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Zurück zum Profil“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Zurück zum Profil</text>
+      <sha1>hw4dzb9o4l6p4gqk3ro5xs53atbdui6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-title/de</title>
+    <ns>8</ns>
+    <id>29387</id>
+    <revision>
+      <id>247943</id>
+      <timestamp>2014-05-12T17:47:14Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Kommentarseite: $1“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Kommentarseite: $1</text>
+      <sha1>d39e0aw7pfwterapu2h8vipm7d4hv7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentmoderation/de</title>
+    <ns>8</ns>
+    <id>46987</id>
+    <revision>
+      <id>397036</id>
+      <timestamp>2016-02-07T15:59:30Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Gemeldete Kommentare“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Gemeldete Kommentare</text>
+      <sha1>mhfajf7iqo1hbrzf4d8ia8frgsvpc13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentplaceholder/de</title>
+    <ns>8</ns>
+    <id>28919</id>
+    <revision>
+      <id>246629</id>
+      <timestamp>2014-05-08T19:11:37Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Hinterlasse einen Kommentar“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Hinterlasse einen Kommentar</text>
+      <sha1>9xir4pbiopsdjp8gckvcatzg3ntxbrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection/de</title>
+    <ns>8</ns>
+    <id>42663</id>
+    <revision>
+      <id>426806</id>
+      <parentid>409500</parentid>
+      <timestamp>2016-07-15T20:42:58Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <comment>Übersetzung an geändertes Original angepasst</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Erfolge</text>
+      <sha1>hynpda7djrqkkbzqlxcel9mlxzwuhci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-editprofile/de</title>
+    <ns>8</ns>
+    <id>28907</id>
+    <revision>
+      <id>246617</id>
+      <timestamp>2014-05-08T19:09:34Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Profil bearbeiten“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Profil bearbeiten</text>
+      <sha1>ovah5a2rqdc617n5yo4hdw1g8l5t7jg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection/de</title>
+    <ns>8</ns>
+    <id>43047</id>
+    <revision>
+      <id>426807</id>
+      <parentid>366471</parentid>
+      <timestamp>2016-07-15T20:42:58Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <comment>Übersetzung an geändertes Original angepasst</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Freunde</text>
+      <sha1>qttphhfmpe0acnz6gnukx80kpy2gm8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection-all/de</title>
+    <ns>8</ns>
+    <id>51133</id>
+    <revision>
+      <id>426643</id>
+      <parentid>426640</parentid>
+      <timestamp>2016-07-14T17:12:40Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>konsistent zu anderen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="83">([[Special:Friends/$1/$3|{{#ifeq: $1 | $2 | Freunde verwalten | Alle anzeigen }}]])</text>
+      <sha1>3da7hd4wnupgeebkshh40xyu5iwt4le</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentactivitysection/de</title>
+    <ns>8</ns>
+    <id>28908</id>
+    <revision>
+      <id>246618</id>
+      <timestamp>2014-05-08T19:09:51Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Letzte Aktivität“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Letzte Aktivität</text>
+      <sha1>tft5lmvslie65mzq3ubnmxybm0iqzo7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentcommentssection/de</title>
+    <ns>8</ns>
+    <id>28917</id>
+    <revision>
+      <id>246627</id>
+      <timestamp>2014-05-08T19:11:23Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Letzte Kommentare“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Letzte Kommentare</text>
+      <sha1>9rufp8ug9gl2t750tonc6ugulo8krqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-statisticssection/de</title>
+    <ns>8</ns>
+    <id>28910</id>
+    <revision>
+      <id>246620</id>
+      <timestamp>2014-05-08T19:10:08Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Statistik“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Statistik</text>
+      <sha1>0p5t5ung0yu0m4c7b86k02xd3324ycg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangeemail/de</title>
+    <ns>8</ns>
+    <id>20301</id>
+    <revision>
+      <id>153892</id>
+      <parentid>153864</parentid>
+      <timestamp>2013-09-21T08:18:23Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38">Curse Account - E-Mail-Adresse ändern</text>
+      <sha1>keo1xz6ipo3h6f0mcyzbrrmfmilacfa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangepassword/de</title>
+    <ns>8</ns>
+    <id>20305</id>
+    <revision>
+      <id>153874</id>
+      <timestamp>2013-09-21T07:57:50Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32">Curse Account - Passwort ändern</text>
+      <sha1>7df7k46b0zoikc46ritwkh9v09e1qtz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Disable social prompts/de</title>
+    <ns>8</ns>
+    <id>20433</id>
+    <revision>
+      <id>154326</id>
+      <timestamp>2013-09-21T20:28:28Z</timestamp>
+      <contributor>
+        <username>Oliver Scholz</username>
+        <id>6833</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Deaktiviert die Pop-up-Aufforderungen zum Teilen auf Facebook, Twitter, etc.“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="76">Deaktiviert die Pop-up-Aufforderungen zum Teilen auf Facebook, Twitter, etc.</text>
+      <sha1>rk5j36fn4b7rrfshn263155jcpruc5s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dismiss notice/de</title>
+    <ns>8</ns>
+    <id>22123</id>
+    <revision>
+      <id>170686</id>
+      <parentid>170685</parentid>
+      <timestamp>2013-11-02T20:13:10Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/ILeonx|ILeonx]] ([[User talk:ILeonx|Diskussion]]) wurden auf die letzte Version von [[User:Xzipx|Xzipx]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Schließen</text>
+      <sha1>7z1jb90lp7tdaij7st4solmgoa70p8f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Edit achievement/de</title>
+    <ns>8</ns>
+    <id>42937</id>
+    <revision>
+      <id>365098</id>
+      <timestamp>2015-09-02T17:58:43Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Bearbeiten“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Bearbeiten</text>
+      <sha1>1wl1v72du2p9mk24b26o8x0pvvt2syl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Empty-location-text-mod/de</title>
+    <ns>8</ns>
+    <id>60670</id>
+    <revision>
+      <id>510676</id>
+      <timestamp>2017-10-12T17:33:21Z</timestamp>
+      <contributor>
+        <username>MarkusRost</username>
+        <id>303703</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Es wurde kein Wohnort angegeben, klicke zum Bearbeiten.“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55">Es wurde kein Wohnort angegeben, klicke zum Bearbeiten.</text>
+      <sha1>snj4hdivr4znh84tb4yojq681gow2f5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Favoritewiki/de</title>
+    <ns>8</ns>
+    <id>28900</id>
+    <revision>
+      <id>246610</id>
+      <timestamp>2014-05-08T19:06:44Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Lieblingswiki“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Lieblingswiki</text>
+      <sha1>b7yri86d9yr5pxkrbrucljjxpmcdsj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-Careers/de</title>
+    <ns>8</ns>
+    <id>40162</id>
+    <revision>
+      <id>340828</id>
+      <timestamp>2015-04-11T20:25:51Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Karriere“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Karriere</text>
+      <sha1>8iuii88humorwh615i26f5rekbhlf71</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-Contact Us/de</title>
+    <ns>8</ns>
+    <id>63296</id>
+    <revision>
+      <id>537486</id>
+      <parentid>537485</parentid>
+      <timestamp>2018-08-13T15:19:06Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>kompakter</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Kontakt</text>
+      <sha1>jre8g1tsqpb0dnr9kfbkvx9ptimblye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-My Account/de</title>
+    <ns>8</ns>
+    <id>40165</id>
+    <revision>
+      <id>340831</id>
+      <timestamp>2015-04-11T20:26:17Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Mein Account“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Mein Account</text>
+      <sha1>pxd5k4fbgtv5a142nvddapk8iv9tlhg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Friends/de</title>
+    <ns>8</ns>
+    <id>29020</id>
+    <revision>
+      <id>246808</id>
+      <timestamp>2014-05-09T07:17:23Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Freunde</text>
+      <sha1>qttphhfmpe0acnz6gnukx80kpy2gm8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Localrank/de</title>
+    <ns>8</ns>
+    <id>29017</id>
+    <revision>
+      <id>419187</id>
+      <parentid>409497</parentid>
+      <timestamp>2016-06-03T08:16:02Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">{{SITENAME}}-Rang ([[Special:WikiPoints|Liste]])</text>
+      <sha1>sckdvzh68jo2wk6l4r6f7uk7yvx6xvw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Locationlabel/de</title>
+    <ns>8</ns>
+    <id>60673</id>
+    <revision>
+      <id>510685</id>
+      <timestamp>2017-10-12T18:00:06Z</timestamp>
+      <contributor>
+        <username>MarkusRost</username>
+        <id>303703</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Wohnort“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Wohnort</text>
+      <sha1>933z67fju4a8ygxz68cu2s1s311raqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Login name/de</title>
+    <ns>8</ns>
+    <id>21443</id>
+    <revision>
+      <id>161447</id>
+      <timestamp>2013-10-13T21:50:32Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „E-Mail-Adresse oder Nutzername:“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">E-Mail-Adresse oder Nutzername:</text>
+      <sha1>2tba1tbmgsgqyq0u0fxst5m27evdtck</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-register/de</title>
+    <ns>8</ns>
+    <id>40179</id>
+    <revision>
+      <id>340848</id>
+      <timestamp>2015-04-11T20:36:59Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Registrieren“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Registrieren</text>
+      <sha1>2hnhx86xs07ueu04rn6q6xpmkfhr1ri</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-signin/de</title>
+    <ns>8</ns>
+    <id>40180</id>
+    <revision>
+      <id>484721</id>
+      <parentid>340849</parentid>
+      <timestamp>2017-06-11T14:24:26Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <comment>Warum einen Anglizismus verwenden, wenn es schon ein wunderbares deutsches Wort dafür gibt?</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Anmelden</text>
+      <sha1>itwe9cka081ao5qzbq0rbcyyexnidyb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-user-page/de</title>
+    <ns>8</ns>
+    <id>40247</id>
+    <revision>
+      <id>341288</id>
+      <timestamp>2015-04-16T20:44:12Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Benutzerseite</text>
+      <sha1>ledntlaj5dwj0yv5g43q3tqnr6xizqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:New account social/de</title>
+    <ns>8</ns>
+    <id>20841</id>
+    <revision>
+      <id>157096</id>
+      <parentid>157095</parentid>
+      <timestamp>2013-09-28T15:14:03Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="85">Danke für das Erstellen eines Accounts! Möchtest Du das mit deinen Freunden teilen?</text>
+      <sha1>9fda6c7qr02a2ts7js5cybsrcs8bcjn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:New password/de</title>
+    <ns>8</ns>
+    <id>20339</id>
+    <revision>
+      <id>153995</id>
+      <timestamp>2013-09-21T11:50:58Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Neues Passwort“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Neues Passwort</text>
+      <sha1>nv7jc8kwu6hw9l8o0s7qklydy0knvp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Pendingrequests/de</title>
+    <ns>8</ns>
+    <id>29127</id>
+    <revision>
+      <id>246993</id>
+      <timestamp>2014-05-09T10:46:23Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Unerledigte Anfragen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Unerledigte Anfragen</text>
+      <sha1>tktvltx9o9ed7k6vf4pr15591do56h6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-help-email/de</title>
+    <ns>8</ns>
+    <id>25300</id>
+    <revision>
+      <id>192877</id>
+      <timestamp>2013-12-30T11:06:36Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">Eine E-Mail-Adresse wird benötigt.</text>
+      <sha1>bmwmp481s0thxe4okrvhwdi3w7gm86v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-location/de</title>
+    <ns>8</ns>
+    <id>28991</id>
+    <revision>
+      <id>246773</id>
+      <timestamp>2014-05-09T06:32:59Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Standort</text>
+      <sha1>s32enif5xpkr31b5gfma8s5nyu62t7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-profiles/de</title>
+    <ns>8</ns>
+    <id>28997</id>
+    <revision>
+      <id>246782</id>
+      <timestamp>2014-05-09T06:37:32Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Andere Profile</text>
+      <sha1>294nrujp6vcp58kgppcbtg8o61he0iz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-public/de</title>
+    <ns>8</ns>
+    <id>29014</id>
+    <revision>
+      <id>246799</id>
+      <timestamp>2014-05-09T06:52:54Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Öffentliches Profil</text>
+      <sha1>tbuuna1uldzsz9fcg7fo3sngw0liw4s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-created/de</title>
+    <ns>8</ns>
+    <id>28911</id>
+    <revision>
+      <id>363998</id>
+      <parentid>246621</parentid>
+      <timestamp>2015-08-31T02:31:07Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Erstellte</text>
+      <sha1>fqsm1ojphpxumfek4o8eqp36rtq5zes</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-edited/de</title>
+    <ns>8</ns>
+    <id>28912</id>
+    <revision>
+      <id>255916</id>
+      <parentid>246622</parentid>
+      <timestamp>2014-06-19T14:39:18Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Vergangenheitsform angewendet</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Bearbeitete</text>
+      <sha1>nhcr5qwhru9vnb5z08eg4jmu2ui7tou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilelink-help/de</title>
+    <ns>8</ns>
+    <id>29004</id>
+    <revision>
+      <id>246789</id>
+      <timestamp>2014-05-09T06:44:39Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="108">Die oben aufgeführten Profile müssen exakt dem Beispielformat entsprechen, um korrekt angezeigt zu werden.</text>
+      <sha1>s0xudxquu0bhcpkpitzy6t3eizohu34</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileprefselect/de</title>
+    <ns>8</ns>
+    <id>28923</id>
+    <revision>
+      <id>468555</id>
+      <parentid>246633</parentid>
+      <timestamp>2017-04-15T11:31:46Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Profiltyp</text>
+      <sha1>ate72tu7ta7b5eh64elrtxd4epn91w9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Rank/de</title>
+    <ns>8</ns>
+    <id>29032</id>
+    <revision>
+      <id>246826</id>
+      <timestamp>2014-05-09T07:44:07Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4">Rang</text>
+      <sha1>pnxoky3i77bx94jyf6e30yqxu10uqdu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Redirect to gamepedia/de</title>
+    <ns>8</ns>
+    <id>58022</id>
+    <revision>
+      <id>484722</id>
+      <parentid>484715</parentid>
+      <timestamp>2017-06-11T14:26:05Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="272">=== Du wirst automatisch zum Gamepedia-Portal weitergeleitet ... ===
+Alle Anmeldungen werden nun auf dem zentralen Gamepedia.com-Portal verwaltet.
+
+Du wirst innerhalb der nächsten fünf Sekunden weitergeleitet. Alternativ kannst du aber auch auf „Fortfahren“ klicken.</text>
+      <sha1>qo69bkbd57uwlpti1ye3huog75wh5ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Removefriend/de</title>
+    <ns>8</ns>
+    <id>29016</id>
+    <revision>
+      <id>246804</id>
+      <timestamp>2014-05-09T07:09:11Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Freund entfernen</text>
+      <sha1>2x0gz0wjllrhaef0qfimx118dkfa59e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Retype new password/de</title>
+    <ns>8</ns>
+    <id>20340</id>
+    <revision>
+      <id>153996</id>
+      <timestamp>2013-09-21T11:51:43Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30">Neues Passwort erneut eingeben</text>
+      <sha1>2vbfizr1eiucnx4eurez9dhdphsf92b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Score/de</title>
+    <ns>8</ns>
+    <id>29035</id>
+    <revision>
+      <id>246829</id>
+      <timestamp>2014-05-09T07:44:51Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Punktestand</text>
+      <sha1>g6cqgse1k6e1f4h2ffg3zruigirz1dq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Senddirectrequest/de</title>
+    <ns>8</ns>
+    <id>29021</id>
+    <revision>
+      <id>246809</id>
+      <timestamp>2014-05-09T07:18:10Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt/de</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39">Versende eine neue Freundschaftsanfrage</text>
+      <sha1>dknwgtzri6n3swogxlhxehffxmucq59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sendrequest/de</title>
+    <ns>8</ns>
+    <id>29025</id>
+    <revision>
+      <id>246813</id>
+      <timestamp>2014-05-09T07:19:18Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Anfrage senden</text>
+      <sha1>toa02wgk28iqqlfvwjxe3se8ofdf9iz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing/de</title>
+    <ns>8</ns>
+    <id>20260</id>
+    <revision>
+      <id>153595</id>
+      <parentid>153594</parentid>
+      <timestamp>2013-09-20T15:27:14Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Teilen</text>
+      <sha1>krqf1bl8xwpm7rffadtzwkja0wcacou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors/de</title>
+    <ns>8</ns>
+    <id>29031</id>
+    <revision>
+      <id>246825</id>
+      <timestamp>2014-05-09T07:43:29Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26">Die aktivsten Wiki-Autoren</text>
+      <sha1>0n4lutnmrcna40zli9i9o6wlyh268wo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors monthly/de</title>
+    <ns>8</ns>
+    <id>51267</id>
+    <revision>
+      <id>428160</id>
+      <timestamp>2016-07-22T22:42:12Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Die aktivsten Wiki-Autoren - Monatlich“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38">Die aktivsten Wiki-Autoren - Monatlich</text>
+      <sha1>3mktt9oqex2tpkynjlc3fhfbwacxebv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcontribs/de</title>
+    <ns>8</ns>
+    <id>28881</id>
+    <revision>
+      <id>246567</id>
+      <timestamp>2014-05-08T17:46:46Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Beiträge“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Beiträge</text>
+      <sha1>6l2l5holw8z70xdlq3yy64noa0r3z7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaldeletes/de</title>
+    <ns>8</ns>
+    <id>28903</id>
+    <revision>
+      <id>246613</id>
+      <timestamp>2014-05-08T19:09:03Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Löschungen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Löschungen</text>
+      <sha1>caz540mhxjuzj85446ov7r72hm7ggyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Userprofiletab/de</title>
+    <ns>8</ns>
+    <id>28877</id>
+    <revision>
+      <id>246563</id>
+      <timestamp>2014-05-08T17:45:21Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Benutzerprofil“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Benutzerprofil</text>
+      <sha1>n0odiwkqd9wzd0parj3jm5upmbrmsk8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wiki user/de</title>
+    <ns>8</ns>
+    <id>28893</id>
+    <revision>
+      <id>246579</id>
+      <timestamp>2014-05-08T17:49:05Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Benutzer“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Benutzer</text>
+      <sha1>m3f85aez4pfcdxpjc35pvsbzpn21yue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikisedited/de</title>
+    <ns>8</ns>
+    <id>28901</id>
+    <revision>
+      <id>484687</id>
+      <parentid>246611</parentid>
+      <timestamp>2017-06-11T14:11:50Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Bearbeitete Wikis</text>
+      <sha1>5ju8ot3s18g866fdqfrdmamzac4pn8d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalpatrols/de</title>
+    <ns>8</ns>
+    <id>28904</id>
+    <revision>
+      <id>246614</id>
+      <timestamp>2014-05-08T19:09:14Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Kontrollen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Kontrollen</text>
+      <sha1>f0jrpljlnea72nm8416rvq5q6ydqso6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalfriends/de</title>
+    <ns>8</ns>
+    <id>28886</id>
+    <revision>
+      <id>409504</id>
+      <parentid>246572</parentid>
+      <timestamp>2016-04-17T15:20:55Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <comment>Übersetzung an geändertes Original angepasst</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Freunde</text>
+      <sha1>qttphhfmpe0acnz6gnukx80kpy2gm8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaledits/de</title>
+    <ns>8</ns>
+    <id>28884</id>
+    <revision>
+      <id>246570</id>
+      <timestamp>2014-05-08T17:47:02Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Bearbeitungen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Bearbeitungen</text>
+      <sha1>ckw3c86u0qc64gik32pk602cs0415aj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-delete achievements/de</title>
+    <ns>8</ns>
+    <id>42680</id>
+    <revision>
+      <id>363551</id>
+      <timestamp>2015-08-30T12:36:26Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Erfolge löschen</text>
+      <sha1>3m993ohmceq9lgax4yzb90x4bahmusd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements error/de</title>
+    <ns>8</ns>
+    <id>42669</id>
+    <revision>
+      <id>484692</id>
+      <parentid>363540</parentid>
+      <timestamp>2017-06-11T14:13:59Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Erfolge-Fehler</text>
+      <sha1>qlf986u6fmall30ry85nmxei2egg2de</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement name/de</title>
+    <ns>8</ns>
+    <id>42675</id>
+    <revision>
+      <id>363546</id>
+      <timestamp>2015-08-30T12:34:00Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Anzeigename</text>
+      <sha1>2lscofo7ydmqsofarm0oemgt5un2gzi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement category/de</title>
+    <ns>8</ns>
+    <id>42671</id>
+    <revision>
+      <id>363542</id>
+      <timestamp>2015-08-30T12:28:45Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Kategorie“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Kategorie</text>
+      <sha1>690fs6xscxqtv8gffg1qesy459eexzz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add condition/de</title>
+    <ns>8</ns>
+    <id>42687</id>
+    <revision>
+      <id>363558</id>
+      <timestamp>2015-08-30T12:38:06Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Bedingung hinzufügen</text>
+      <sha1>isnshlw12sm73elsb2h4vtaugvn5vfv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add achievement/de</title>
+    <ns>8</ns>
+    <id>42684</id>
+    <revision>
+      <id>363555</id>
+      <timestamp>2015-08-30T12:37:34Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzung</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Hinzufügen</text>
+      <sha1>s4q04eaiflfzo445vk6zpbb5bw4ptn9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addedwatchtext/de</title>
+    <ns>8</ns>
+    <id>18451</id>
+    <revision>
+      <id>137281</id>
+      <timestamp>2013-06-30T17:08:30Z</timestamp>
+      <contributor>
+        <username>ILeon</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Die Seite „[[:$1]]“ wurde zu deiner [[Special:Watchlist|Beobachtungsliste]] hinzugefügt. Spätere Änderungen an dieser Seite und der zugehörigen Diskuss…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="303">Die Seite „[[:$1]]“ wurde zu deiner [[Special:Watchlist|Beobachtungsliste]] hinzugefügt.
+Spätere Änderungen an dieser Seite und der zugehörigen Diskussionsseite werden dort gelistet und die Seite wird in der [[Special:RecentChanges|Liste der letzten Änderungen]] in '''Fettschrift''' angezeigt.</text>
+      <sha1>gwmegvopx9vlu89e36odb8fvqt2jk67</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:All recently earned/de</title>
+    <ns>8</ns>
+    <id>29041</id>
+    <revision>
+      <id>246835</id>
+      <timestamp>2014-05-09T07:50:29Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26">Kürzlich verdiente Punkte</text>
+      <sha1>3982mhppxzcei3tdh72htoduk3m61tf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites/de</title>
+    <ns>8</ns>
+    <id>20299</id>
+    <revision>
+      <id>153862</id>
+      <timestamp>2013-09-21T07:47:40Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42">Liste aller Wikis des Gamepedia-Netzwerkes</text>
+      <sha1>exzzhia3xsov12u304rm5yd6uqwm90p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Article id number/de</title>
+    <ns>8</ns>
+    <id>39415</id>
+    <revision>
+      <id>335995</id>
+      <timestamp>2015-03-09T18:25:28Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Artikel ID #“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Artikel ID #</text>
+      <sha1>hpzqpf6a040aam18mz0svt7xhifwopw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award/de</title>
+    <ns>8</ns>
+    <id>42960</id>
+    <revision>
+      <id>487149</id>
+      <parentid>487144</parentid>
+      <timestamp>2017-06-25T22:31:57Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <comment>Änderungen von [[Special:Contributions/Violine1101|Violine1101]] ([[User talk:Violine1101|Diskussion]]) wurden auf die letzte Version von [[User:Sumpfhuette|Sumpfhuette]] zurückgesetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Award</text>
+      <sha1>iks2wjuvmlz8pu1v8evyntu9iqna7ms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award achievement/de</title>
+    <ns>8</ns>
+    <id>58277</id>
+    <revision>
+      <id>487136</id>
+      <timestamp>2017-06-25T22:26:39Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Erfolge zuweisen“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Erfolge zuweisen</text>
+      <sha1>66fs1db3j3kz7k26ijqlvksrpwigns6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award hint/de</title>
+    <ns>8</ns>
+    <id>42958</id>
+    <revision>
+      <id>365161</id>
+      <timestamp>2015-09-02T19:13:45Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Benutzername eingeben, Erfolg auswählen und Aktion anklicken.“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="62">Benutzername eingeben, Erfolg auswählen und Aktion anklicken.</text>
+      <sha1>hxwldee6ognh9g6y177uymh2cecpgyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Calculation inputs/de</title>
+    <ns>8</ns>
+    <id>29049</id>
+    <revision>
+      <id>246843</id>
+      <timestamp>2014-05-09T07:54:21Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Berechnungseingaben</text>
+      <sha1>t2p2nfwyzlmsbs4uogrpphx1jmr9o94</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Calculation weights/de</title>
+    <ns>8</ns>
+    <id>29048</id>
+    <revision>
+      <id>246842</id>
+      <timestamp>2014-05-09T07:53:31Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Berechnungsgewichtung</text>
+      <sha1>cbvcq7jh8d9km5y3b1gb7zdb2z50eb0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Change email desc/de</title>
+    <ns>8</ns>
+    <id>20310</id>
+    <revision>
+      <id>153882</id>
+      <timestamp>2013-09-21T08:08:54Z</timestamp>
+      <contributor>
+        <username>@DeletedUser76059</username>
+        <id>76059</id>
+      </contributor>
+      <comment>Übersetzt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="171">Hier kannst du die E-Mail-Adresse deines Accounts auf Curse.com ändern. Diese E-Mail-Adresse wird auf allen Seiten des Curse-Netzwerkes und den Gamepedia-Wikis verwendet.</text>
+      <sha1>mtgjssadjeo4u0zokhohzhyqjpau7ni</sha1>
+    </revision>
+  </page>
+</mediawiki>
