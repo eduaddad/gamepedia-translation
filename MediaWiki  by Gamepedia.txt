@@ -1,0 +1,128 @@
+MediaWiki:Aboutme
+ MediaWiki:Aboutmehelp
+ MediaWiki:Achievements
+ MediaWiki:Achievementsearned
+ MediaWiki:Addfriend
+ MediaWiki:Alreadyfriends
+ MediaWiki:Auth_continue
+MediaWiki:Avatar-help
+ MediaWiki:Awardachievement
+ MediaWiki:Boilerplate-special
+ MediaWiki:Br-boilerplate-list
+ MediaWiki:Br-boilerplate-list-none
+ MediaWiki:Br-create-boilerplates
+ MediaWiki:Commentaction
+ MediaWiki:Commentarchivelink
+ MediaWiki:Commentboard-empty
+ MediaWiki:Commentboard-link-backtoprofile
+ MediaWiki:Commentboard-title
+ MediaWiki:Commentmoderation
+ MediaWiki:Commentplaceholder
+ MediaWiki:Cp-achievementssection
+ MediaWiki:Cp-editprofile
+ MediaWiki:Cp-friendssection
+MediaWiki:Cp-friendssection-all
+ MediaWiki:Cp-mobile-aboutme
+ MediaWiki:Cp-recentactivitysection
+MediaWiki:Cp-recentcommentssection
+ MediaWiki:Cp-statisticssection
+ MediaWiki:Cursechangeemail
+ MediaWiki:Cursechangepassword
+ MediaWiki:Disable_social_prompts
+ MediaWiki:Dismiss_notice
+ MediaWiki:Edit_achievement
+ MediaWiki:Empty-location-text-mod
+ MediaWiki:Favoritewiki
+ MediaWiki:Footer-Careers
+ MediaWiki:Footer-Contact_Us
+ MediaWiki:Footer-My_Account
+ MediaWiki:Friends
+ MediaWiki:Linkaccounts
+ MediaWiki:Localrank
+ MediaWiki:Locationlabel
+ MediaWiki:Login_name
+ MediaWiki:Netbar-register
+ MediaWiki:Netbar-signin
+ MediaWiki:Netbar-user-page
+ MediaWiki:New_account_social
+ MediaWiki:New_password
+ MediaWiki:Pendingrequests
+ MediaWiki:Prefs-help-email
+ MediaWiki:Prefs-location
+ MediaWiki:Prefs-profiles
+ MediaWiki:Prefs-public
+ MediaWiki:Privacy policy banner
+ MediaWiki:Profileactivity-created
+ MediaWiki:Profileactivity-edited 
+ MediaWiki:Profilelink-help 
+ MediaWiki:Profileprefselect
+ MediaWiki:Purge
+ MediaWiki:Rank
+ MediaWiki:Redirect_to_gamepedia
+ MediaWiki:Removefriend
+ MediaWiki:Retype_new_password
+ MediaWiki:Score
+ MediaWiki:Senddirectrequest
+ MediaWiki:Sendrequest
+ MediaWiki:Sharing
+ MediaWiki:Top_wiki_editors
+ MediaWiki:Top_wiki_editors_monthly
+ MediaWiki:Totalcontribs
+ MediaWiki:Totaldeletes
+ MediaWiki:Userprofiletab
+ MediaWiki:Wiki_user
+ MediaWiki:Wikisedited
+ MediaWiki:Totalpatrols
+ MediaWiki:Totalfriends
+ MediaWiki:Totaledits
+MediaWiki:Action-delete_achievements
+MediaWiki:Action-analytics
+MediaWiki:Achievements_error
+MediaWiki:Achievement_stats
+MediaWiki:Achievement_nochange_to
+MediaWiki:Achievement_name
+MediaWiki:Achievement_image
+MediaWiki:Achievement_id
+MediaWiki:Achievement_category
+MediaWiki:Action-globalblock
+MediaWiki:Action-profilestats
+MediaWiki:Action-wiki_points_admin
+MediaWiki:Action-wpa_adjust_points
+MediaWiki:Active
+MediaWiki:Active_admin_count
+MediaWiki:Active_month
+MediaWiki:Add_condition
+MediaWiki:Add_achievement
+MediaWiki:Add_email_filter
+MediaWiki:Add_level
+MediaWiki:Add_rights
+MediaWiki:Addedwatchtext
+MediaWiki:Addedwatchtext-talk
+MediaWiki:Admin_count
+MediaWiki:Admin_minder_error
+MediaWiki:All_recently_earned
+MediaWiki:Allsites
+MediaWiki:Allsites_official
+MediaWiki:Allsites_description
+MediaWiki:Analytics
+MediaWiki:Analytics_confidential
+MediaWiki:Analytics_report_generated
+MediaWiki:Analytics_usage
+MediaWiki:Analyticsdashboard
+MediaWiki:Analyticsdashboardusage
+MediaWiki:Article_id_number
+MediaWiki:Assign_global_id_lookup
+MediaWiki:Avataralt
+MediaWiki:Award
+MediaWiki:Award_achievement
+MediaWiki:Award_hint
+MediaWiki:Award_reason_achievement_earned
+MediaWiki:Award_reason_achievement_revoked
+MediaWiki:Based_on_last_30
+MediaWiki:Begins_after
+MediaWiki:Between_dates
+MediaWiki:Calculation_inputs
+MediaWiki:Calculation_weights
+MediaWiki:Change_email_desc
+MediaWiki:Choose_username
+MediaWiki:Comment-pref

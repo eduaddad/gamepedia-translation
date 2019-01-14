@@ -1,0 +1,2082 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pt">
+  <siteinfo>
+    <sitename>Gamepedia Help Wiki</sitename>
+    <dbname>help_ptbr</dbname>
+    <base>https://help-pt.gamepedia.com/Ajuda_para_Wikis_da_Gamepedia</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Utilizador</namespace>
+      <namespace key="3" case="first-letter">Utilizador Discussão</namespace>
+      <namespace key="4" case="first-letter">Gamepedia Help Wiki</namespace>
+      <namespace key="5" case="first-letter">Gamepedia Help Wiki Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="450" case="first-letter">Boilerplate</namespace>
+      <namespace key="451" case="first-letter">Boilerplate talk</namespace>
+      <namespace key="600" case="first-letter">Intersection</namespace>
+      <namespace key="601" case="first-letter">Intersection talk</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="10000" case="first-letter">DPL</namespace>
+      <namespace key="10001" case="first-letter">DPL talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Aboutme/pt</title>
+    <ns>8</ns>
+    <id>1196</id>
+    <revision>
+      <id>2427</id>
+      <timestamp>2018-06-16T23:18:51Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Sobre Mim&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Sobre Mim</text>
+      <sha1>del1y02glxl9anvsat5rlb2ltsa71rj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Aboutmehelp/pt</title>
+    <ns>8</ns>
+    <id>633</id>
+    <revision>
+      <id>1296</id>
+      <timestamp>2017-01-23T18:20:02Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Wikitexto está disponível para a formatação.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">Wikitexto está disponível para a formatação.</text>
+      <sha1>4956mqeof6hsl628i7kpjrqc8p2rtix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements/pt</title>
+    <ns>8</ns>
+    <id>646</id>
+    <revision>
+      <id>1309</id>
+      <timestamp>2017-01-23T18:24:21Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Conquistas</text>
+      <sha1>tp6uaah0mcbcqugrkqtygw4wl4ur3d1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievementsearned/pt</title>
+    <ns>8</ns>
+    <id>649</id>
+    <revision>
+      <id>1312</id>
+      <timestamp>2017-01-23T18:24:42Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Conquistas</text>
+      <sha1>tp6uaah0mcbcqugrkqtygw4wl4ur3d1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addfriend/pt</title>
+    <ns>8</ns>
+    <id>722</id>
+    <revision>
+      <id>1385</id>
+      <timestamp>2017-01-23T18:55:19Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar Amigo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Adicionar Amigo</text>
+      <sha1>2cvzgid3g7yrmtid609erwc5viqfap5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Alreadyfriends/pt</title>
+    <ns>8</ns>
+    <id>716</id>
+    <revision>
+      <id>1379</id>
+      <timestamp>2017-01-23T18:52:12Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Amigos!&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Amigos!</text>
+      <sha1>avum4gp31tw7uye79lxhnzeubqgz890</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avatar-help/pt</title>
+    <ns>8</ns>
+    <id>755</id>
+    <revision>
+      <id>1418</id>
+      <timestamp>2017-01-23T19:03:35Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Gamepedia usa Gravatar para exibir um avatar baseado em seu endereço de e-mail. Visite [http://www.gravatar.com/ gravatar.com] para mudar o seu avatar.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="152">Gamepedia usa Gravatar para exibir um avatar baseado em seu endereço de e-mail. Visite [http://www.gravatar.com/ gravatar.com] para mudar o seu avatar.</text>
+      <sha1>97oltle272rf5rnaazy9lihyotywggg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Awardachievement/pt</title>
+    <ns>8</ns>
+    <id>839</id>
+    <revision>
+      <id>1517</id>
+      <timestamp>2017-01-24T14:44:03Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Premiar ou Retirar Conquistas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Premiar ou Retirar Conquistas</text>
+      <sha1>gzv0rg9ts1hsrtm01psdh3bnsurx9y5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Boilerplate-special/pt</title>
+    <ns>8</ns>
+    <id>811</id>
+    <revision>
+      <id>1489</id>
+      <timestamp>2017-01-24T14:35:36Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Gerenciar boilerplates&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Gerenciar boilerplates</text>
+      <sha1>l3l7xmm2368oj7w85vcx6a3f490yhti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Br-boilerplate-list/pt</title>
+    <ns>8</ns>
+    <id>827</id>
+    <revision>
+      <id>1505</id>
+      <timestamp>2017-01-24T14:40:03Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Lista de boilerplates&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Lista de boilerplates</text>
+      <sha1>o4rocx2azzgi2m46mq4nfahciz7460x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Br-boilerplate-list-none/pt</title>
+    <ns>8</ns>
+    <id>830</id>
+    <revision>
+      <id>1508</id>
+      <timestamp>2017-01-24T14:40:47Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Estes não são boilerplates existentes dentro do espaço para nome Boilerplate.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="80">Estes não são boilerplates existentes dentro do espaço para nome Boilerplate.</text>
+      <sha1>bwwndibd819adxgur17m5tlle9kttrd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentaction/pt</title>
+    <ns>8</ns>
+    <id>705</id>
+    <revision>
+      <id>1368</id>
+      <timestamp>2017-01-23T18:45:23Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Postar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Postar</text>
+      <sha1>rjtyjxa3z1kiwgr02q1jimkmna7sb30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentarchivelink/pt</title>
+    <ns>8</ns>
+    <id>640</id>
+    <revision>
+      <id>1303</id>
+      <timestamp>2017-01-23T18:23:16Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Arquivo de Comentários&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Arquivo de Comentários</text>
+      <sha1>ntdi1hy6byyhx2j73jvnoeqq1tqmcnl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-empty/pt</title>
+    <ns>8</ns>
+    <id>735</id>
+    <revision>
+      <id>1398</id>
+      <timestamp>2017-01-23T18:57:37Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Não há comentários deste usuário.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37">Não há comentários deste usuário.</text>
+      <sha1>1aoqftt48igrtqe3ekp00j0yvvh3dxc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-link-backtoprofile/pt</title>
+    <ns>8</ns>
+    <id>732</id>
+    <revision>
+      <id>1395</id>
+      <timestamp>2017-01-23T18:56:47Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Voltar para o perfil&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Voltar para o perfil</text>
+      <sha1>phajzq6s982lnsxgvlboqu5kgz3dt2h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-title/pt</title>
+    <ns>8</ns>
+    <id>740</id>
+    <revision>
+      <id>1403</id>
+      <timestamp>2017-01-23T18:58:45Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Comentários: $1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Comentários: $1</text>
+      <sha1>ontrxa0804qbh0yu6csqchv4a0lnbos</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentmoderation/pt</title>
+    <ns>8</ns>
+    <id>844</id>
+    <revision>
+      <id>1522</id>
+      <timestamp>2017-01-24T14:45:01Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Moderação dos comentários&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28">Moderação dos comentários</text>
+      <sha1>dop6uuc973ilz9us1vbgivz63i60x8p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentplaceholder/pt</title>
+    <ns>8</ns>
+    <id>744</id>
+    <revision>
+      <id>1407</id>
+      <timestamp>2017-01-23T18:59:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Deixe um comentário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Deixe um comentário</text>
+      <sha1>c3b1x79no2sf3p302tcq2fi6qia6r2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection/pt</title>
+    <ns>8</ns>
+    <id>643</id>
+    <revision>
+      <id>1306</id>
+      <timestamp>2017-01-23T18:24:00Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Conquistas</text>
+      <sha1>tp6uaah0mcbcqugrkqtygw4wl4ur3d1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-editprofile/pt</title>
+    <ns>8</ns>
+    <id>638</id>
+    <revision>
+      <id>1301</id>
+      <timestamp>2017-01-23T18:22:54Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Editar Perfil&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Editar Perfil</text>
+      <sha1>nggtg6pd8jm78bvda7vlu8nbvmw5jdr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection/pt</title>
+    <ns>8</ns>
+    <id>720</id>
+    <revision>
+      <id>1383</id>
+      <timestamp>2017-01-23T18:53:47Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Amigos</text>
+      <sha1>m2i2fmro87sx4gzoefpplsscr6i4v63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection-all/pt</title>
+    <ns>8</ns>
+    <id>686</id>
+    <revision>
+      <id>1349</id>
+      <timestamp>2017-01-23T18:34:48Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;([[Especial:Friends/$1/$3|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver todos }}]])&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="79">([[Especial:Friends/$1/$3|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver todos }}]])</text>
+      <sha1>cjb526rcf4koljxa1fsmvjuedhduf98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-mobile-aboutme/pt</title>
+    <ns>8</ns>
+    <id>635</id>
+    <revision>
+      <id>1298</id>
+      <timestamp>2017-01-23T18:20:26Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Sobre Mim&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Sobre Mim</text>
+      <sha1>del1y02glxl9anvsat5rlb2ltsa71rj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentactivitysection/pt</title>
+    <ns>8</ns>
+    <id>669</id>
+    <revision>
+      <id>1332</id>
+      <timestamp>2017-01-23T18:30:10Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Atividade Recente na Wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Atividade Recente na Wiki</text>
+      <sha1>ep0zaank1e6qrxhds0tlxoaelel4ivf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentcommentssection/pt</title>
+    <ns>8</ns>
+    <id>641</id>
+    <revision>
+      <id>1304</id>
+      <timestamp>2017-01-23T18:23:41Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Comentários Recentes&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Comentários Recentes</text>
+      <sha1>blhsqq7jaobv4hwts591tlsq12bzuv4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-statisticssection/pt</title>
+    <ns>8</ns>
+    <id>617</id>
+    <revision>
+      <id>1280</id>
+      <timestamp>2017-01-23T18:15:56Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Total de Estatísticas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Total de Estatísticas</text>
+      <sha1>6sz4v5hrkg7oqph3afwfw4pn82dev59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangeemail/pt</title>
+    <ns>8</ns>
+    <id>846</id>
+    <revision>
+      <id>1524</id>
+      <timestamp>2017-01-24T14:45:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conta Curse - Alterar Email&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Conta Curse - Alterar Email</text>
+      <sha1>t05war71i09cozw4ua6bhaf8z1aedbz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangepassword/pt</title>
+    <ns>8</ns>
+    <id>850</id>
+    <revision>
+      <id>1528</id>
+      <timestamp>2017-01-24T14:46:50Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conta Curse - Alterar Senha&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Conta Curse - Alterar Senha</text>
+      <sha1>lnbef59xy0tf5dhd6wr171jx4edtzsy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dismiss notice/pt</title>
+    <ns>8</ns>
+    <id>1093</id>
+    <revision>
+      <id>2123</id>
+      <timestamp>2017-10-13T13:51:23Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Fechar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Fechar</text>
+      <sha1>edrklhrmgb7y73ktily441vwpeg9bbk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Edit achievement/pt</title>
+    <ns>8</ns>
+    <id>945</id>
+    <revision>
+      <id>1782</id>
+      <timestamp>2017-05-12T20:53:45Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Editar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Editar</text>
+      <sha1>52dwufbugx89e4dy5nq3ppxfymxvj88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Favoritewiki/pt</title>
+    <ns>8</ns>
+    <id>667</id>
+    <revision>
+      <id>1330</id>
+      <timestamp>2017-01-23T18:29:33Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Wiki Favorita&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Wiki Favorita</text>
+      <sha1>ju23as53835g2qlce2flkmo5jlc4hky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-Careers/pt</title>
+    <ns>8</ns>
+    <id>1193</id>
+    <revision>
+      <id>2424</id>
+      <timestamp>2018-06-16T23:16:49Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Carreiras&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Carreiras</text>
+      <sha1>0pb5enz54vgf2y31wfyvxxbrdyid085</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-Contact Us/pt</title>
+    <ns>8</ns>
+    <id>682</id>
+    <revision>
+      <id>1345</id>
+      <timestamp>2017-01-23T18:33:35Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Contate-nos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Contate-nos</text>
+      <sha1>1r5yxiypdgrri8nh22ohuxqevw0eyuc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-My Account/pt</title>
+    <ns>8</ns>
+    <id>1191</id>
+    <revision>
+      <id>2422</id>
+      <timestamp>2018-06-16T23:15:22Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Minha Conta&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Minha Conta</text>
+      <sha1>034c6yjcb56hvub5x6lr0qg6rxpiz1a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Friends/pt</title>
+    <ns>8</ns>
+    <id>709</id>
+    <revision>
+      <id>1372</id>
+      <timestamp>2017-01-23T18:50:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Amigos</text>
+      <sha1>m2i2fmro87sx4gzoefpplsscr6i4v63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Linkaccounts/pt</title>
+    <ns>8</ns>
+    <id>863</id>
+    <revision>
+      <id>1541</id>
+      <timestamp>2017-01-24T14:49:50Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Vincular contas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Vincular contas</text>
+      <sha1>goiqnpr18o9dqesxa5kt561m75tmkly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Localrank/pt</title>
+    <ns>8</ns>
+    <id>657</id>
+    <revision>
+      <id>1320</id>
+      <timestamp>2017-01-23T18:25:52Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Posição na {{SITENAME}}&lt;br&gt;([[Especial:WikiPoints|Classificação]])&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="70">Posição na {{SITENAME}}&lt;br&gt;([[Especial:WikiPoints|Classificação]])</text>
+      <sha1>ri6ohv9086jza0p9s2s3fg1vqx7lpgq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Locationlabel/pt</title>
+    <ns>8</ns>
+    <id>1198</id>
+    <revision>
+      <id>2429</id>
+      <timestamp>2018-06-16T23:40:09Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Localização&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Localização</text>
+      <sha1>73oe12lkmvkjhbfb6zjvenslxydbnsw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Login name/pt</title>
+    <ns>8</ns>
+    <id>765</id>
+    <revision>
+      <id>1428</id>
+      <timestamp>2017-01-23T19:06:02Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Email ou Nome de Usuário:&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26">Email ou Nome de Usuário:</text>
+      <sha1>473kykxu1rcepkejq1umbjmd528a81t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-register/pt</title>
+    <ns>8</ns>
+    <id>623</id>
+    <revision>
+      <id>1286</id>
+      <timestamp>2017-01-23T18:17:41Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Registrar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Registrar</text>
+      <sha1>noaeb7qlgck8rakl7c5o2px9z9klfnw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-signin/pt</title>
+    <ns>8</ns>
+    <id>769</id>
+    <revision>
+      <id>1432</id>
+      <timestamp>2017-01-23T19:09:04Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Entrar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Entrar</text>
+      <sha1>dpwquoljizkgynj1lpgg8j6azpze3n4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-user-page/pt</title>
+    <ns>8</ns>
+    <id>692</id>
+    <revision>
+      <id>1355</id>
+      <timestamp>2017-01-23T18:38:25Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Minha Página de Usuário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Minha Página de Usuário</text>
+      <sha1>ealzp5s12tfpsl1zas9lew909chhl4g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Pendingrequests/pt</title>
+    <ns>8</ns>
+    <id>954</id>
+    <revision>
+      <id>1791</id>
+      <timestamp>2017-05-12T20:56:11Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Solicitações Pendentes&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Solicitações Pendentes</text>
+      <sha1>4x8ado3znxf5b9kt6dr4mw2z3tbhurm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-help-email/pt</title>
+    <ns>8</ns>
+    <id>1202</id>
+    <revision>
+      <id>2433</id>
+      <timestamp>2018-06-16T23:45:02Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;O endereço de e-mail é opcional, mas será necessário para recriar sua senha caso esqueça a antiga.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="103">O endereço de e-mail é opcional, mas será necessário para recriar sua senha caso esqueça a antiga.</text>
+      <sha1>5eyfnl8b1apaezzlb2mnl9simfrwzt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-location/pt</title>
+    <ns>8</ns>
+    <id>631</id>
+    <revision>
+      <id>1294</id>
+      <timestamp>2017-01-23T18:19:43Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Localização&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Localização</text>
+      <sha1>73oe12lkmvkjhbfb6zjvenslxydbnsw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-profiles/pt</title>
+    <ns>8</ns>
+    <id>624</id>
+    <revision>
+      <id>1287</id>
+      <timestamp>2017-01-23T18:18:24Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Outros Perfis&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Outros Perfis</text>
+      <sha1>9z2guopu07085pv9kzvgysemwbf6daz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-public/pt</title>
+    <ns>8</ns>
+    <id>637</id>
+    <revision>
+      <id>1300</id>
+      <timestamp>2017-01-23T18:21:21Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Perfil Público&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Perfil Público</text>
+      <sha1>aubyiiu6c19v4arin2q4ljf4ppib1q3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Privacy policy banner/pt</title>
+    <ns>8</ns>
+    <id>1320</id>
+    <revision>
+      <id>2921</id>
+      <timestamp>2019-01-14T01:58:33Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Todos os usuários precisarão mesclar sua conta Gamepedia com uma conta nova ou existente do Twitch a partir de 8 de novembro. Você pode mesclar suas contas &lt;a class=&quot;tos-...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="348">Todos os usuários precisarão mesclar sua conta Gamepedia com uma conta nova ou existente do Twitch a partir de 8 de novembro. Você pode mesclar suas contas &lt;a class=&quot;tos-link&quot; href=&quot;https://www.gamepedia.com/twitch-merge&quot;&gt;clicando aqui&lt;/a&gt;. Tem perguntas? &lt;a class=&quot;tos-link&quot; href=&quot;https://help.gamepedia.com/Twitch_ID_Merge&quot;&gt;Saiba mais aqui&lt;/a&gt;</text>
+      <sha1>rgiknkwwaf263dzpq4c8n14agypvs3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-created/pt</title>
+    <ns>8</ns>
+    <id>949</id>
+    <revision>
+      <id>1786</id>
+      <timestamp>2017-05-12T20:54:40Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Criou&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Criou</text>
+      <sha1>b0cxh1kxb5c807a3pha5udng2j7h3sd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-edited/pt</title>
+    <ns>8</ns>
+    <id>941</id>
+    <revision>
+      <id>1778</id>
+      <timestamp>2017-05-12T20:53:05Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Editou&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Editou</text>
+      <sha1>sy05qidin85o4n6zbyf14eoepccchbu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilelink-help/pt</title>
+    <ns>8</ns>
+    <id>757</id>
+    <revision>
+      <id>1420</id>
+      <timestamp>2017-01-23T19:04:19Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Os links do perfil acima devem corresponder exatamente ao formato de exemplo para serem exibidos.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="97">Os links do perfil acima devem corresponder exatamente ao formato de exemplo para serem exibidos.</text>
+      <sha1>aeulperic8plpcktex3tjjgrsr0m9qj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileprefselect/pt</title>
+    <ns>8</ns>
+    <id>636</id>
+    <revision>
+      <id>1299</id>
+      <timestamp>2017-01-23T18:20:54Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Tipo de Página&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Tipo de Página</text>
+      <sha1>jyezd1ot0cad5vdqfs3v69i63zcdjdl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Rank/pt</title>
+    <ns>8</ns>
+    <id>1085</id>
+    <revision>
+      <id>2115</id>
+      <timestamp>2017-10-13T13:49:15Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Classificação&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Classificação</text>
+      <sha1>12vndagnxj04rshyvxvdap90h5sr4iw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Removefriend/pt</title>
+    <ns>8</ns>
+    <id>728</id>
+    <revision>
+      <id>1391</id>
+      <timestamp>2017-01-23T18:55:49Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Remover Amigo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Remover Amigo</text>
+      <sha1>gjbb5s3o88limeyunvnk8jzlfbrnlwf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Score/pt</title>
+    <ns>8</ns>
+    <id>1091</id>
+    <revision>
+      <id>2121</id>
+      <timestamp>2017-10-13T13:50:42Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Ponto&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Ponto</text>
+      <sha1>ofen76gcwldz2a6ycpaerdh3f08osn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Senddirectrequest/pt</title>
+    <ns>8</ns>
+    <id>956</id>
+    <revision>
+      <id>1793</id>
+      <timestamp>2017-05-12T20:56:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Enviar Novo Pedido de Amizade&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Enviar Novo Pedido de Amizade</text>
+      <sha1>dli29zdr0kwfosjuhqof7ng9fbwz6um</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sendrequest/pt</title>
+    <ns>8</ns>
+    <id>958</id>
+    <revision>
+      <id>1795</id>
+      <timestamp>2017-05-12T20:57:45Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Enviar Pedido&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Enviar Pedido</text>
+      <sha1>ac9a62rfzo3who47vc51xrupajjsl65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing/pt</title>
+    <ns>8</ns>
+    <id>689</id>
+    <revision>
+      <id>1352</id>
+      <timestamp>2017-01-23T18:36:48Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Compartilhar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Compartilhar</text>
+      <sha1>q4qfm0onxsd9t0nvte3uh9rdz503gyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors/pt</title>
+    <ns>8</ns>
+    <id>788</id>
+    <revision>
+      <id>1451</id>
+      <timestamp>2017-01-23T19:19:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Melhores Editores Wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Melhores Editores Wiki</text>
+      <sha1>tt8cu3b2vr1sd2oqrvn6semu95lvc9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors monthly/pt</title>
+    <ns>8</ns>
+    <id>793</id>
+    <revision>
+      <id>1456</id>
+      <timestamp>2017-01-23T19:20:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Principais Editores Wiki - Mensal&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33">Principais Editores Wiki - Mensal</text>
+      <sha1>8v7mp4vs1b32yy2isvv452n5plzyqyo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcontribs/pt</title>
+    <ns>8</ns>
+    <id>665</id>
+    <revision>
+      <id>1328</id>
+      <timestamp>2017-01-23T18:28:37Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Contribuições&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Contribuições</text>
+      <sha1>psjqebj27bsfzg8xtx6gshpb5fm6zsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaldeletes/pt</title>
+    <ns>8</ns>
+    <id>659</id>
+    <revision>
+      <id>1322</id>
+      <timestamp>2017-01-23T18:27:01Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Exclusões&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Exclusões</text>
+      <sha1>32ctgcdlvn6pizh50s1ckcnzl04804g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Userprofiletab/pt</title>
+    <ns>8</ns>
+    <id>932</id>
+    <revision>
+      <id>1769</id>
+      <timestamp>2017-05-12T20:51:31Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Perfil do usuário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Perfil do usuário</text>
+      <sha1>f8k0jbx5mqr9bpfv7c96ejrxkzpdir8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wiki user/pt</title>
+    <ns>8</ns>
+    <id>1087</id>
+    <revision>
+      <id>2117</id>
+      <timestamp>2017-10-13T13:49:57Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Usuário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Usuário</text>
+      <sha1>sel617iz9b2gjahhrjyn7xsi5aa7k2z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikisedited/pt</title>
+    <ns>8</ns>
+    <id>666</id>
+    <revision>
+      <id>1329</id>
+      <timestamp>2017-01-23T18:28:59Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Wikis Editadas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Wikis Editadas</text>
+      <sha1>3u7b4bypf6xr7yt49gk2bix9iw0nlzf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalpatrols/pt</title>
+    <ns>8</ns>
+    <id>658</id>
+    <revision>
+      <id>1321</id>
+      <timestamp>2017-01-23T18:26:41Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Patrulhas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Patrulhas</text>
+      <sha1>jn0ii2t623vcq7aktnp5ks3odvvu6tn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalfriends/pt</title>
+    <ns>8</ns>
+    <id>714</id>
+    <revision>
+      <id>1377</id>
+      <timestamp>2017-01-23T18:51:43Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Amigos</text>
+      <sha1>m2i2fmro87sx4gzoefpplsscr6i4v63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaledits/pt</title>
+    <ns>8</ns>
+    <id>663</id>
+    <revision>
+      <id>1326</id>
+      <timestamp>2017-01-23T18:28:08Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Edições&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Edições</text>
+      <sha1>139icdglshso2pjeqqi47ghn1xxalcw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-delete achievements/pt</title>
+    <ns>8</ns>
+    <id>1372</id>
+    <revision>
+      <id>3024</id>
+      <timestamp>2019-01-14T11:15:01Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;eliminar conquistas&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">eliminar conquistas</text>
+      <sha1>a1s2evwxnckv6jia6g54frn4qyst41t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-analytics/pt</title>
+    <ns>8</ns>
+    <id>1373</id>
+    <revision>
+      <id>3025</id>
+      <timestamp>2019-01-14T11:15:19Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;ver análise da wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">ver análise da wiki</text>
+      <sha1>1bkw7z38582o1moca3vsdrl5ob5v2xm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement name/pt</title>
+    <ns>8</ns>
+    <id>1385</id>
+    <revision>
+      <id>3037</id>
+      <timestamp>2019-01-14T11:37:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Nome de Exibição&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Nome de Exibição</text>
+      <sha1>3yeid867ly84h7nydup76pel4k997nh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement image/pt</title>
+    <ns>8</ns>
+    <id>1386</id>
+    <revision>
+      <id>3038</id>
+      <timestamp>2019-01-14T11:38:15Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Nome da Imagem (Exemplo: Arquivo:Example.png) Tamanho mínimo: 120px x 120px&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="76">Nome da Imagem (Exemplo: Arquivo:Example.png) Tamanho mínimo: 120px x 120px</text>
+      <sha1>7bpzjlyuzzf3uqac21zy2v4ij3kxfl1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement id/pt</title>
+    <ns>8</ns>
+    <id>1387</id>
+    <revision>
+      <id>3039</id>
+      <timestamp>2019-01-14T11:38:30Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquista #$1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Conquista #$1</text>
+      <sha1>0sdfu7v7u0oqzphd3l3d8ekbej359ua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement category/pt</title>
+    <ns>8</ns>
+    <id>1388</id>
+    <revision>
+      <id>3040</id>
+      <timestamp>2019-01-14T11:38:45Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Categoria&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Categoria</text>
+      <sha1>afy6xnmuwosy9fho8230ubzss3citpu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-globalblock/pt</title>
+    <ns>8</ns>
+    <id>1389</id>
+    <revision>
+      <id>3041</id>
+      <timestamp>2019-01-14T11:39:00Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;executar ações de bloqueio global&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">executar ações de bloqueio global</text>
+      <sha1>sbqdmuvoi8qkhuvgoymk8n3boza9us5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-profilestats/pt</title>
+    <ns>8</ns>
+    <id>1390</id>
+    <revision>
+      <id>3042</id>
+      <timestamp>2019-01-14T11:39:17Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Visualizar estatísticas CurseProfile&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37">Visualizar estatísticas CurseProfile</text>
+      <sha1>jf954pvw4mi2gyq6xxo4jl0taktxd9b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-wiki points admin/pt</title>
+    <ns>8</ns>
+    <id>1391</id>
+    <revision>
+      <id>3043</id>
+      <timestamp>2019-01-14T11:39:43Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Administrar pontos de wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26">Administrar pontos de wiki</text>
+      <sha1>06v308fk121jaa7eau2vfsv33aixo5h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Action-wpa adjust points/pt</title>
+    <ns>8</ns>
+    <id>1392</id>
+    <revision>
+      <id>3044</id>
+      <timestamp>2019-01-14T11:39:56Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;ajustar os pontos de um usuário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32">ajustar os pontos de um usuário</text>
+      <sha1>4jdee1mydxh0lgcfi1czqqpu5l2fky2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Active/pt</title>
+    <ns>8</ns>
+    <id>1393</id>
+    <revision>
+      <id>3045</id>
+      <timestamp>2019-01-14T11:40:12Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Usuários ativos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Usuários ativos</text>
+      <sha1>8i8qodybrjunsqegvewcnbakmgvkv63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Active admin count/pt</title>
+    <ns>8</ns>
+    <id>1394</id>
+    <revision>
+      <id>3046</id>
+      <timestamp>2019-01-14T11:40:27Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Administradores usando o Painel&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">Administradores usando o Painel</text>
+      <sha1>sqb78czfufzatfk6x63ynhrvzgndx5f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Active month/pt</title>
+    <ns>8</ns>
+    <id>1375</id>
+    <revision>
+      <id>3027</id>
+      <timestamp>2019-01-14T11:17:02Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Mês&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4">Mês</text>
+      <sha1>9aei7kevg6vpbwfq15kmw2g2qs6q5gu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add condition/pt</title>
+    <ns>8</ns>
+    <id>1395</id>
+    <revision>
+      <id>3047</id>
+      <timestamp>2019-01-14T11:40:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar Condição&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Adicionar Condição</text>
+      <sha1>8l6mv28tw20l7mkucl3fgvacpqu0vvn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add achievement/pt</title>
+    <ns>8</ns>
+    <id>1396</id>
+    <revision>
+      <id>3048</id>
+      <timestamp>2019-01-14T11:41:13Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Adicionar</text>
+      <sha1>taxh1qqr1sz20hgrcpic57k42aruvmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add email filter/pt</title>
+    <ns>8</ns>
+    <id>1397</id>
+    <revision>
+      <id>3049</id>
+      <timestamp>2019-01-14T11:41:31Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar filtro de e-mail&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26">Adicionar filtro de e-mail</text>
+      <sha1>2ricxasmp4ayaaaokwvd01udgjxxwia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add level/pt</title>
+    <ns>8</ns>
+    <id>1398</id>
+    <revision>
+      <id>3050</id>
+      <timestamp>2019-01-14T11:41:47Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar Nível&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Adicionar Nível</text>
+      <sha1>6bhzehvk2o4e9jjqwvoo8dqeaanzj8q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add rights/pt</title>
+    <ns>8</ns>
+    <id>1399</id>
+    <revision>
+      <id>3051</id>
+      <timestamp>2019-01-14T11:42:03Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Adicionar Direitos&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Adicionar Direitos</text>
+      <sha1>fmmp42orlppp0metixqnbb43jgs697o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Admin count/pt</title>
+    <ns>8</ns>
+    <id>1404</id>
+    <revision>
+      <id>3056</id>
+      <timestamp>2019-01-14T11:44:13Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Total de Administradores&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Total de Administradores</text>
+      <sha1>8z4lr04dgtqp7poovtlcf3hmdlyl56g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Admin minder error/pt</title>
+    <ns>8</ns>
+    <id>1403</id>
+    <revision>
+      <id>3055</id>
+      <timestamp>2019-01-14T11:43:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Erro - Guarda de administrador&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30">Erro - Guarda de administrador</text>
+      <sha1>igb8gw8w8d4u9hc521itpyplsewm5n2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:All recently earned/pt</title>
+    <ns>8</ns>
+    <id>1402</id>
+    <revision>
+      <id>3054</id>
+      <timestamp>2019-01-14T11:43:43Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Todos os pontos ganhos recentemente&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">Todos os pontos ganhos recentemente</text>
+      <sha1>bbrosn1grz27oi3t7ku99n4xtceryv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites/pt</title>
+    <ns>8</ns>
+    <id>1401</id>
+    <revision>
+      <id>3053</id>
+      <timestamp>2019-01-14T11:43:14Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Todos as Wikis da Rede&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Todos as Wikis da Rede</text>
+      <sha1>ex8l2caqlo0edm2qxnwgq2dmvgqv6rt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites official/pt</title>
+    <ns>8</ns>
+    <id>1400</id>
+    <revision>
+      <id>3052</id>
+      <timestamp>2019-01-14T11:42:58Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Todos as wikis oficiais&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Todos as wikis oficiais</text>
+      <sha1>6ouxs6g1mpgh5hnpu3mpiiht1a0f0p8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analytics/pt</title>
+    <ns>8</ns>
+    <id>1408</id>
+    <revision>
+      <id>3060</id>
+      <timestamp>2019-01-14T11:45:43Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Painel de administração de Análise da Wiki&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45">Painel de administração de Análise da Wiki</text>
+      <sha1>pn1bnl7uky63w1gwlzv596ii99nnu3h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analytics confidential/pt</title>
+    <ns>8</ns>
+    <id>1405</id>
+    <revision>
+      <id>3057</id>
+      <timestamp>2019-01-14T11:44:35Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;As informações desta página são compartilhadas como cortesia para nossos administradores e não devem ser compartilhadas novamente sem permissão.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="150">As informações desta página são compartilhadas como cortesia para nossos administradores e não devem ser compartilhadas novamente sem permissão.</text>
+      <sha1>02v6snj759azxsm5bhp3jy8qjaufpyn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analytics report generated/pt</title>
+    <ns>8</ns>
+    <id>1406</id>
+    <revision>
+      <id>3058</id>
+      <timestamp>2019-01-14T11:44:57Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Relatório gerado $1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Relatório gerado $1</text>
+      <sha1>3hee8e843w09ylgevyd7qeiybd3mxdp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analytics usage/pt</title>
+    <ns>8</ns>
+    <id>1407</id>
+    <revision>
+      <id>3059</id>
+      <timestamp>2019-01-14T11:45:10Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Uso do painel&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Uso do painel</text>
+      <sha1>dqehrxsc8r3xmha9qhrd47c27x5cnl5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analyticsdashboard/pt</title>
+    <ns>8</ns>
+    <id>1374</id>
+    <revision>
+      <id>3026</id>
+      <timestamp>2019-01-14T11:16:00Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Painel de Análise&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Painel de Análise</text>
+      <sha1>4cihp829f5ckyzijdw21tw0qwycthx3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Analyticsdashboardusage/pt</title>
+    <ns>8</ns>
+    <id>1409</id>
+    <revision>
+      <id>3061</id>
+      <timestamp>2019-01-14T11:46:05Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Uso do Painel de Análise&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Uso do Painel de Análise</text>
+      <sha1>ly1q7ncn8whe3f3g1cmm4je08kms5iy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Article id number/pt</title>
+    <ns>8</ns>
+    <id>1410</id>
+    <revision>
+      <id>3062</id>
+      <timestamp>2019-01-14T11:46:18Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Artigo ID #&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Artigo ID #</text>
+      <sha1>8ysieo26kw5mczam0gmqqxv01j6y6hh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Assign global id lookup/pt</title>
+    <ns>8</ns>
+    <id>1411</id>
+    <revision>
+      <id>3063</id>
+      <timestamp>2019-01-14T11:46:34Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Digite a atribuição global de ID:&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">Digite a atribuição global de ID:</text>
+      <sha1>tis0p7xbk9llndokyy4h0fyrnolfvt7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avataralt/pt</title>
+    <ns>8</ns>
+    <id>1412</id>
+    <revision>
+      <id>3064</id>
+      <timestamp>2019-01-14T11:46:48Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Avatar para $1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Avatar para $1</text>
+      <sha1>4xjv338d99q5bvuc7k1cy30y4xuriro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award/pt</title>
+    <ns>8</ns>
+    <id>1413</id>
+    <revision>
+      <id>3065</id>
+      <timestamp>2019-01-14T11:47:03Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Premiar&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">Premiar</text>
+      <sha1>ekng3xexz0n3up2ka4yoax3ihwfqwey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award achievement/pt</title>
+    <ns>8</ns>
+    <id>1414</id>
+    <revision>
+      <id>3066</id>
+      <timestamp>2019-01-14T11:47:20Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Prêmio de Conquista&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Prêmio de Conquista</text>
+      <sha1>f27r0veg2twjyvv6dbfnzrkv5ksdsso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award hint/pt</title>
+    <ns>8</ns>
+    <id>1415</id>
+    <revision>
+      <id>3067</id>
+      <timestamp>2019-01-14T11:47:32Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Digite um nome de usuário, selecione uma conquista, e, em seguida, clique em uma ação.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="89">Digite um nome de usuário, selecione uma conquista, e, em seguida, clique em uma ação.</text>
+      <sha1>f716zomgdsj7nyo7b9z053f0wkoxf8q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award reason achievement earned/pt</title>
+    <ns>8</ns>
+    <id>1416</id>
+    <revision>
+      <id>3068</id>
+      <timestamp>2019-01-14T11:47:46Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquista obtida&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Conquista obtida</text>
+      <sha1>ns1l1xg6yzvpp9rj2zxmv94r557u9p4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award reason achievement revoked/pt</title>
+    <ns>8</ns>
+    <id>1384</id>
+    <revision>
+      <id>3036</id>
+      <timestamp>2019-01-14T11:37:33Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Conquista revogada&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Conquista revogada</text>
+      <sha1>08jmhoo8pksl6e1oy3b3g0l154s38x1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Based on last 30/pt</title>
+    <ns>8</ns>
+    <id>1383</id>
+    <revision>
+      <id>3035</id>
+      <timestamp>2019-01-14T11:37:18Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;dados com base nos últimos 30 dias&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">dados com base nos últimos 30 dias</text>
+      <sha1>es12ik7rrnpilcwn3ezoi9pangarolp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Begins after/pt</title>
+    <ns>8</ns>
+    <id>1382</id>
+    <revision>
+      <id>3034</id>
+      <timestamp>2019-01-14T11:37:00Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Começa após:&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Começa após:</text>
+      <sha1>hofw2dv5hd731tlnrj9wo0dc9hmm8vf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Between dates/pt</title>
+    <ns>8</ns>
+    <id>1381</id>
+    <revision>
+      <id>3033</id>
+      <timestamp>2019-01-14T11:36:41Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Entre datas:&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Entre datas:</text>
+      <sha1>2in8ktdvgu2olgt7q7g5aizskoseiwp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Calculation inputs/pt</title>
+    <ns>8</ns>
+    <id>1380</id>
+    <revision>
+      <id>3032</id>
+      <timestamp>2019-01-14T11:35:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Entradas de Cálculo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Entradas de Cálculo</text>
+      <sha1>588pjfea1su0z44d4x41z9nlzs3zh7b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Calculation weights/pt</title>
+    <ns>8</ns>
+    <id>1379</id>
+    <revision>
+      <id>3031</id>
+      <timestamp>2019-01-14T11:35:38Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Pesos de cálculo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Pesos de cálculo</text>
+      <sha1>lerravn7du99wcatp0bi7ere7zg48t9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Change email desc/pt</title>
+    <ns>8</ns>
+    <id>1378</id>
+    <revision>
+      <id>3030</id>
+      <timestamp>2019-01-14T11:34:45Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Aqui você pode alterar o e-mail da sua conta Curse.com. Isso afetará o e-mail que você usa em todos os sites da rede Curse e wikis Gamepedia.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="144">Aqui você pode alterar o e-mail da sua conta Curse.com. Isso afetará o e-mail que você usa em todos os sites da rede Curse e wikis Gamepedia.</text>
+      <sha1>prq83yfg0tqn7nlg9zfszfkm49cxgmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Choose username/pt</title>
+    <ns>8</ns>
+    <id>1377</id>
+    <revision>
+      <id>3029</id>
+      <timestamp>2019-01-14T11:34:28Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Escolher novo nome de usuário&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30">Escolher novo nome de usuário</text>
+      <sha1>3znfucb842k21bhnvztyvlj62gje6bw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Comment-pref/pt</title>
+    <ns>8</ns>
+    <id>1376</id>
+    <revision>
+      <id>3028</id>
+      <timestamp>2019-01-14T11:34:13Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>18</id>
+      </contributor>
+      <comment>Criou a página com &quot;Comentários aprimorados&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Comentários aprimorados</text>
+      <sha1>i5i0i77jmrr2q54y5o5wfln5rc1xqe2</sha1>
+    </revision>
+  </page>
+</mediawiki>
