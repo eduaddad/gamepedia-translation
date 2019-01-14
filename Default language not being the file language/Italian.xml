@@ -1,0 +1,1161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="it">
+  <siteinfo>
+    <sitename>Minecraft Wiki</sitename>
+    <dbname>minecraft_it_gamepedia</dbname>
+    <base>https://minecraft-it.gamepedia.com/Minecraft_Wiki</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciale</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussione</namespace>
+      <namespace key="2" case="first-letter">Utente</namespace>
+      <namespace key="3" case="first-letter">Discussioni utente</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki</namespace>
+      <namespace key="5" case="first-letter">Discussioni Minecraft Wiki</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">Discussioni file</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussioni MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Discussioni template</namespace>
+      <namespace key="12" case="first-letter">Aiuto</namespace>
+      <namespace key="13" case="first-letter">Discussioni aiuto</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Discussioni categoria</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Discussioni modulo</namespace>
+      <namespace key="2300" case="first-letter">Accessorio</namespace>
+      <namespace key="2301" case="first-letter">Discussioni accessorio</namespace>
+      <namespace key="2302" case="case-sensitive">Definizione accessorio</namespace>
+      <namespace key="2303" case="case-sensitive">Discussioni definizione accessorio</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Aboutme/it</title>
+    <ns>8</ns>
+    <id>14653</id>
+    <revision>
+      <id>20614</id>
+      <timestamp>2014-06-16T07:53:50Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Su di me&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Su di me</text>
+      <sha1>5884i6joct4syq0ina5t57llw7l6dff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Aboutmehelp/it</title>
+    <ns>8</ns>
+    <id>14666</id>
+    <revision>
+      <id>20627</id>
+      <timestamp>2014-06-16T08:02:45Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Lo wikitesto è disponibile per la formattazione.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49">Lo wikitesto è disponibile per la formattazione.</text>
+      <sha1>h4519nmzlgj60okqfzl9e2iulfbiyt4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievements/it</title>
+    <ns>8</ns>
+    <id>16316</id>
+    <revision>
+      <id>28922</id>
+      <timestamp>2015-09-09T08:15:25Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Obiettivi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Obiettivi</text>
+      <sha1>oyghptlhunnx24xrtgq20ctfa4x55om</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievementsearned/it</title>
+    <ns>8</ns>
+    <id>16322</id>
+    <revision>
+      <id>28928</id>
+      <timestamp>2015-09-09T08:18:34Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Obiettivi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Obiettivi</text>
+      <sha1>oyghptlhunnx24xrtgq20ctfa4x55om</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addfriend/it</title>
+    <ns>8</ns>
+    <id>14726</id>
+    <revision>
+      <id>20738</id>
+      <timestamp>2014-06-18T07:42:32Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Aggiungi amico&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Aggiungi amico</text>
+      <sha1>exie527fcr8zlqf0t2up8qn25a15ae4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Alreadyfriends/it</title>
+    <ns>8</ns>
+    <id>16905</id>
+    <revision>
+      <id>31482</id>
+      <timestamp>2016-04-27T13:16:23Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Amici!&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Amici!</text>
+      <sha1>su1i0fbqab87i0vqihw5v85yd56bwis</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Avatar-help/it</title>
+    <ns>8</ns>
+    <id>14651</id>
+    <revision>
+      <id>20612</id>
+      <timestamp>2014-06-16T07:53:12Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Gamepedia usa Gravatar per mostrare un avatar basato sul tuo indirizzo email. Visita [http://www.gravatar.com/ gravatar.com] per cambiare il tuo avatar.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="152">Gamepedia usa Gravatar per mostrare un avatar basato sul tuo indirizzo email. Visita [http://www.gravatar.com/ gravatar.com] per cambiare il tuo avatar.</text>
+      <sha1>6azl9t42bitr4bd98k8cemuonen0j66</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Awardachievement/it</title>
+    <ns>8</ns>
+    <id>16395</id>
+    <revision>
+      <id>29016</id>
+      <timestamp>2015-09-11T14:10:55Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Premia o togli il premio degli obiettivi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40">Premia o togli il premio degli obiettivi</text>
+      <sha1>gjqdabys8womnaip9pqpyqqedv8m5ia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentaction/it</title>
+    <ns>8</ns>
+    <id>16348</id>
+    <revision>
+      <id>28963</id>
+      <timestamp>2015-09-11T07:13:57Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Invia&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Invia</text>
+      <sha1>o13bdwu8xbqa4x79e2bsjywr7j3m04y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentarchivelink/it</title>
+    <ns>8</ns>
+    <id>14588</id>
+    <revision>
+      <id>20534</id>
+      <timestamp>2014-06-15T19:37:31Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Archivio dei commenti&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Archivio dei commenti</text>
+      <sha1>49t3zdtb8n6kytus0iqc0rwjapyozah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-empty/it</title>
+    <ns>8</ns>
+    <id>14621</id>
+    <revision>
+      <id>20582</id>
+      <timestamp>2014-06-16T07:36:06Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Non ci sono commenti sulla scheda di questo utente.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="51">Non ci sono commenti sulla scheda di questo utente.</text>
+      <sha1>2mhe2j5uexi8zoahhho4tbqu28n0hm1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-link-backtoprofile/it</title>
+    <ns>8</ns>
+    <id>16335</id>
+    <revision>
+      <id>28947</id>
+      <timestamp>2015-09-11T07:09:07Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;ritorna al profilo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">ritorna al profilo</text>
+      <sha1>5uv85d5c0tv20oylbi7wpr0pjmdyrii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-title/it</title>
+    <ns>8</ns>
+    <id>14618</id>
+    <revision>
+      <id>20579</id>
+      <parentid>20576</parentid>
+      <timestamp>2014-06-16T07:35:01Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Scheda dei commenti: $1</text>
+      <sha1>7ob0uo4ydftzgi2mwps8oo6o1fdthcs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentmoderation/it</title>
+    <ns>8</ns>
+    <id>16634</id>
+    <revision>
+      <id>30197</id>
+      <timestamp>2016-01-20T15:39:43Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Moderazione dei commenti&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Moderazione dei commenti</text>
+      <sha1>md1i474rg6pib7bu88twts63ujsssc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentplaceholder/it</title>
+    <ns>8</ns>
+    <id>14587</id>
+    <revision>
+      <id>20533</id>
+      <timestamp>2014-06-15T19:36:28Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Lascia un commento&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Lascia un commento</text>
+      <sha1>5gjfwqzow3jjf4o525ssprismvt4mei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection/it</title>
+    <ns>8</ns>
+    <id>16831</id>
+    <revision>
+      <id>31366</id>
+      <timestamp>2016-04-24T10:21:17Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Obiettivi ([[Speciale:Achievements|Vedi tutti]])&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">Obiettivi ([[Speciale:Achievements|Vedi tutti]])</text>
+      <sha1>nswdr38y103eyzmv8cfw72he32l70xm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-editprofile/it</title>
+    <ns>8</ns>
+    <id>14589</id>
+    <revision>
+      <id>20535</id>
+      <timestamp>2014-06-15T19:41:36Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Modifica il profilo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Modifica il profilo</text>
+      <sha1>i5xped2n5scrjk1adhwklatfharpjkn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-friendssection/it</title>
+    <ns>8</ns>
+    <id>16832</id>
+    <revision>
+      <id>31370</id>
+      <timestamp>2016-04-24T10:23:22Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Amici ([[Speciale:Friends/$1/$3|{{#ifeq: $1 | $2 | Gestisci amici | Vedi tutti }}]])&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="84">Amici ([[Speciale:Friends/$1/$3|{{#ifeq: $1 | $2 | Gestisci amici | Vedi tutti }}]])</text>
+      <sha1>bch5tmmmskp303ife9v1494un2pnmfg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentactivitysection/it</title>
+    <ns>8</ns>
+    <id>14721</id>
+    <revision>
+      <id>20733</id>
+      <timestamp>2014-06-18T07:41:31Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Attività wiki recente&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22">Attività wiki recente</text>
+      <sha1>omb15ruq19bxeh9f9wk1tnpyg8a9m5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-recentcommentssection/it</title>
+    <ns>8</ns>
+    <id>14585</id>
+    <revision>
+      <id>20531</id>
+      <timestamp>2014-06-15T19:36:05Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Commenti recenti&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Commenti recenti</text>
+      <sha1>ijji2bc53wu9m9wrd1o86e2guxgobdd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-statisticssection/it</title>
+    <ns>8</ns>
+    <id>14581</id>
+    <revision>
+      <id>20527</id>
+      <timestamp>2014-06-15T19:33:42Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Statistiche totali&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Statistiche totali</text>
+      <sha1>afaon0h7kf7tk5o9nztkx21tno3iuha</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangeemail/it</title>
+    <ns>8</ns>
+    <id>14601</id>
+    <revision>
+      <id>20553</id>
+      <timestamp>2014-06-15T19:49:44Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Account Curse - Cambia email&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28">Account Curse - Cambia email</text>
+      <sha1>kbfvn6x1l8daolsk4l6e6h420hm3lbo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cursechangepassword/it</title>
+    <ns>8</ns>
+    <id>14602</id>
+    <revision>
+      <id>20554</id>
+      <timestamp>2014-06-15T19:50:18Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Account Curse - Cambia password&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">Account Curse - Cambia password</text>
+      <sha1>4raiueoo4prgomay8ttavgyq5nkaifo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Disable social prompts/it</title>
+    <ns>8</ns>
+    <id>16814</id>
+    <revision>
+      <id>31343</id>
+      <timestamp>2016-04-24T10:08:41Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Disabilita i popup per condividere link su Facebook, Twitter, eccetera?&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="71">Disabilita i popup per condividere link su Facebook, Twitter, eccetera?</text>
+      <sha1>f9khz2z6r8gne52qcwrnwm7ve8avpkr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dismiss notice/it</title>
+    <ns>8</ns>
+    <id>16351</id>
+    <revision>
+      <id>28966</id>
+      <timestamp>2015-09-11T07:15:19Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Chiudi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Chiudi</text>
+      <sha1>j4kstsfku9staelhzqzumdkxhruhdlr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Edit achievement/it</title>
+    <ns>8</ns>
+    <id>16317</id>
+    <revision>
+      <id>28923</id>
+      <timestamp>2015-09-09T08:16:27Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Modifica&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Modifica</text>
+      <sha1>gsl7sbkd2zoycafcs19cf0w31uns5da</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Favoritewiki/it</title>
+    <ns>8</ns>
+    <id>14579</id>
+    <revision>
+      <id>41599</id>
+      <parentid>20525</parentid>
+      <timestamp>2018-10-23T07:07:03Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Wiki preferito</text>
+      <sha1>cabasv3x9av9anxcpgpew8qjujzem5b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-Careers/it</title>
+    <ns>8</ns>
+    <id>16797</id>
+    <revision>
+      <id>31320</id>
+      <timestamp>2016-04-24T09:38:31Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Carriere&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Carriere</text>
+      <sha1>dy6xo5gknda3wkkbglfxsb5t4gxjnei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Footer-My Account/it</title>
+    <ns>8</ns>
+    <id>16796</id>
+    <revision>
+      <id>31319</id>
+      <timestamp>2016-04-24T09:37:32Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Mio account&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11">Mio account</text>
+      <sha1>langtookht68hbqyckwpvw8ftqcb13j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Friends/it</title>
+    <ns>8</ns>
+    <id>14675</id>
+    <revision>
+      <id>20636</id>
+      <timestamp>2014-06-16T08:12:12Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Amici&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Amici</text>
+      <sha1>9da3ir7ysns0n6kzfzc9vjxy7l1ipgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Localrank/it</title>
+    <ns>8</ns>
+    <id>16834</id>
+    <revision>
+      <id>31372</id>
+      <timestamp>2016-04-24T10:24:59Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Rango {{SITENAME}}&lt;br&gt;([[Speciale:WikiPoints|Classifica]])&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="58">Rango {{SITENAME}}&lt;br&gt;([[Speciale:WikiPoints|Classifica]])</text>
+      <sha1>931dgmzm1pgcqznelds8jerf2faelh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Netbar-user-page/it</title>
+    <ns>8</ns>
+    <id>16822</id>
+    <revision>
+      <id>41593</id>
+      <parentid>36723</parentid>
+      <timestamp>2018-10-23T07:00:27Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Pagina utente</text>
+      <sha1>4rfftahzt3zc2ur6nvzxt1ssmala45y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Pendingrequests/it</title>
+    <ns>8</ns>
+    <id>16404</id>
+    <revision>
+      <id>29025</id>
+      <timestamp>2015-09-11T14:14:18Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Richieste in arrivo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19">Richieste in arrivo</text>
+      <sha1>csvjnz7qc5vjrsulzwngw60xt17xflt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-help-email/it</title>
+    <ns>8</ns>
+    <id>14664</id>
+    <revision>
+      <id>20625</id>
+      <timestamp>2014-06-16T08:00:15Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;L'indirizzo email è richiesto.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">L'indirizzo email è richiesto.</text>
+      <sha1>ov1y2ctavd8pq2lcbma0cqzthrkl787</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-location/it</title>
+    <ns>8</ns>
+    <id>14644</id>
+    <revision>
+      <id>20605</id>
+      <timestamp>2014-06-16T07:43:40Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Località&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Località</text>
+      <sha1>ow9vrvt7xce3qdgykb3lzupkcj5nrr0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-profiles/it</title>
+    <ns>8</ns>
+    <id>14633</id>
+    <revision>
+      <id>20594</id>
+      <timestamp>2014-06-16T07:40:52Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Altri profili&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Altri profili</text>
+      <sha1>9yarngz199gfacy3ugzhzsxbvnqag7v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-public/it</title>
+    <ns>8</ns>
+    <id>14630</id>
+    <revision>
+      <id>20591</id>
+      <timestamp>2014-06-16T07:40:21Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Profilo pubblico&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Profilo pubblico</text>
+      <sha1>dkeerdt4s1s7szazz8fqw3du66vs07v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-created/it</title>
+    <ns>8</ns>
+    <id>14577</id>
+    <revision>
+      <id>20523</id>
+      <timestamp>2014-06-15T19:32:38Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Ha creato&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Ha creato</text>
+      <sha1>glh64lwbvif2vwtkvuobc12j0erfl35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileactivity-edited/it</title>
+    <ns>8</ns>
+    <id>14576</id>
+    <revision>
+      <id>20522</id>
+      <timestamp>2014-06-15T19:32:10Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Ha modificato&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Ha modificato</text>
+      <sha1>ism3zh4lp7tzydpjv9g9ab577ho86rt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilelink-help/it</title>
+    <ns>8</ns>
+    <id>14636</id>
+    <revision>
+      <id>20597</id>
+      <timestamp>2014-06-16T07:41:39Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;I link dei profili qua sopra devono essere scritti esattamente come sono mostrati.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="82">I link dei profili qua sopra devono essere scritti esattamente come sono mostrati.</text>
+      <sha1>k6kre54y1qtdyfqj4dwaqxvuj01gbvr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profileprefselect/it</title>
+    <ns>8</ns>
+    <id>14657</id>
+    <revision>
+      <id>20618</id>
+      <timestamp>2014-06-16T07:55:11Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Tipo di pagina&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Tipo di pagina</text>
+      <sha1>63mjtzcb5tlv2wn7edqzo7d71nt9cy6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Rank/it</title>
+    <ns>8</ns>
+    <id>14682</id>
+    <revision>
+      <id>20646</id>
+      <timestamp>2014-06-16T09:12:24Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Rango&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Rango</text>
+      <sha1>ne41jr46xf81kth6c0yhoeevay8u7xo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Removefriend/it</title>
+    <ns>8</ns>
+    <id>16401</id>
+    <revision>
+      <id>29022</id>
+      <timestamp>2015-09-11T14:14:01Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Rimuovi amico&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Rimuovi amico</text>
+      <sha1>p0p828gfwpxd7baxytbs74kf1oxvdhp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Score/it</title>
+    <ns>8</ns>
+    <id>14680</id>
+    <revision>
+      <id>20644</id>
+      <timestamp>2014-06-16T09:11:41Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Punteggio&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Punteggio</text>
+      <sha1>gefov10n0g4dy7kqirblhh1mfr88lee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Senddirectrequest/it</title>
+    <ns>8</ns>
+    <id>14755</id>
+    <revision>
+      <id>20836</id>
+      <timestamp>2014-06-22T09:10:51Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Invia una nuova richiesta d'amicizia&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36">Invia una nuova richiesta d'amicizia</text>
+      <sha1>1gy3rdsah7xa1gnv5yuol98kk37q84k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sendrequest/it</title>
+    <ns>8</ns>
+    <id>14756</id>
+    <revision>
+      <id>20837</id>
+      <timestamp>2014-06-22T09:11:08Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Invia richiesta&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Invia richiesta</text>
+      <sha1>h5xh9az90ikf17ke2gvmc1w0o3tifsw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sharing/it</title>
+    <ns>8</ns>
+    <id>14597</id>
+    <revision>
+      <id>20546</id>
+      <timestamp>2014-06-15T19:43:30Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Condividi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Condividi</text>
+      <sha1>9mebhbgd5bm4ct3ywxygphl9cepojsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors/it</title>
+    <ns>8</ns>
+    <id>16876</id>
+    <revision>
+      <id>37812</id>
+      <parentid>31447</parentid>
+      <timestamp>2017-06-27T06:05:09Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Migliori editori del wiki</text>
+      <sha1>0qmcw06lfqxgbafb29xi3wcxo74as4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcontribs/it</title>
+    <ns>8</ns>
+    <id>14608</id>
+    <revision>
+      <id>20563</id>
+      <timestamp>2014-06-15T20:01:14Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Contributi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Contributi</text>
+      <sha1>theypw1gfpscl9l1eogzrcrisi87r9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaldeletes/it</title>
+    <ns>8</ns>
+    <id>14609</id>
+    <revision>
+      <id>20564</id>
+      <timestamp>2014-06-15T20:01:29Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Cancellazioni&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Cancellazioni</text>
+      <sha1>d820248668pfedrmfhd9tkf31j0ujlw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Userprofiletab/it</title>
+    <ns>8</ns>
+    <id>14592</id>
+    <revision>
+      <id>20538</id>
+      <timestamp>2014-06-15T19:42:36Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Profilo utente&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Profilo utente</text>
+      <sha1>4ltqfv5wn94e36ii4g6gd0nbiw0m04z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Wikisedited/it</title>
+    <ns>8</ns>
+    <id>15851</id>
+    <revision>
+      <id>41600</id>
+      <parentid>26852</parentid>
+      <timestamp>2018-10-23T07:07:33Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Wiki modificati</text>
+      <sha1>dqjbovdvqsqrliws1ejzv7k76l0uf32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalpatrols/it</title>
+    <ns>8</ns>
+    <id>16835</id>
+    <revision>
+      <id>31376</id>
+      <parentid>31374</parentid>
+      <timestamp>2016-04-24T10:26:35Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Annullata la modifica 31374 di [[Special:Contributions/Raffox97|Raffox97]] ([[User talk:Raffox97|discussione]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Osservati speciali</text>
+      <sha1>7dfvcbhvcc1smd79iwc1ewa06z0wgn6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalfriends/it</title>
+    <ns>8</ns>
+    <id>14672</id>
+    <revision>
+      <id>31369</id>
+      <parentid>20633</parentid>
+      <timestamp>2016-04-24T10:22:58Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Pagina sostituita con 'Amici'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5">Amici</text>
+      <sha1>9da3ir7ysns0n6kzfzc9vjxy7l1ipgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totaledits/it</title>
+    <ns>8</ns>
+    <id>14612</id>
+    <revision>
+      <id>20567</id>
+      <timestamp>2014-06-15T20:01:35Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Modifiche&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Modifiche</text>
+      <sha1>cwctp100rzdrrl31exoqhnwo9xwukq8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement name/it</title>
+    <ns>8</ns>
+    <id>16386</id>
+    <revision>
+      <id>29008</id>
+      <parentid>29007</parentid>
+      <timestamp>2015-09-11T14:07:13Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17">Nome visualizzato</text>
+      <sha1>b3ti5uqs4i3ihhjzk807jqvet7kqsmw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Achievement category/it</title>
+    <ns>8</ns>
+    <id>16389</id>
+    <revision>
+      <id>29010</id>
+      <timestamp>2015-09-11T14:07:58Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Categoria&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Categoria</text>
+      <sha1>afy6xnmuwosy9fho8230ubzss3citpu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Add achievement/it</title>
+    <ns>8</ns>
+    <id>16327</id>
+    <revision>
+      <id>28933</id>
+      <timestamp>2015-09-09T08:39:42Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Aggiungi&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Aggiungi</text>
+      <sha1>fewngb2j2n8qnfc25a4ypntdbg4n2jp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Allsites/it</title>
+    <ns>8</ns>
+    <id>14600</id>
+    <revision>
+      <id>20552</id>
+      <timestamp>2014-06-15T19:47:57Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Tutte le wiki del network&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Tutte le wiki del network</text>
+      <sha1>7p5fcehkkyqmmupdse8jhexo8yg8gf4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Article id number/it</title>
+    <ns>8</ns>
+    <id>16378</id>
+    <revision>
+      <id>28999</id>
+      <timestamp>2015-09-11T13:48:08Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Articolo ID #&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13">Articolo ID #</text>
+      <sha1>1zzlj4e1p96bs488iluetmpf53ozc5h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award/it</title>
+    <ns>8</ns>
+    <id>16390</id>
+    <revision>
+      <id>29011</id>
+      <timestamp>2015-09-11T14:09:35Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Premia&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6">Premia</text>
+      <sha1>qwb0vjes3g6gockycc3ewt7xgg7fwc4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Award hint/it</title>
+    <ns>8</ns>
+    <id>16393</id>
+    <revision>
+      <id>29014</id>
+      <timestamp>2015-09-11T14:10:07Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Inserisci uno username, seleziona un obiettivo e clicca su un'azione.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="69">Inserisci uno username, seleziona un obiettivo e clicca su un'azione.</text>
+      <sha1>7orxzeiackl02exvflbwbby2vjtwi7b</sha1>
+    </revision>
+  </page>
+</mediawiki>
