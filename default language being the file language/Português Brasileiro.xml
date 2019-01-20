@@ -1,21 +1,21 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pt">
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pt-BR">
   <siteinfo>
-    <sitename>Gamepedia Help Wiki</sitename>
-    <dbname>help_ptbr</dbname>
-    <base>https://help-pt.gamepedia.com/Ajuda_para_Wikis_da_Gamepedia</base>
+    <sitename>Minecraft Wiki</sitename>
+    <dbname>minecraft_br_gamepedia</dbname>
+    <base>https://minecraft-pt.gamepedia.com/Minecraft_Wiki</base>
     <generator>MediaWiki 1.31.1</generator>
     <case>first-letter</case>
     <namespaces>
-      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-2" case="first-letter">Mídia</namespace>
       <namespace key="-1" case="first-letter">Especial</namespace>
       <namespace key="0" case="first-letter" />
       <namespace key="1" case="first-letter">Discussão</namespace>
-      <namespace key="2" case="first-letter">Utilizador</namespace>
-      <namespace key="3" case="first-letter">Utilizador Discussão</namespace>
-      <namespace key="4" case="first-letter">Gamepedia Help Wiki</namespace>
-      <namespace key="5" case="first-letter">Gamepedia Help Wiki Discussão</namespace>
-      <namespace key="6" case="first-letter">Ficheiro</namespace>
-      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário</namespace>
+      <namespace key="3" case="first-letter">Usuário Discussão</namespace>
+      <namespace key="4" case="first-letter">Minecraft Wiki</namespace>
+      <namespace key="5" case="first-letter">Minecraft Wiki Discussão</namespace>
+      <namespace key="6" case="first-letter">Arquivo</namespace>
+      <namespace key="7" case="first-letter">Arquivo Discussão</namespace>
       <namespace key="8" case="first-letter">MediaWiki</namespace>
       <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
       <namespace key="10" case="first-letter">Predefinição</namespace>
@@ -24,39 +24,29 @@
       <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
       <namespace key="14" case="first-letter">Categoria</namespace>
       <namespace key="15" case="first-letter">Categoria Discussão</namespace>
-      <namespace key="106" case="first-letter">Form</namespace>
-      <namespace key="107" case="first-letter">Form talk</namespace>
-      <namespace key="110" case="first-letter">Forum</namespace>
-      <namespace key="111" case="first-letter">Forum talk</namespace>
       <namespace key="202" case="first-letter">UserProfile</namespace>
       <namespace key="274" case="first-letter">Widget</namespace>
       <namespace key="275" case="first-letter">Widget talk</namespace>
-      <namespace key="450" case="first-letter">Boilerplate</namespace>
-      <namespace key="451" case="first-letter">Boilerplate talk</namespace>
-      <namespace key="600" case="first-letter">Intersection</namespace>
-      <namespace key="601" case="first-letter">Intersection talk</namespace>
       <namespace key="828" case="first-letter">Módulo</namespace>
       <namespace key="829" case="first-letter">Módulo Discussão</namespace>
       <namespace key="2300" case="first-letter">Gadget</namespace>
       <namespace key="2301" case="first-letter">Gadget talk</namespace>
       <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
       <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
-      <namespace key="10000" case="first-letter">DPL</namespace>
-      <namespace key="10001" case="first-letter">DPL talk</namespace>
     </namespaces>
   </siteinfo>
   <page>
     <title>MediaWiki:Aboutme</title>
     <ns>8</ns>
-    <id>567</id>
+    <id>10021</id>
     <revision>
-      <id>1203</id>
-      <timestamp>2016-12-23T11:43:34Z</timestamp>
+      <id>17812</id>
+      <timestamp>2014-05-08T17:45:11Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Sobre Mim&quot;</comment>
+      <comment>Criou página com 'Sobre Mim'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Sobre Mim</text>
@@ -66,15 +56,15 @@
   <page>
     <title>MediaWiki:Aboutmehelp</title>
     <ns>8</ns>
-    <id>572</id>
+    <id>10349</id>
     <revision>
-      <id>1208</id>
-      <timestamp>2016-12-23T11:44:37Z</timestamp>
+      <id>18290</id>
+      <timestamp>2014-05-12T18:05:16Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Wikitexto está disponível para a formatação.&quot;</comment>
+      <comment>Criou página com 'Wikitexto está disponível para a formatação.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="48">Wikitexto está disponível para a formatação.</text>
@@ -84,15 +74,15 @@
   <page>
     <title>MediaWiki:Achievements</title>
     <ns>8</ns>
-    <id>552</id>
+    <id>16114</id>
     <revision>
-      <id>1188</id>
-      <timestamp>2016-12-23T11:37:44Z</timestamp>
+      <id>34618</id>
+      <timestamp>2015-10-17T16:09:20Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <comment>Criou página com 'Conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10">Conquistas</text>
@@ -102,15 +92,15 @@
   <page>
     <title>MediaWiki:Achievementsearned</title>
     <ns>8</ns>
-    <id>550</id>
+    <id>21967</id>
     <revision>
-      <id>1186</id>
-      <timestamp>2016-12-23T11:37:26Z</timestamp>
+      <id>53998</id>
+      <timestamp>2017-01-12T14:11:54Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <comment>Criou página com 'Conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10">Conquistas</text>
@@ -120,15 +110,15 @@
   <page>
     <title>MediaWiki:Addfriend</title>
     <ns>8</ns>
-    <id>721</id>
+    <id>10139</id>
     <revision>
-      <id>1384</id>
-      <timestamp>2017-01-23T18:54:50Z</timestamp>
+      <id>17936</id>
+      <timestamp>2014-05-09T14:44:47Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Adicionar Amigo&quot;</comment>
+      <comment>Criou página com 'Adicionar Amigo'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Adicionar Amigo</text>
@@ -138,15 +128,15 @@
   <page>
     <title>MediaWiki:Alreadyfriends</title>
     <ns>8</ns>
-    <id>715</id>
+    <id>10134</id>
     <revision>
-      <id>1378</id>
-      <timestamp>2017-01-23T18:52:01Z</timestamp>
+      <id>17931</id>
+      <timestamp>2014-05-09T14:42:02Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Amigos!&quot;</comment>
+      <comment>Criou página com 'Amigos!'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="7">Amigos!</text>
@@ -156,15 +146,15 @@
   <page>
     <title>MediaWiki:Auth continue</title>
     <ns>8</ns>
-    <id>908</id>
+    <id>23904</id>
     <revision>
-      <id>1691</id>
-      <timestamp>2017-03-01T01:31:45Z</timestamp>
+      <id>58485</id>
+      <timestamp>2017-03-01T01:25:13Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Continuar&quot;</comment>
+      <comment>Criou página com 'Continuar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Continuar</text>
@@ -174,15 +164,15 @@
   <page>
     <title>MediaWiki:Avatar-help</title>
     <ns>8</ns>
-    <id>585</id>
+    <id>10026</id>
     <revision>
-      <id>1221</id>
-      <timestamp>2016-12-23T11:48:52Z</timestamp>
+      <id>17817</id>
+      <timestamp>2014-05-08T17:47:54Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Gamepedia usa Gravatar para exibir um avatar baseado em seu endereço de e-mail. Visite [http://www.gravatar.com/ gravatar.com] para mudar o seu avatar.&quot;</comment>
+      <comment>Criou página com 'Gamepedia usa Gravatar para exibir um avatar baseado em seu endereço de e-mail. Visite [http://www.gravatar.com/ gravatar.com] para mudar o seu avatar.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="152">Gamepedia usa Gravatar para exibir um avatar baseado em seu endereço de e-mail. Visite [http://www.gravatar.com/ gravatar.com] para mudar o seu avatar.</text>
@@ -192,15 +182,15 @@
   <page>
     <title>MediaWiki:Awardachievement</title>
     <ns>8</ns>
-    <id>837</id>
+    <id>16148</id>
     <revision>
-      <id>1515</id>
-      <timestamp>2017-01-24T14:43:40Z</timestamp>
+      <id>34652</id>
+      <timestamp>2015-10-17T16:49:58Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Premiar ou Retirar Conquistas&quot;</comment>
+      <comment>Criou página com 'Premiar ou Retirar Conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="29">Premiar ou Retirar Conquistas</text>
@@ -208,89 +198,17 @@
     </revision>
   </page>
   <page>
-    <title>MediaWiki:Boilerplate-special</title>
-    <ns>8</ns>
-    <id>809</id>
-    <revision>
-      <id>1487</id>
-      <timestamp>2017-01-24T14:35:17Z</timestamp>
-      <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
-      </contributor>
-      <comment>Criou a página com &quot;Gerenciar boilerplates&quot;</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22">Gerenciar boilerplates</text>
-      <sha1>l3l7xmm2368oj7w85vcx6a3f490yhti</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>MediaWiki:Br-boilerplate-list</title>
-    <ns>8</ns>
-    <id>826</id>
-    <revision>
-      <id>1504</id>
-      <timestamp>2017-01-24T14:39:49Z</timestamp>
-      <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
-      </contributor>
-      <comment>Criou a página com &quot;Lista de boilerplates&quot;</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21">Lista de boilerplates</text>
-      <sha1>o4rocx2azzgi2m46mq4nfahciz7460x</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>MediaWiki:Br-boilerplate-list-none</title>
-    <ns>8</ns>
-    <id>829</id>
-    <revision>
-      <id>1507</id>
-      <timestamp>2017-01-24T14:40:33Z</timestamp>
-      <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
-      </contributor>
-      <comment>Criou a página com &quot;Estes não são boilerplates existentes dentro do espaço para nome Boilerplate.&quot;</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="80">Estes não são boilerplates existentes dentro do espaço para nome Boilerplate.</text>
-      <sha1>bwwndibd819adxgur17m5tlle9kttrd</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>MediaWiki:Br-create-boilerplates</title>
-    <ns>8</ns>
-    <id>814</id>
-    <revision>
-      <id>1492</id>
-      <timestamp>2017-01-24T14:36:06Z</timestamp>
-      <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
-      </contributor>
-      <comment>Criou a página com &quot;Criação de novos boilerplates&quot;</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31">Criação de novos boilerplates</text>
-      <sha1>ky377htm3sjtec3zz8fjc544d6144k6</sha1>
-    </revision>
-  </page>
-  <page>
     <title>MediaWiki:Commentaction</title>
     <ns>8</ns>
-    <id>702</id>
+    <id>10070</id>
     <revision>
-      <id>1365</id>
-      <timestamp>2017-01-23T18:41:52Z</timestamp>
+      <id>17867</id>
+      <timestamp>2014-05-09T11:38:36Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Postar&quot;</comment>
+      <comment>Criou página com 'Postar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Postar</text>
@@ -300,15 +218,15 @@
   <page>
     <title>MediaWiki:Commentarchivelink</title>
     <ns>8</ns>
-    <id>559</id>
+    <id>10071</id>
     <revision>
-      <id>1195</id>
-      <timestamp>2016-12-23T11:39:33Z</timestamp>
+      <id>17868</id>
+      <timestamp>2014-05-09T11:39:49Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Arquivo de Comentários&quot;</comment>
+      <comment>Criou página com 'Arquivo de Comentários'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="23">Arquivo de Comentários</text>
@@ -318,15 +236,15 @@
   <page>
     <title>MediaWiki:Commentboard-empty</title>
     <ns>8</ns>
-    <id>734</id>
+    <id>10073</id>
     <revision>
-      <id>1397</id>
-      <timestamp>2017-01-23T18:57:24Z</timestamp>
+      <id>17870</id>
+      <timestamp>2014-05-09T11:41:22Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Não há comentários deste usuário.&quot;</comment>
+      <comment>Criou página com 'Não há comentários deste usuário.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="37">Não há comentários deste usuário.</text>
@@ -336,15 +254,15 @@
   <page>
     <title>MediaWiki:Commentboard-link-backtoprofile</title>
     <ns>8</ns>
-    <id>729</id>
+    <id>22306</id>
     <revision>
-      <id>1392</id>
-      <timestamp>2017-01-23T18:56:29Z</timestamp>
+      <id>54778</id>
+      <timestamp>2017-01-21T01:54:12Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Voltar para o perfil&quot;</comment>
+      <comment>Criou página com 'Voltar para o perfil'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Voltar para o perfil</text>
@@ -354,15 +272,15 @@
   <page>
     <title>MediaWiki:Commentboard-title</title>
     <ns>8</ns>
-    <id>737</id>
+    <id>10076</id>
     <revision>
-      <id>1400</id>
-      <timestamp>2017-01-23T18:58:30Z</timestamp>
+      <id>17873</id>
+      <timestamp>2014-05-09T11:43:07Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Comentários: $1&quot;</comment>
+      <comment>Criou página com 'Comentários: $1'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="16">Comentários: $1</text>
@@ -372,15 +290,15 @@
   <page>
     <title>MediaWiki:Commentmoderation</title>
     <ns>8</ns>
-    <id>842</id>
+    <id>21982</id>
     <revision>
-      <id>1520</id>
-      <timestamp>2017-01-24T14:44:44Z</timestamp>
+      <id>54013</id>
+      <timestamp>2017-01-12T15:04:52Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Moderação dos comentários&quot;</comment>
+      <comment>Criou página com 'Moderação dos comentários'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="28">Moderação dos comentários</text>
@@ -390,15 +308,15 @@
   <page>
     <title>MediaWiki:Commentplaceholder</title>
     <ns>8</ns>
-    <id>742</id>
+    <id>10078</id>
     <revision>
-      <id>1405</id>
-      <timestamp>2017-01-23T18:59:40Z</timestamp>
+      <id>17875</id>
+      <timestamp>2014-05-09T11:43:44Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Deixe um comentário&quot;</comment>
+      <comment>Criou página com 'Deixe um comentário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Deixe um comentário</text>
@@ -408,15 +326,15 @@
   <page>
     <title>MediaWiki:Cp-achievementssection</title>
     <ns>8</ns>
-    <id>555</id>
+    <id>15489</id>
     <revision>
-      <id>1191</id>
-      <timestamp>2016-12-23T11:38:04Z</timestamp>
+      <id>31833</id>
+      <timestamp>2015-08-07T18:34:07Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Conquistas&quot;</comment>
+      <comment>Criou página com 'Conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10">Conquistas</text>
@@ -426,15 +344,15 @@
   <page>
     <title>MediaWiki:Cp-editprofile</title>
     <ns>8</ns>
-    <id>560</id>
+    <id>10092</id>
     <revision>
-      <id>1196</id>
-      <timestamp>2016-12-23T11:40:22Z</timestamp>
+      <id>17889</id>
+      <timestamp>2014-05-09T11:54:43Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Editar Perfil&quot;</comment>
+      <comment>Criou página com 'Editar Perfil'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Editar Perfil</text>
@@ -444,15 +362,15 @@
   <page>
     <title>MediaWiki:Cp-friendssection</title>
     <ns>8</ns>
-    <id>717</id>
+    <id>22332</id>
     <revision>
-      <id>1380</id>
-      <timestamp>2017-01-23T18:53:32Z</timestamp>
+      <id>54804</id>
+      <timestamp>2017-01-21T01:58:37Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <comment>Criou página com 'Amigos'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Amigos</text>
@@ -462,15 +380,15 @@
   <page>
     <title>MediaWiki:Cp-friendssection-all</title>
     <ns>8</ns>
-    <id>684</id>
+    <id>22463</id>
     <revision>
-      <id>1347</id>
-      <timestamp>2017-01-23T18:34:33Z</timestamp>
+      <id>55085</id>
+      <timestamp>2017-01-22T16:39:19Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;([[Especial:Friends/$1/$3|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver todos }}]])&quot;</comment>
+      <comment>Criou página com '([[Especial:Friends/$1/$3|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver todos }}]])'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="79">([[Especial:Friends/$1/$3|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver todos }}]])</text>
@@ -480,15 +398,15 @@
   <page>
     <title>MediaWiki:Cp-mobile-aboutme</title>
     <ns>8</ns>
-    <id>570</id>
+    <id>15482</id>
     <revision>
-      <id>1206</id>
-      <timestamp>2016-12-23T11:43:55Z</timestamp>
+      <id>31826</id>
+      <timestamp>2015-08-07T18:33:01Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Sobre Mim&quot;</comment>
+      <comment>Criou página com 'Sobre Mim'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Sobre Mim</text>
@@ -496,17 +414,35 @@
     </revision>
   </page>
   <page>
+    <title>MediaWiki:Cp-recentactivitysection</title>
+    <ns>8</ns>
+    <id>10101</id>
+    <revision>
+      <id>17898</id>
+      <timestamp>2014-05-09T12:03:10Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Atividade Recente na Wiki'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25">Atividade Recente na Wiki</text>
+      <sha1>ep0zaank1e6qrxhds0tlxoaelel4ivf</sha1>
+    </revision>
+  </page>
+  <page>
     <title>MediaWiki:Cp-recentcommentssection</title>
     <ns>8</ns>
-    <id>556</id>
+    <id>10103</id>
     <revision>
-      <id>1192</id>
-      <timestamp>2016-12-23T11:38:34Z</timestamp>
+      <id>17900</id>
+      <timestamp>2014-05-09T12:03:59Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Comentários Recentes&quot;</comment>
+      <comment>Criou página com 'Comentários Recentes'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="21">Comentários Recentes</text>
@@ -516,15 +452,15 @@
   <page>
     <title>MediaWiki:Cp-statisticssection</title>
     <ns>8</ns>
-    <id>525</id>
+    <id>10105</id>
     <revision>
-      <id>1158</id>
-      <timestamp>2016-12-23T11:28:57Z</timestamp>
+      <id>17902</id>
+      <timestamp>2014-05-09T12:11:49Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Total de Estatísticas&quot;</comment>
+      <comment>Criou página com 'Total de Estatísticas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="22">Total de Estatísticas</text>
@@ -534,15 +470,15 @@
   <page>
     <title>MediaWiki:Cursechangeemail</title>
     <ns>8</ns>
-    <id>845</id>
+    <id>9583</id>
     <revision>
-      <id>1523</id>
-      <timestamp>2017-01-24T14:45:40Z</timestamp>
+      <id>16987</id>
+      <timestamp>2014-04-23T19:19:09Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Conta Curse - Alterar Email&quot;</comment>
+      <comment>Criou página com 'Conta Curse - Alterar Email'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="27">Conta Curse - Alterar Email</text>
@@ -552,15 +488,15 @@
   <page>
     <title>MediaWiki:Cursechangepassword</title>
     <ns>8</ns>
-    <id>848</id>
+    <id>9586</id>
     <revision>
-      <id>1526</id>
-      <timestamp>2017-01-24T14:46:37Z</timestamp>
+      <id>16990</id>
+      <timestamp>2014-04-23T19:20:06Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Conta Curse - Alterar Senha&quot;</comment>
+      <comment>Criou página com 'Conta Curse - Alterar Senha'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="27">Conta Curse - Alterar Senha</text>
@@ -570,15 +506,15 @@
   <page>
     <title>MediaWiki:Disable social prompts</title>
     <ns>8</ns>
-    <id>608</id>
+    <id>10351</id>
     <revision>
-      <id>1265</id>
-      <timestamp>2017-01-23T00:54:37Z</timestamp>
+      <id>18292</id>
+      <timestamp>2014-05-12T18:12:33Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Desativar pop up sociais instruções para compartilhar links com Facebook, Twitter, etc?&quot;</comment>
+      <comment>Criou página com 'Desativar pop up sociais instruções para compartilhar links com Facebook, Twitter, etc?'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="89">Desativar pop up sociais instruções para compartilhar links com Facebook, Twitter, etc?</text>
@@ -588,15 +524,15 @@
   <page>
     <title>MediaWiki:Dismiss notice</title>
     <ns>8</ns>
-    <id>1092</id>
+    <id>10003</id>
     <revision>
-      <id>2122</id>
-      <timestamp>2017-10-13T13:51:13Z</timestamp>
+      <id>17782</id>
+      <timestamp>2014-05-08T11:26:50Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Fechar&quot;</comment>
+      <comment>Criou página com 'Fechar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Fechar</text>
@@ -606,15 +542,15 @@
   <page>
     <title>MediaWiki:Edit achievement</title>
     <ns>8</ns>
-    <id>943</id>
+    <id>16119</id>
     <revision>
-      <id>1780</id>
-      <timestamp>2017-05-12T20:53:34Z</timestamp>
+      <id>34623</id>
+      <timestamp>2015-10-17T16:12:33Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Editar&quot;</comment>
+      <comment>Criou página com 'Editar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Editar</text>
@@ -624,15 +560,15 @@
   <page>
     <title>MediaWiki:Empty-location-text-mod</title>
     <ns>8</ns>
-    <id>1079</id>
+    <id>26807</id>
     <revision>
-      <id>2107</id>
-      <timestamp>2017-10-12T15:29:33Z</timestamp>
+      <id>67637</id>
+      <timestamp>2017-10-12T15:29:18Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Este usuário não completou sua localização, clique para editar.&quot;</comment>
+      <comment>Criou página com 'Este usuário não completou sua localização, clique para editar.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="67">Este usuário não completou sua localização, clique para editar.</text>
@@ -642,15 +578,15 @@
   <page>
     <title>MediaWiki:Favoritewiki</title>
     <ns>8</ns>
-    <id>524</id>
+    <id>10020</id>
     <revision>
-      <id>1157</id>
-      <timestamp>2016-12-23T11:28:16Z</timestamp>
+      <id>17811</id>
+      <timestamp>2014-05-08T17:44:01Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Wiki Favorita&quot;</comment>
+      <comment>Criou página com 'Wiki Favorita'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Wiki Favorita</text>
@@ -660,15 +596,15 @@
   <page>
     <title>MediaWiki:Footer-Careers</title>
     <ns>8</ns>
-    <id>1192</id>
+    <id>14701</id>
     <revision>
-      <id>2423</id>
-      <timestamp>2018-06-16T23:16:37Z</timestamp>
+      <id>29680</id>
+      <timestamp>2015-04-06T02:01:12Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Carreiras&quot;</comment>
+      <comment>Criou página com 'Carreiras'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Carreiras</text>
@@ -678,15 +614,15 @@
   <page>
     <title>MediaWiki:Footer-Contact Us</title>
     <ns>8</ns>
-    <id>680</id>
+    <id>22462</id>
     <revision>
-      <id>1343</id>
-      <timestamp>2017-01-23T18:33:19Z</timestamp>
+      <id>55084</id>
+      <timestamp>2017-01-22T16:33:53Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Contate-nos&quot;</comment>
+      <comment>Criou página com 'Contate-nos'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="11">Contate-nos</text>
@@ -696,15 +632,15 @@
   <page>
     <title>MediaWiki:Footer-My Account</title>
     <ns>8</ns>
-    <id>1190</id>
+    <id>14716</id>
     <revision>
-      <id>2421</id>
-      <timestamp>2018-06-16T23:15:10Z</timestamp>
+      <id>29695</id>
+      <timestamp>2015-04-06T02:10:43Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Minha Conta&quot;</comment>
+      <comment>Criou página com 'Minha Conta'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="11">Minha Conta</text>
@@ -714,15 +650,15 @@
   <page>
     <title>MediaWiki:Friends</title>
     <ns>8</ns>
-    <id>707</id>
+    <id>10129</id>
     <revision>
-      <id>1370</id>
-      <timestamp>2017-01-23T18:50:27Z</timestamp>
+      <id>17926</id>
+      <timestamp>2014-05-09T14:38:25Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <comment>Criou página com 'Amigos'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Amigos</text>
@@ -732,15 +668,15 @@
   <page>
     <title>MediaWiki:Linkaccounts</title>
     <ns>8</ns>
-    <id>860</id>
+    <id>22060</id>
     <revision>
-      <id>1538</id>
-      <timestamp>2017-01-24T14:49:36Z</timestamp>
+      <id>54274</id>
+      <timestamp>2017-01-16T15:36:48Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Vincular contas&quot;</comment>
+      <comment>Criou página com 'Vincular contas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Vincular contas</text>
@@ -750,15 +686,15 @@
   <page>
     <title>MediaWiki:Localrank</title>
     <ns>8</ns>
-    <id>546</id>
+    <id>10239</id>
     <revision>
-      <id>1179</id>
-      <timestamp>2016-12-23T11:35:38Z</timestamp>
+      <id>19310</id>
+      <parentid>18059</parentid>
+      <timestamp>2014-06-05T20:41:22Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Posição na {{SITENAME}}&lt;br&gt;([[Especial:WikiPoints|Classificação]])&quot;</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="70">Posição na {{SITENAME}}&lt;br&gt;([[Especial:WikiPoints|Classificação]])</text>
@@ -768,15 +704,15 @@
   <page>
     <title>MediaWiki:Locationlabel</title>
     <ns>8</ns>
-    <id>1197</id>
+    <id>27346</id>
     <revision>
-      <id>2428</id>
-      <timestamp>2018-06-16T23:19:29Z</timestamp>
+      <id>68656</id>
+      <timestamp>2017-12-02T22:07:52Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Localização&quot;</comment>
+      <comment>Criou página com 'Localização'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Localização</text>
@@ -786,15 +722,15 @@
   <page>
     <title>MediaWiki:Login name</title>
     <ns>8</ns>
-    <id>762</id>
+    <id>9843</id>
     <revision>
-      <id>1425</id>
-      <timestamp>2017-01-23T19:05:47Z</timestamp>
+      <id>17259</id>
+      <timestamp>2014-04-26T00:16:14Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Email ou Nome de Usuário:&quot;</comment>
+      <comment>Criou página com 'Email ou Nome de Usuário:'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26">Email ou Nome de Usuário:</text>
@@ -804,15 +740,15 @@
   <page>
     <title>MediaWiki:Netbar-register</title>
     <ns>8</ns>
-    <id>614</id>
+    <id>14696</id>
     <revision>
-      <id>1271</id>
-      <timestamp>2017-01-23T00:58:54Z</timestamp>
+      <id>29675</id>
+      <timestamp>2015-04-06T01:56:43Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Registrar&quot;</comment>
+      <comment>Criou página com 'Registrar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Registrar</text>
@@ -822,15 +758,15 @@
   <page>
     <title>MediaWiki:Netbar-signin</title>
     <ns>8</ns>
-    <id>768</id>
+    <id>14693</id>
     <revision>
-      <id>1431</id>
-      <timestamp>2017-01-23T19:08:32Z</timestamp>
+      <id>29672</id>
+      <timestamp>2015-04-06T01:55:59Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Entrar&quot;</comment>
+      <comment>Criou página com 'Entrar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Entrar</text>
@@ -840,15 +776,15 @@
   <page>
     <title>MediaWiki:Netbar-user-page</title>
     <ns>8</ns>
-    <id>691</id>
+    <id>14746</id>
     <revision>
-      <id>1354</id>
-      <timestamp>2017-01-23T18:38:07Z</timestamp>
+      <id>29848</id>
+      <timestamp>2015-04-17T14:23:34Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Minha Página de Usuário&quot;</comment>
+      <comment>Criou página com 'Minha Página de Usuário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="25">Minha Página de Usuário</text>
@@ -858,33 +794,33 @@
   <page>
     <title>MediaWiki:New account social</title>
     <ns>8</ns>
-    <id>610</id>
+    <id>10176</id>
     <revision>
-      <id>1267</id>
-      <timestamp>2017-01-23T00:55:06Z</timestamp>
+      <id>17976</id>
+      <timestamp>2014-05-09T15:13:08Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Obrigado por criar uma conta! Deseja compartilhar com seus amigos?&quot;</comment>
+      <comment>Criou página com 'Obrigado por criar uma conta!  Deseja compartilhar com seus amigos?'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="66">Obrigado por criar uma conta! Deseja compartilhar com seus amigos?</text>
-      <sha1>l4v6vma21qjgc3iq2p89zymw578dehm</sha1>
+      <text xml:space="preserve" bytes="67">Obrigado por criar uma conta!  Deseja compartilhar com seus amigos?</text>
+      <sha1>cedw0pdx2vkdmpugm8tv6n8eyba5b7v</sha1>
     </revision>
   </page>
   <page>
     <title>MediaWiki:New password</title>
     <ns>8</ns>
-    <id>904</id>
+    <id>23767</id>
     <revision>
-      <id>1687</id>
-      <timestamp>2017-02-27T22:03:56Z</timestamp>
+      <id>58258</id>
+      <timestamp>2017-02-27T17:23:43Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Nova Senha&quot;</comment>
+      <comment>Criou página com 'Nova Senha'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10">Nova Senha</text>
@@ -894,15 +830,15 @@
   <page>
     <title>MediaWiki:Pendingrequests</title>
     <ns>8</ns>
-    <id>952</id>
+    <id>14425</id>
     <revision>
-      <id>1789</id>
-      <timestamp>2017-05-12T20:56:02Z</timestamp>
+      <id>28279</id>
+      <timestamp>2015-01-21T16:14:45Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Solicitações Pendentes&quot;</comment>
+      <comment>Criou página com 'Solicitações Pendentes'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="24">Solicitações Pendentes</text>
@@ -912,15 +848,15 @@
   <page>
     <title>MediaWiki:Prefs-help-email</title>
     <ns>8</ns>
-    <id>1201</id>
+    <id>10346</id>
     <revision>
-      <id>2432</id>
-      <timestamp>2018-06-16T23:44:50Z</timestamp>
+      <id>70270</id>
+      <parentid>18287</parentid>
+      <timestamp>2018-06-16T23:44:12Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;O endereço de e-mail é opcional, mas será necessário para recriar sua senha caso esqueça a antiga.&quot;</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="103">O endereço de e-mail é opcional, mas será necessário para recriar sua senha caso esqueça a antiga.</text>
@@ -930,15 +866,15 @@
   <page>
     <title>MediaWiki:Prefs-location</title>
     <ns>8</ns>
-    <id>574</id>
+    <id>10051</id>
     <revision>
-      <id>1210</id>
-      <timestamp>2016-12-23T11:45:12Z</timestamp>
+      <id>17842</id>
+      <timestamp>2014-05-08T19:00:25Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Localização&quot;</comment>
+      <comment>Criou página com 'Localização'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Localização</text>
@@ -948,15 +884,15 @@
   <page>
     <title>MediaWiki:Prefs-profiles</title>
     <ns>8</ns>
-    <id>579</id>
+    <id>10052</id>
     <revision>
-      <id>1215</id>
-      <timestamp>2016-12-23T11:46:45Z</timestamp>
+      <id>17843</id>
+      <timestamp>2014-05-08T19:01:26Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Outros Perfis&quot;</comment>
+      <comment>Criou página com 'Outros Perfis'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Outros Perfis</text>
@@ -966,15 +902,15 @@
   <page>
     <title>MediaWiki:Prefs-public</title>
     <ns>8</ns>
-    <id>561</id>
+    <id>10053</id>
     <revision>
-      <id>1197</id>
-      <timestamp>2016-12-23T11:41:14Z</timestamp>
+      <id>17844</id>
+      <timestamp>2014-05-08T19:02:16Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Perfil Público&quot;</comment>
+      <comment>Criou página com 'Perfil Público'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Perfil Público</text>
@@ -984,14 +920,14 @@
   <page>
     <title>MediaWiki:Privacy policy banner</title>
     <ns>8</ns>
-    <id>907</id>
+    <id>23895</id>
     <revision>
-      <id>2920</id>
-      <parentid>1690</parentid>
-      <timestamp>2019-01-14T01:58:11Z</timestamp>
+      <id>74984</id>
+      <parentid>58476</parentid>
+      <timestamp>2019-01-14T01:59:02Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
@@ -1002,15 +938,15 @@
   <page>
     <title>MediaWiki:Profileactivity-created</title>
     <ns>8</ns>
-    <id>946</id>
+    <id>10008</id>
     <revision>
-      <id>1783</id>
-      <timestamp>2017-05-12T20:54:30Z</timestamp>
+      <id>17854</id>
+      <parentid>17799</parentid>
+      <timestamp>2014-05-08T19:28:55Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Criou&quot;</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="5">Criou</text>
@@ -1020,15 +956,15 @@
   <page>
     <title>MediaWiki:Profileactivity-edited</title>
     <ns>8</ns>
-    <id>940</id>
+    <id>10010</id>
     <revision>
-      <id>1777</id>
-      <timestamp>2017-05-12T20:52:56Z</timestamp>
+      <id>17857</id>
+      <parentid>17801</parentid>
+      <timestamp>2014-05-08T19:29:38Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Editou&quot;</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6">Editou</text>
@@ -1038,15 +974,15 @@
   <page>
     <title>MediaWiki:Profilelink-help</title>
     <ns>8</ns>
-    <id>582</id>
+    <id>10013</id>
     <revision>
-      <id>1218</id>
-      <timestamp>2016-12-23T11:47:57Z</timestamp>
+      <id>17804</id>
+      <timestamp>2014-05-08T17:38:28Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Os links do perfil acima devem corresponder exatamente ao formato de exemplo para serem exibidos.&quot;</comment>
+      <comment>Criou página com 'Os links do perfil acima devem corresponder exatamente ao formato de exemplo para serem exibidos.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="97">Os links do perfil acima devem corresponder exatamente ao formato de exemplo para serem exibidos.</text>
@@ -1056,15 +992,15 @@
   <page>
     <title>MediaWiki:Profileprefselect</title>
     <ns>8</ns>
-    <id>564</id>
+    <id>10018</id>
     <revision>
-      <id>1200</id>
-      <timestamp>2016-12-23T11:42:26Z</timestamp>
+      <id>17809</id>
+      <timestamp>2014-05-08T17:42:03Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Tipo de Página&quot;</comment>
+      <comment>Criou página com 'Tipo de Página'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Tipo de Página</text>
@@ -1074,15 +1010,15 @@
   <page>
     <title>MediaWiki:Purge</title>
     <ns>8</ns>
-    <id>926</id>
+    <id>21925</id>
     <revision>
-      <id>1763</id>
-      <timestamp>2017-05-12T20:48:34Z</timestamp>
+      <id>60702</id>
+      <parentid>53956</parentid>
+      <timestamp>2017-05-12T20:48:23Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Atualizar&quot;</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Atualizar</text>
@@ -1092,15 +1028,15 @@
   <page>
     <title>MediaWiki:Rank</title>
     <ns>8</ns>
-    <id>1084</id>
+    <id>9359</id>
     <revision>
-      <id>2114</id>
-      <timestamp>2017-10-13T13:49:05Z</timestamp>
+      <id>16712</id>
+      <timestamp>2014-04-21T13:19:10Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Classificação&quot;</comment>
+      <comment>Criou página com 'Classificação'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Classificação</text>
@@ -1110,15 +1046,15 @@
   <page>
     <title>MediaWiki:Redirect to gamepedia</title>
     <ns>8</ns>
-    <id>910</id>
+    <id>23901</id>
     <revision>
-      <id>1693</id>
-      <timestamp>2017-03-01T01:32:50Z</timestamp>
+      <id>58482</id>
+      <timestamp>2017-03-01T01:23:52Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;===Você está sendo redirecionado automaticamente para a Gamepedia...=== Todos os logins agora são realizados no portal principal Gamepedia.com.  Você será redirecionado...&quot;</comment>
+      <comment>Criou página com '===Você está sendo redirecionado automaticamente para a Gamepedia...=== Todos os logins agora são realizados no portal principal Gamepedia.com.  Você será redirecionado e...'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="235">===Você está sendo redirecionado automaticamente para a Gamepedia...===
@@ -1131,15 +1067,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Removefriend</title>
     <ns>8</ns>
-    <id>725</id>
+    <id>10192</id>
     <revision>
-      <id>1388</id>
-      <timestamp>2017-01-23T18:55:38Z</timestamp>
+      <id>17992</id>
+      <timestamp>2014-05-09T15:35:42Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Remover Amigo&quot;</comment>
+      <comment>Criou página com 'Remover Amigo'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Remover Amigo</text>
@@ -1149,15 +1085,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Retype new password</title>
     <ns>8</ns>
-    <id>905</id>
+    <id>23770</id>
     <revision>
-      <id>1688</id>
-      <timestamp>2017-02-27T22:04:21Z</timestamp>
+      <id>58261</id>
+      <timestamp>2017-02-27T17:24:35Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Redigite a Nova Senha&quot;</comment>
+      <comment>Criou página com 'Redigite a Nova Senha'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="21">Redigite a Nova Senha</text>
@@ -1167,15 +1103,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Score</title>
     <ns>8</ns>
-    <id>1089</id>
+    <id>22115</id>
     <revision>
-      <id>2119</id>
-      <timestamp>2017-10-13T13:50:23Z</timestamp>
+      <id>54329</id>
+      <timestamp>2017-01-16T16:02:46Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Ponto&quot;</comment>
+      <comment>Criou página com 'Ponto'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="5">Ponto</text>
@@ -1185,15 +1121,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Senddirectrequest</title>
     <ns>8</ns>
-    <id>955</id>
+    <id>10195</id>
     <revision>
-      <id>1792</id>
-      <timestamp>2017-05-12T20:56:47Z</timestamp>
+      <id>17995</id>
+      <timestamp>2014-05-09T15:36:39Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Enviar Novo Pedido de Amizade&quot;</comment>
+      <comment>Criou página com 'Enviar Novo Pedido de Amizade'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="29">Enviar Novo Pedido de Amizade</text>
@@ -1203,15 +1139,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Sendrequest</title>
     <ns>8</ns>
-    <id>957</id>
+    <id>10198</id>
     <revision>
-      <id>1794</id>
-      <timestamp>2017-05-12T20:57:32Z</timestamp>
+      <id>17998</id>
+      <timestamp>2014-05-09T15:37:14Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Enviar Pedido&quot;</comment>
+      <comment>Criou página com 'Enviar Pedido'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Enviar Pedido</text>
@@ -1221,15 +1157,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Sharing</title>
     <ns>8</ns>
-    <id>511</id>
+    <id>9337</id>
     <revision>
-      <id>1057</id>
-      <timestamp>2016-12-22T22:54:02Z</timestamp>
+      <id>16675</id>
+      <timestamp>2014-04-21T01:36:03Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Compartilhar&quot;</comment>
+      <comment>Criou página com 'Compartilhar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="12">Compartilhar</text>
@@ -1239,15 +1175,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Top wiki editors</title>
     <ns>8</ns>
-    <id>785</id>
+    <id>9356</id>
     <revision>
-      <id>1448</id>
-      <timestamp>2017-01-23T19:19:41Z</timestamp>
+      <id>16709</id>
+      <timestamp>2014-04-21T13:18:09Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Melhores Editores Wiki&quot;</comment>
+      <comment>Criou página com 'Melhores Editores Wiki'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="22">Melhores Editores Wiki</text>
@@ -1257,15 +1193,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Top wiki editors monthly</title>
     <ns>8</ns>
-    <id>790</id>
+    <id>22089</id>
     <revision>
-      <id>1453</id>
-      <timestamp>2017-01-23T19:20:39Z</timestamp>
+      <id>54303</id>
+      <timestamp>2017-01-16T15:55:12Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <comment>Criou a página com &quot;Principais Editores Wiki - Mensal&quot;</comment>
+      <comment>Criou página com 'Principais Editores Wiki - Mensal'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="33">Principais Editores Wiki - Mensal</text>
@@ -1275,15 +1211,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Totalcontribs</title>
     <ns>8</ns>
-    <id>532</id>
+    <id>10106</id>
     <revision>
-      <id>1165</id>
-      <timestamp>2016-12-23T11:31:41Z</timestamp>
+      <id>17903</id>
+      <timestamp>2014-05-09T12:15:16Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Contribuições&quot;</comment>
+      <comment>Criou página com 'Contribuições'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15">Contribuições</text>
@@ -1293,15 +1229,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Totaldeletes</title>
     <ns>8</ns>
-    <id>539</id>
+    <id>10112</id>
     <revision>
-      <id>1172</id>
-      <timestamp>2016-12-23T11:33:54Z</timestamp>
+      <id>17909</id>
+      <timestamp>2014-05-09T12:17:24Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Exclusões&quot;</comment>
+      <comment>Criou página com 'Exclusões'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10">Exclusões</text>
@@ -1311,15 +1247,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Userprofiletab</title>
     <ns>8</ns>
-    <id>931</id>
+    <id>10087</id>
     <revision>
-      <id>1768</id>
-      <timestamp>2017-05-12T20:50:52Z</timestamp>
+      <id>17884</id>
+      <timestamp>2014-05-09T11:51:33Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Perfil do usuário&quot;</comment>
+      <comment>Criou página com 'Perfil do usuário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="18">Perfil do usuário</text>
@@ -1329,15 +1265,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Wiki user</title>
     <ns>8</ns>
-    <id>1082</id>
+    <id>10216</id>
     <revision>
-      <id>2112</id>
-      <timestamp>2017-10-13T13:47:40Z</timestamp>
+      <id>18019</id>
+      <timestamp>2014-05-09T16:05:40Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Usuário&quot;</comment>
+      <comment>Criou página com 'Usuário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="8">Usuário</text>
@@ -1347,15 +1283,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Wikisedited</title>
     <ns>8</ns>
-    <id>530</id>
+    <id>10109</id>
     <revision>
-      <id>1163</id>
-      <timestamp>2016-12-23T11:31:06Z</timestamp>
+      <id>17906</id>
+      <timestamp>2014-05-09T12:15:56Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Wikis Editadas&quot;</comment>
+      <comment>Criou página com 'Wikis Editadas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="14">Wikis Editadas</text>
@@ -1365,15 +1301,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Totalpatrols</title>
     <ns>8</ns>
-    <id>542</id>
+    <id>10118</id>
     <revision>
-      <id>1175</id>
-      <timestamp>2016-12-23T11:34:44Z</timestamp>
+      <id>17915</id>
+      <timestamp>2014-05-09T12:21:09Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Patrulhas&quot;</comment>
+      <comment>Criou página com 'Patrulhas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Patrulhas</text>
@@ -1383,33 +1319,33 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Totalfriends</title>
     <ns>8</ns>
-    <id>712</id>
+    <id>10117</id>
     <revision>
-      <id>1375</id>
-      <timestamp>2017-01-23T18:51:22Z</timestamp>
+      <id>17914</id>
+      <timestamp>2014-05-09T12:20:19Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Amigos&quot;</comment>
+      <comment>Criou página com 'Amigos&lt;br&gt;([[Special:Friends/$1|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver Todos }}]])'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="6">Amigos</text>
-      <sha1>m2i2fmro87sx4gzoefpplsscr6i4v63</sha1>
+      <text xml:space="preserve" bytes="85">Amigos&lt;br&gt;([[Special:Friends/$1|{{#ifeq: $1 | $2 | Gerenciar Amigos | Ver Todos }}]])</text>
+      <sha1>37fs8nmikuuufwraqh1blym0rfx12yc</sha1>
     </revision>
   </page>
   <page>
     <title>MediaWiki:Totaledits</title>
     <ns>8</ns>
-    <id>535</id>
+    <id>10114</id>
     <revision>
-      <id>1168</id>
-      <timestamp>2016-12-23T11:32:44Z</timestamp>
+      <id>17911</id>
+      <timestamp>2014-05-09T12:17:59Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <comment>Criou a página com &quot;Edições&quot;</comment>
+      <comment>Criou página com 'Edições'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Edições</text>
@@ -1419,17 +1355,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-delete achievements</title>
     <ns>8</ns>
-    <id>1321</id>
+    <id>21954</id>
     <revision>
-      <id>2923</id>
-      <parentid>2922</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>53985</id>
+      <timestamp>2017-01-12T14:04:48Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'eliminar conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="19">eliminar conquistas</text>
@@ -1439,17 +1373,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-analytics</title>
     <ns>8</ns>
-    <id>1322</id>
+    <id>28352</id>
     <revision>
-      <id>2925</id>
-      <parentid>2924</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>72202</id>
+      <timestamp>2018-09-02T20:56:13Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'ver análise da wiki'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">ver análise da wiki</text>
@@ -1459,17 +1391,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievements error</title>
     <ns>8</ns>
-    <id>1323</id>
+    <id>21932</id>
     <revision>
-      <id>2927</id>
-      <parentid>2926</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>53963</id>
+      <timestamp>2017-01-12T14:00:29Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Erro de Conquistas'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="18">Erro de Conquistas</text>
@@ -1479,17 +1409,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement stats</title>
     <ns>8</ns>
-    <id>1324</id>
+    <id>26818</id>
     <revision>
-      <id>2929</id>
-      <parentid>2928</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>67648</id>
+      <timestamp>2017-10-12T18:11:02Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Estatísticas de conquista'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26">Estatísticas de conquista</text>
@@ -1499,17 +1427,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement nochange to</title>
     <ns>8</ns>
-    <id>1325</id>
+    <id>26815</id>
     <revision>
-      <id>2931</id>
-      <parentid>2930</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>67645</id>
+      <timestamp>2017-10-12T18:10:33Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Conquista para $1 já estava $2.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="32">Conquista para $1 já estava $2.</text>
@@ -1519,17 +1445,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement name</title>
     <ns>8</ns>
-    <id>1326</id>
+    <id>16126</id>
     <revision>
-      <id>2933</id>
-      <parentid>2932</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>34630</id>
+      <timestamp>2015-10-17T16:23:56Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Nome de Exibição'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="18">Nome de Exibição</text>
@@ -1539,17 +1463,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement image</title>
     <ns>8</ns>
-    <id>1327</id>
+    <id>24401</id>
     <revision>
-      <id>2935</id>
-      <parentid>2934</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>59735</id>
+      <timestamp>2017-04-13T17:40:14Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Nome da Imagem (Exemplo: Arquivo:Example.png)  Tamanho mínimo: 120px x 120px'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="77">Nome da Imagem (Exemplo: Arquivo:Example.png)  Tamanho mínimo: 120px x 120px</text>
@@ -1559,17 +1481,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement id</title>
     <ns>8</ns>
-    <id>1328</id>
+    <id>26812</id>
     <revision>
-      <id>2937</id>
-      <parentid>2936</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>67642</id>
+      <timestamp>2017-10-12T18:09:36Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Conquista #$1'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Conquista #$1</text>
@@ -1579,17 +1499,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Achievement category</title>
     <ns>8</ns>
-    <id>1329</id>
+    <id>16129</id>
     <revision>
-      <id>2939</id>
-      <parentid>2938</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>34633</id>
+      <timestamp>2015-10-17T16:26:02Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Categoria'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Categoria</text>
@@ -1599,17 +1517,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-globalblock</title>
     <ns>8</ns>
-    <id>1330</id>
+    <id>26826</id>
     <revision>
-      <id>2941</id>
-      <parentid>2940</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>67656</id>
+      <timestamp>2017-10-12T18:12:49Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'executar ações de bloqueio global'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="35">executar ações de bloqueio global</text>
@@ -1619,17 +1535,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-profilestats</title>
     <ns>8</ns>
-    <id>1331</id>
+    <id>22240</id>
     <revision>
-      <id>2943</id>
-      <parentid>2942</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>54712</id>
+      <timestamp>2017-01-21T01:40:24Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Visualizar estatísticas CurseProfile'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="37">Visualizar estatísticas CurseProfile</text>
@@ -1639,17 +1553,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-wiki points admin</title>
     <ns>8</ns>
-    <id>1332</id>
+    <id>21963</id>
     <revision>
-      <id>2945</id>
-      <parentid>2944</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>53994</id>
+      <timestamp>2017-01-12T14:07:31Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Administrar pontos de wiki'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26">Administrar pontos de wiki</text>
@@ -1659,17 +1571,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Action-wpa adjust points</title>
     <ns>8</ns>
-    <id>1333</id>
+    <id>28354</id>
     <revision>
-      <id>2947</id>
-      <parentid>2946</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>72204</id>
+      <timestamp>2018-09-02T20:57:01Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'ajustar os pontos de um usuário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="32">ajustar os pontos de um usuário</text>
@@ -1679,17 +1589,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Active</title>
     <ns>8</ns>
-    <id>1334</id>
+    <id>21964</id>
     <revision>
-      <id>2949</id>
-      <parentid>2948</parentid>
-      <timestamp>2019-01-14T11:13:53Z</timestamp>
+      <id>53995</id>
+      <timestamp>2017-01-12T14:08:02Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Usuários ativos'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="16">Usuários ativos</text>
@@ -1699,17 +1607,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Active admin count</title>
     <ns>8</ns>
-    <id>1335</id>
+    <id>28355</id>
     <revision>
-      <id>2951</id>
-      <parentid>2950</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>72205</id>
+      <timestamp>2018-09-02T20:57:21Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Administradores usando o Painel'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="31">Administradores usando o Painel</text>
@@ -1719,17 +1625,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Active month</title>
     <ns>8</ns>
-    <id>1336</id>
+    <id>27889</id>
     <revision>
-      <id>2953</id>
-      <parentid>2952</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>70549</id>
+      <timestamp>2018-06-27T17:46:48Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Mês'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="4">Mês</text>
@@ -1739,17 +1643,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Add condition</title>
     <ns>8</ns>
-    <id>1337</id>
+    <id>16172</id>
     <revision>
-      <id>2955</id>
-      <parentid>2954</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>34676</id>
+      <timestamp>2015-10-17T17:04:31Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Adicionar Condição'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Adicionar Condição</text>
@@ -1759,17 +1661,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Add achievement</title>
     <ns>8</ns>
-    <id>1338</id>
+    <id>16120</id>
     <revision>
-      <id>2957</id>
-      <parentid>2956</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>34624</id>
+      <timestamp>2015-10-17T16:14:13Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Adicionar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9">Adicionar</text>
@@ -1779,17 +1679,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Add email filter</title>
     <ns>8</ns>
-    <id>1339</id>
+    <id>22249</id>
     <revision>
-      <id>2959</id>
-      <parentid>2958</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>54721</id>
+      <timestamp>2017-01-21T01:41:17Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Adicionar filtro de e-mail'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26">Adicionar filtro de e-mail</text>
@@ -1799,17 +1697,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Add level</title>
     <ns>8</ns>
-    <id>1340</id>
+    <id>22246</id>
     <revision>
-      <id>2961</id>
-      <parentid>2960</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>54718</id>
+      <timestamp>2017-01-21T01:41:07Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Adicionar Nível'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="16">Adicionar Nível</text>
@@ -1819,17 +1715,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Add rights</title>
     <ns>8</ns>
-    <id>1341</id>
+    <id>22257</id>
     <revision>
-      <id>2963</id>
-      <parentid>2962</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>54729</id>
+      <timestamp>2017-01-21T01:42:09Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Adicionar Direitos'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="18">Adicionar Direitos</text>
@@ -1839,17 +1733,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Addedwatchtext</title>
     <ns>8</ns>
-    <id>1342</id>
+    <id>26438</id>
     <revision>
-      <id>2965</id>
-      <parentid>2964</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>65732</id>
+      <timestamp>2017-08-09T22:15:28Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'A página &quot;$1&quot; e sua página de discussão foram adicionadas à sua [[Special:Watchlist|lista de páginas vigiadas]].'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="117">A página &quot;$1&quot; e sua página de discussão foram adicionadas à sua [[Special:Watchlist|lista de páginas vigiadas]].</text>
@@ -1859,17 +1751,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Addedwatchtext-talk</title>
     <ns>8</ns>
-    <id>1343</id>
+    <id>26437</id>
     <revision>
-      <id>2967</id>
-      <parentid>2966</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>65731</id>
+      <timestamp>2017-08-09T22:14:56Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com '&quot;$1&quot; e a sua página associada foram adicionadas à sua lista de [[Special:Watchlist|páginas vigiadas]].'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="105">&quot;$1&quot; e a sua página associada foram adicionadas à sua lista de [[Special:Watchlist|páginas vigiadas]].</text>
@@ -1879,17 +1769,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Admin count</title>
     <ns>8</ns>
-    <id>1344</id>
+    <id>28356</id>
     <revision>
-      <id>2969</id>
-      <parentid>2968</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>72206</id>
+      <timestamp>2018-09-02T20:57:47Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Total de Administradores'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="24">Total de Administradores</text>
@@ -1899,17 +1787,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Admin minder error</title>
     <ns>8</ns>
-    <id>1345</id>
+    <id>26832</id>
     <revision>
-      <id>2971</id>
-      <parentid>2970</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>67662</id>
+      <timestamp>2017-10-12T18:14:34Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Erro - Guarda de administrador'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="30">Erro - Guarda de administrador</text>
@@ -1919,17 +1805,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:All recently earned</title>
     <ns>8</ns>
-    <id>1346</id>
+    <id>22120</id>
     <revision>
-      <id>2973</id>
-      <parentid>2972</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>54334</id>
+      <timestamp>2017-01-16T16:04:09Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Todos os pontos ganhos recentemente'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="35">Todos os pontos ganhos recentemente</text>
@@ -1939,17 +1823,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Allsites</title>
     <ns>8</ns>
-    <id>1347</id>
+    <id>22271</id>
     <revision>
-      <id>2975</id>
-      <parentid>2974</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>71904</id>
+      <parentid>54743</parentid>
+      <timestamp>2018-08-17T21:10:58Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="22">Todos as Wikis da Rede</text>
@@ -1959,17 +1841,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Allsites official</title>
     <ns>8</ns>
-    <id>1348</id>
+    <id>28050</id>
     <revision>
-      <id>2977</id>
-      <parentid>2976</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>71157</id>
+      <timestamp>2018-07-15T18:03:40Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Todos as wikis oficiais'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="23">Todos as wikis oficiais</text>
@@ -1979,17 +1859,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Allsites description</title>
     <ns>8</ns>
-    <id>1349</id>
+    <id>24828</id>
     <revision>
-      <id>2979</id>
-      <parentid>2978</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>60666</id>
+      <timestamp>2017-05-09T22:22:09Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Estatísticas e lista de todos os sites que fazem parte da fazenda Hydra wiki.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="78">Estatísticas e lista de todos os sites que fazem parte da fazenda Hydra wiki.</text>
@@ -1999,17 +1877,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analytics</title>
     <ns>8</ns>
-    <id>1350</id>
+    <id>28047</id>
     <revision>
-      <id>2981</id>
-      <parentid>2980</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>71154</id>
+      <timestamp>2018-07-15T18:02:37Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Painel de administração de Análise da Wiki'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="45">Painel de administração de Análise da Wiki</text>
@@ -2019,17 +1895,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analytics confidential</title>
     <ns>8</ns>
-    <id>1351</id>
+    <id>27872</id>
     <revision>
-      <id>2983</id>
-      <parentid>2982</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>70529</id>
+      <timestamp>2018-06-27T17:08:09Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'As informações desta página são compartilhadas como cortesia para nossos administradores e não devem ser compartilhadas novamente sem permissão.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="150">As informações desta página são compartilhadas como cortesia para nossos administradores e não devem ser compartilhadas novamente sem permissão.</text>
@@ -2039,17 +1913,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analytics report generated</title>
     <ns>8</ns>
-    <id>1352</id>
+    <id>27873</id>
     <revision>
-      <id>2985</id>
-      <parentid>2984</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>70530</id>
+      <timestamp>2018-06-27T17:09:27Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Relatório gerado $1'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Relatório gerado $1</text>
@@ -2059,17 +1931,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analytics usage</title>
     <ns>8</ns>
-    <id>1353</id>
+    <id>28048</id>
     <revision>
-      <id>2987</id>
-      <parentid>2986</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>71155</id>
+      <timestamp>2018-07-15T18:02:51Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Uso do painel'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13">Uso do painel</text>
@@ -2079,17 +1949,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analyticsdashboard</title>
     <ns>8</ns>
-    <id>1354</id>
+    <id>27871</id>
     <revision>
-      <id>2989</id>
-      <parentid>2988</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>70528</id>
+      <timestamp>2018-06-27T17:07:30Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Painel de  Análise'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="19">Painel de  Análise</text>
@@ -2099,17 +1967,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Analyticsdashboardusage</title>
     <ns>8</ns>
-    <id>1355</id>
+    <id>28049</id>
     <revision>
-      <id>2991</id>
-      <parentid>2990</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>71156</id>
+      <timestamp>2018-07-15T18:03:13Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Uso do Painel de Análise'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="25">Uso do Painel de Análise</text>
@@ -2119,17 +1985,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Article id number</title>
     <ns>8</ns>
-    <id>1356</id>
+    <id>22110</id>
     <revision>
-      <id>2993</id>
-      <parentid>2992</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>54324</id>
+      <timestamp>2017-01-16T16:00:18Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Artigo ID #'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="11">Artigo ID #</text>
@@ -2139,17 +2003,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Assign global id lookup</title>
     <ns>8</ns>
-    <id>1357</id>
+    <id>28365</id>
     <revision>
-      <id>2995</id>
-      <parentid>2994</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>72215</id>
+      <timestamp>2018-09-02T21:03:13Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Digite a atribuição global de ID:'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="35">Digite a atribuição global de ID:</text>
@@ -2159,17 +2021,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Avataralt</title>
     <ns>8</ns>
-    <id>1358</id>
+    <id>26851</id>
     <revision>
-      <id>2997</id>
-      <parentid>2996</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>67681</id>
+      <timestamp>2017-10-12T18:19:29Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Avatar para $1'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="14">Avatar para $1</text>
@@ -2179,17 +2039,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Award</title>
     <ns>8</ns>
-    <id>1359</id>
+    <id>16155</id>
     <revision>
-      <id>2999</id>
-      <parentid>2998</parentid>
-      <timestamp>2019-01-14T11:13:54Z</timestamp>
+      <id>34659</id>
+      <timestamp>2015-10-17T16:52:32Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Premiar'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="7">Premiar</text>
@@ -2199,17 +2057,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Award achievement</title>
     <ns>8</ns>
-    <id>1360</id>
+    <id>24394</id>
     <revision>
-      <id>3001</id>
-      <parentid>3000</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>59719</id>
+      <timestamp>2017-04-12T23:39:11Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Prêmio de Conquista'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Prêmio de Conquista</text>
@@ -2219,17 +2075,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Award hint</title>
     <ns>8</ns>
-    <id>1361</id>
+    <id>16149</id>
     <revision>
-      <id>3003</id>
-      <parentid>3002</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>34653</id>
+      <timestamp>2015-10-17T16:50:54Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Digite um nome de usuário, selecione uma conquista, e, em seguida, clique em uma ação.'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="89">Digite um nome de usuário, selecione uma conquista, e, em seguida, clique em uma ação.</text>
@@ -2239,17 +2093,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Award reason achievement earned</title>
     <ns>8</ns>
-    <id>1362</id>
+    <id>22286</id>
     <revision>
-      <id>3005</id>
-      <parentid>3004</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54758</id>
+      <timestamp>2017-01-21T01:49:44Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Conquista obtida'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="16">Conquista obtida</text>
@@ -2259,17 +2111,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Award reason achievement revoked</title>
     <ns>8</ns>
-    <id>1363</id>
+    <id>22285</id>
     <revision>
-      <id>3007</id>
-      <parentid>3006</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54757</id>
+      <timestamp>2017-01-21T01:49:19Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Conquista revogada'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="18">Conquista revogada</text>
@@ -2279,17 +2129,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Based on last 30</title>
     <ns>8</ns>
-    <id>1364</id>
+    <id>27874</id>
     <revision>
-      <id>3009</id>
-      <parentid>3008</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>70531</id>
+      <timestamp>2018-06-27T17:10:17Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'dados com base nos últimos 30 dias'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="35">dados com base nos últimos 30 dias</text>
@@ -2299,17 +2147,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Begins after</title>
     <ns>8</ns>
-    <id>1365</id>
+    <id>22288</id>
     <revision>
-      <id>3011</id>
-      <parentid>3010</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54760</id>
+      <timestamp>2017-01-21T01:49:57Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Começa após:'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="14">Começa após:</text>
@@ -2319,17 +2165,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Between dates</title>
     <ns>8</ns>
-    <id>1366</id>
+    <id>28052</id>
     <revision>
-      <id>3013</id>
-      <parentid>3012</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>71159</id>
+      <timestamp>2018-07-15T18:05:04Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Entre datas:'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="12">Entre datas:</text>
@@ -2339,17 +2183,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Calculation inputs</title>
     <ns>8</ns>
-    <id>1367</id>
+    <id>22111</id>
     <revision>
-      <id>3015</id>
-      <parentid>3014</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54325</id>
+      <timestamp>2017-01-16T16:01:59Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Entradas de Cálculo'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="20">Entradas de Cálculo</text>
@@ -2359,17 +2201,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Calculation weights</title>
     <ns>8</ns>
-    <id>1368</id>
+    <id>22114</id>
     <revision>
-      <id>3017</id>
-      <parentid>3016</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54328</id>
+      <timestamp>2017-01-16T16:02:31Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Pesos de cálculo'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="17">Pesos de cálculo</text>
@@ -2379,17 +2219,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Change email desc</title>
     <ns>8</ns>
-    <id>1369</id>
+    <id>9365</id>
     <revision>
-      <id>3019</id>
-      <parentid>3018</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>16761</id>
+      <parentid>16751</parentid>
+      <timestamp>2014-04-21T19:50:23Z</timestamp>
       <contributor>
-        <username>Eduaddad</username>
-        <id>18</id>
+        <username>Jhonabf</username>
+        <id>6792</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="145">Aqui você pode alterar o e-mail da sua conta Curse.com.  Isso afetará o e-mail que você usa em todos os sites da rede Curse e wikis Gamepedia.</text>
@@ -2399,17 +2237,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Choose username</title>
     <ns>8</ns>
-    <id>1370</id>
+    <id>22295</id>
     <revision>
-      <id>3021</id>
-      <parentid>3020</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>54767</id>
+      <timestamp>2017-01-21T01:52:38Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Escolher novo nome de usuário'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="30">Escolher novo nome de usuário</text>
@@ -2419,17 +2255,15 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
   <page>
     <title>MediaWiki:Comment-pref</title>
     <ns>8</ns>
-    <id>1371</id>
+    <id>27537</id>
     <revision>
-      <id>3023</id>
-      <parentid>3022</parentid>
-      <timestamp>2019-01-14T11:13:55Z</timestamp>
+      <id>69409</id>
+      <timestamp>2018-02-13T21:22:12Z</timestamp>
       <contributor>
         <username>Eduaddad</username>
-        <id>18</id>
+        <id>443856</id>
       </contributor>
-      <minor/>
-      <comment>1 edição importada</comment>
+      <comment>Criou página com 'Comentários aprimorados'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="24">Comentários aprimorados</text>
