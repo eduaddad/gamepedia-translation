@@ -1,4 +1,4 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pt-BR">
+﻿<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pt-BR">
   <siteinfo>
     <sitename>Minecraft Wiki</sitename>
     <dbname>minecraft_br_gamepedia</dbname>
@@ -1123,17 +1123,17 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
     <ns>8</ns>
     <id>10195</id>
     <revision>
-      <id>17995</id>
-      <timestamp>2014-05-09T15:36:39Z</timestamp>
+      <id>76618</id>
+      <parentid>17995</parentid>
+      <timestamp>2019-04-20T17:34:14Z</timestamp>
       <contributor>
-        <username>Jhonabf</username>
-        <id>6792</id>
+        <username>Eduaddad</username>
+        <id>443856</id>
       </contributor>
-      <comment>Criou página com 'Enviar Novo Pedido de Amizade'</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29">Enviar Novo Pedido de Amizade</text>
-      <sha1>dli29zdr0kwfosjuhqof7ng9fbwz6um</sha1>
+      <text xml:space="preserve" bytes="29">Enviar novo pedido de amizade</text>
+      <sha1>i9pb7y0fjxbwx92nwzl57s4eckib6k0</sha1>
     </revision>
   </page>
   <page>
@@ -2268,6 +2268,497 @@ Você será redirecionado em cinco segundos ou você pode clicar em &quot;Contin
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="24">Comentários aprimorados</text>
       <sha1>i5i0i77jmrr2q54y5o5wfln5rc1xqe2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-profile/pt-br</title>
+    <ns>8</ns>
+    <id>10014</id>
+    <revision>
+      <id>17805</id>
+      <timestamp>2014-05-08T17:41:01Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Usar uma página de Perfil de usuário Curse aprimorada'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55">Usar uma página de Perfil de usuário Curse aprimorada</text>
+      <sha1>c3pswdk0ob05dmbxgiz8gjwd6aq58m4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-wiki/pt-br</title>
+    <ns>8</ns>
+    <id>10015</id>
+    <revision>
+      <id>17806</id>
+      <timestamp>2014-05-08T17:41:29Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Usar uma página de usuário padrão wiki'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41">Usar uma página de usuário padrão wiki</text>
+      <sha1>msh2mmshepp2l42fasomv3ss7xl12o7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-profile/pt-br</title>
+    <ns>8</ns>
+    <id>27535</id>
+    <revision>
+      <id>69407</id>
+      <timestamp>2018-02-13T21:21:32Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Use os comentários aprimorados do perfil do usuário'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="53">Use os comentários aprimorados do perfil do usuário</text>
+      <sha1>g7o1hugqybs9idzin3k8y3uo6ngfo4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-wiki/pt-br</title>
+    <ns>8</ns>
+    <id>27536</id>
+    <revision>
+      <id>69408</id>
+      <timestamp>2018-02-13T21:21:56Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Use a página padrão do wiki de discussões do usuário'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="56">Use a página padrão do wiki de discussões do usuário</text>
+      <sha1>f8msxc02yslfxi6gwcblzro6pvp54ys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentprefselect/pt-br</title>
+    <ns>8</ns>
+    <id>27538</id>
+    <revision>
+      <id>69410</id>
+      <timestamp>2018-02-13T21:23:12Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Tipo de página de comentários'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31">Tipo de página de comentários</text>
+      <sha1>gt6pqqjyaxbalinguxoxvg2f06du8m4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Preference-global/pt-br</title>
+    <ns>8</ns>
+    <id>27643</id>
+    <revision>
+      <id>69737</id>
+      <timestamp>2018-04-08T19:58:21Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Essa preferência é global para toda a Gamepedia.'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50">Essa preferência é global para toda a Gamepedia.</text>
+      <sha1>nuisd3pm2csc8b1euix1mgo2820chlx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-friendship/pt-br</title>
+    <ns>8</ns>
+    <id>26469</id>
+    <revision>
+      <id>65784</id>
+      <timestamp>2017-08-10T17:28:02Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Solicitação de amizade'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24">Solicitação de amizade</text>
+      <sha1>okcblh8ajo097toytgya48k5c5fd2zg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-comment/pt-br</title>
+    <ns>8</ns>
+    <id>13720</id>
+    <revision>
+      <id>26290</id>
+      <timestamp>2014-09-13T17:56:11Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Comentário no Perfil'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21">Comentário no Perfil</text>
+      <sha1>ticv2zmuwd4llojhf6kcgyak3cw26yv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-header-comment/pt-br</title>
+    <ns>8</ns>
+    <id>27629</id>
+    <revision>
+      <id>69723</id>
+      <timestamp>2018-04-08T19:52:33Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 deixou um comentário no seu perfil.'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39">$1 deixou um comentário no seu perfil.</text>
+      <sha1>i5q62p6c3cr9qo9nw145490rqyqtaf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-header-comment-report/pt-br</title>
+    <ns>8</ns>
+    <id>27630</id>
+    <revision>
+      <id>69724</id>
+      <timestamp>2018-04-08T19:52:55Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 relatou um comentário no perfil {{SITENAME}}'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">$1 relatou um comentário no perfil {{SITENAME}}</text>
+      <sha1>84fpcaxavbuzpeo74l81d108kyq6nbc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-report-email-subject/pt-br</title>
+    <ns>8</ns>
+    <id>28416</id>
+    <revision>
+      <id>72473</id>
+      <timestamp>2018-09-18T20:38:14Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 relatou um comentário no perfil {{SITENAME}}'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">$1 relatou um comentário no perfil {{SITENAME}}</text>
+      <sha1>84fpcaxavbuzpeo74l81d108kyq6nbc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-profile-comment-email-subj/pt-br</title>
+    <ns>8</ns>
+    <id>10211</id>
+    <revision>
+      <id>18014</id>
+      <timestamp>2014-05-09T15:49:59Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com '$1 deixou um comentário no seu perfil da Gamepedia!'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">$1 deixou um comentário no seu perfil da Gamepedia!</text>
+      <sha1>do4f23kmibixdxjggpxdvuzub4kx18c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-tooltip-profile-comment/pt-br</title>
+    <ns>8</ns>
+    <id>13719</id>
+    <revision>
+      <id>26289</id>
+      <timestamp>2014-09-13T17:55:26Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Notifique-me quando alguém deixa um comentário no meu perfil.'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63">Notifique-me quando alguém deixa um comentário no meu perfil.</text>
+      <sha1>eg4358qyzm1e8d9m7rtggl0v988lcxr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-email-body/pt-br</title>
+    <ns>8</ns>
+    <id>28414</id>
+    <revision>
+      <id>72471</id>
+      <timestamp>2018-09-18T20:37:29Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 deixou um comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder aqui: {{canonicalurl:{{#special:CommentPermalink}}/$3}}'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="139">$1 deixou um comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder aqui: {{canonicalurl:{{#special:CommentPermalink}}/$3}}</text>
+      <sha1>g0ym1ea4d8wngbupcpesmtutvx9tj93</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-reply-email-subject/pt-br</title>
+    <ns>8</ns>
+    <id>27131</id>
+    <revision>
+      <id>67964</id>
+      <timestamp>2017-10-12T21:03:11Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 respondeu ao seu comentário no seu perfil do Gamepedia!'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="59">$1 respondeu ao seu comentário no seu perfil do Gamepedia!</text>
+      <sha1>gabezo6enapj0olzjhligjgiy1bqgp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-email-subject/pt-br</title>
+    <ns>8</ns>
+    <id>27134</id>
+    <revision>
+      <id>67967</id>
+      <timestamp>2017-10-12T21:03:24Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 deixou um comentário no seu perfil do Gamepedia!'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">$1 deixou um comentário no seu perfil do Gamepedia!</text>
+      <sha1>1peldncrp1knpqvh02des2nsqmknla5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-subscription-profile-comment/pt-br</title>
+    <ns>8</ns>
+    <id>10204</id>
+    <revision>
+      <id>18007</id>
+      <timestamp>2014-05-09T15:45:14Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Deixe um comentário no meu perfil'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34">Deixe um comentário no meu perfil</text>
+      <sha1>dwsy5t6c4sqgt6kvq69iewx6iodx5wv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-profile-comment-email-body/pt-br</title>
+    <ns>8</ns>
+    <id>10208</id>
+    <revision>
+      <id>18011</id>
+      <timestamp>2014-05-09T15:49:11Z</timestamp>
+      <contributor>
+        <username>Jhonabf</username>
+        <id>6792</id>
+      </contributor>
+      <comment>Criou página com 'Olá $2, $1 deixou um comentário no seu perfil na {{SITENAME}}. Você pode ler e responder vendo o seu perfil:  {{canonicalurl:{{ns:User}}:$2}}  $3'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="148">Olá $2,
+$1 deixou um comentário no seu perfil na {{SITENAME}}. Você pode ler e responder vendo o seu perfil:
+
+{{canonicalurl:{{ns:User}}:$2}}
+
+$3</text>
+      <sha1>5jxcx8fr8z1oywgmngwwp8s22tdfcs8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-reply-email-batch-body/pt-br</title>
+    <ns>8</ns>
+    <id>28415</id>
+    <revision>
+      <id>72472</id>
+      <timestamp>2018-09-18T20:37:57Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 e $3 {{PLURAL:$4|other|others}} ter respondido ao seu comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder vendo seu perfil: [[{{ns:UserProfile}}:$2]]'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="171">$1 e $3 {{PLURAL:$4|other|others}} ter respondido ao seu comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder vendo seu perfil: [[{{ns:UserProfile}}:$2]]</text>
+      <sha1>hrkrlqxm347jkz67o4unors25ymj36o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-comment-email-batch-body/pt-br</title>
+    <ns>8</ns>
+    <id>27135</id>
+    <revision>
+      <id>67968</id>
+      <timestamp>2017-10-12T21:04:14Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '$1 e $3 {{PLURAL:$4|outro|outros}} deixou um comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder por visualizar seu perfil:[[{{ns:UserProfile}}:$2]]'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="167">$1 e $3 {{PLURAL:$4|outro|outros}} deixou um comentário no seu perfil em {{SITENAME}}.  Você pode ler e responder por visualizar seu perfil:[[{{ns:UserProfile}}:$2]]</text>
+      <sha1>84ubjiqxqzkdwszy9nm3yktkpwy9iji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-report/pt-br</title>
+    <ns>8</ns>
+    <id>27278</id>
+    <revision>
+      <id>68468</id>
+      <timestamp>2017-11-13T23:49:24Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Relatórios de comentários'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27">Relatórios de comentários</text>
+      <sha1>cbaz3xbgkb7b71odo60xtzjqgvlkwgl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-tooltip-profile-comment-report/pt-br</title>
+    <ns>8</ns>
+    <id>28233</id>
+    <revision>
+      <id>71871</id>
+      <timestamp>2018-08-17T20:44:37Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Notificações sobre novos relatórios de comentários.'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55">Notificações sobre novos relatórios de comentários.</text>
+      <sha1>6w15ai2l5u8dk20093zeqbvch8qfjkb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-tooltip-profile-friendship/pt-br</title>
+    <ns>8</ns>
+    <id>26472</id>
+    <revision>
+      <id>65787</id>
+      <timestamp>2017-08-10T17:28:56Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Notificações sobre pedidos de amizade.'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40">Notificações sobre pedidos de amizade.</text>
+      <sha1>1oixsokh8nvi7kleincv5si1yy5ogj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcreations/pt-br</title>
+    <ns>8</ns>
+    <id>24383</id>
+    <revision>
+      <id>59708</id>
+      <timestamp>2017-04-12T23:30:09Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Criações'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10">Criações</text>
+      <sha1>bqxqag0eroguyefxgzu1i6pdxxeelgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Globalrank/pt-br</title>
+    <ns>8</ns>
+    <id>10234</id>
+    <revision>
+      <id>74983</id>
+      <parentid>74982</parentid>
+      <timestamp>2019-01-14T01:53:13Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="73">Posição na Gamepedia&lt;br&gt;([[Special:WikiPoints/global|Classificação]])</text>
+      <sha1>57r43hhyd7cjviqg9b7j9ctugpqcxb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection-all/pt-br</title>
+    <ns>8</ns>
+    <id>22321</id>
+    <revision>
+      <id>54793</id>
+      <timestamp>2017-01-21T01:57:12Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com '([[Special:Achievements|Ver tudo]])'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">([[Special:Achievements|Ver tudo]])</text>
+      <sha1>j8sg65o7hvhdkj8pu0d6bf1hrmtqkkq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:View all/pt-br</title>
+    <ns>8</ns>
+    <id>21970</id>
+    <revision>
+      <id>54001</id>
+      <timestamp>2017-01-12T14:12:52Z</timestamp>
+      <contributor>
+        <username>Eduaddad</username>
+        <id>443856</id>
+      </contributor>
+      <comment>Criou página com 'Ver tudo'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8">Ver tudo</text>
+      <sha1>e9z4ptrpo0pkcxx47hxwtuz33bay08x</sha1>
     </revision>
   </page>
 </mediawiki>
