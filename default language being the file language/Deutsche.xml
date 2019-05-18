@@ -1573,4 +1573,278 @@ Spätere Änderungen an dieser Seite und der zugehörigen Diskussionsseite werde
       <sha1>mtgjssadjeo4u0zokhohzhyqjpau7ni</sha1>
     </revision>
   </page>
+  <page>
+    <title>MediaWiki:Profilepref-profile</title>
+    <ns>8</ns>
+    <id>28930</id>
+    <revision>
+      <id>542093</id>
+      <parentid>246801</parentid>
+      <timestamp>2018-11-18T20:43:33Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Klingt so in den Einstellungen besser</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Curse-Profil</text>
+      <sha1>qamt0wq3wlhsmq8x3zvryxgs5682r9u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-wiki</title>
+    <ns>8</ns>
+    <id>28931</id>
+    <revision>
+      <id>542092</id>
+      <parentid>517496</parentid>
+      <timestamp>2018-11-18T20:43:31Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Klingt so in den Einstellungen besser</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Wiki-Benutzerseite</text>
+      <sha1>idpvr78lrmfjimcy8kgqv0as87oehw6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-profile</title>
+    <ns>8</ns>
+    <id>61373</id>
+    <revision>
+      <id>542094</id>
+      <parentid>517497</parentid>
+      <timestamp>2018-11-18T20:44:40Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Curse-Profil-Kommentare</text>
+      <sha1>4bor5x1ic0kbzptu8mnssinqwa6my7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-wiki</title>
+    <ns>8</ns>
+    <id>61374</id>
+    <revision>
+      <id>542095</id>
+      <parentid>517498</parentid>
+      <timestamp>2018-11-18T20:44:51Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23">Wiki-Benutzerdiskussion</text>
+      <sha1>6grywyz7guq964soaeb2osn5s07yosg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentprefselect</title>
+    <ns>8</ns>
+    <id>61375</id>
+    <revision>
+      <id>517499</id>
+      <timestamp>2018-02-01T20:34:03Z</timestamp>
+      <contributor>
+        <username>MarkusRost</username>
+        <id>303703</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Diskussionstyp“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14">Diskussionstyp</text>
+      <sha1>er2edgm07qhx8sasch4ozls71tdv1rc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Preference-global</title>
+    <ns>8</ns>
+    <id>64049</id>
+    <revision>
+      <id>544218</id>
+      <timestamp>2019-01-05T19:26:09Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Diese Einstellung betrifft alle Gamepedia-Wikis.“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">Diese Einstellung betrifft alle Gamepedia-Wikis.</text>
+      <sha1>nk0bo25zhwvqtbeal77fy2wo3kl91rp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-comment</title>
+    <ns>8</ns>
+    <id>50947</id>
+    <revision>
+      <id>425173</id>
+      <timestamp>2016-07-04T16:22:43Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Profilkommentar“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Profilkommentar</text>
+      <sha1>7vr0faidgr6q2ape4bs9lbr92y46ifq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-header-comment</title>
+    <ns>8</ns>
+    <id>62793</id>
+    <revision>
+      <id>532598</id>
+      <timestamp>2018-06-21T21:01:00Z</timestamp>
+      <contributor>
+        <username>MarkusRost</username>
+        <id>303703</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „$1 hinterließ einen Kommentar auf deinem Profil.“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49">$1 hinterließ einen Kommentar auf deinem Profil.</text>
+      <sha1>eznfjqsll7rdwh18hnv8wmmls5tw3f8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-profile-comment-email-subj</title>
+    <ns>8</ns>
+    <id>42796</id>
+    <revision>
+      <id>363898</id>
+      <timestamp>2015-08-30T22:04:44Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „$1 hat einen Kommentar auf deinem Gamepedia-Profil hinterlassen!“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="64">$1 hat einen Kommentar auf deinem Gamepedia-Profil hinterlassen!</text>
+      <sha1>qn0fkv1h4ln2ixlxpgmaoku3kb6qpug</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-tooltip-profile-comment</title>
+    <ns>8</ns>
+    <id>50951</id>
+    <revision>
+      <id>425195</id>
+      <parentid>425177</parentid>
+      <timestamp>2016-07-04T19:48:54Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="80">Benachrichtige mich, wenn jemand einen Kommentar auf meinem Profil hinterlässt.</text>
+      <sha1>rrpa4oe8jv8o2tdku5577avpctvnc0a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-subscription-profile-comment</title>
+    <ns>8</ns>
+    <id>28927</id>
+    <revision>
+      <id>246637</id>
+      <timestamp>2014-05-08T19:13:25Z</timestamp>
+      <contributor>
+        <username>@DeletedUser96549</username>
+        <id>96549</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „einen Kommentar in meinem Profil hinterlässt“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45">einen Kommentar in meinem Profil hinterlässt</text>
+      <sha1>kke2lwqzco2z0wypvxeenilbo3x5mn0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-profile-comment-email-body</title>
+    <ns>8</ns>
+    <id>42798</id>
+    <revision>
+      <id>363900</id>
+      <timestamp>2015-08-30T22:07:37Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „$1 hat einen Kommentar auf deinem Profil im {{SITENAME}} hinterlassen. Du kannst diesen hier ({{canonicalurl:{{#special:CommentPermalink}}/$3}}) lesen und dara…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="172">$1 hat einen Kommentar auf deinem Profil im {{SITENAME}} hinterlassen. Du kannst diesen hier ({{canonicalurl:{{#special:CommentPermalink}}/$3}}) lesen und darauf antworten.</text>
+      <sha1>nfdpujxr5u82sjhl1ok6pcioayh670b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcreations</title>
+    <ns>8</ns>
+    <id>55429</id>
+    <revision>
+      <id>468553</id>
+      <timestamp>2017-04-15T11:29:54Z</timestamp>
+      <contributor>
+        <username>ILeonx</username>
+        <id>46477</id>
+      </contributor>
+      <comment>Falls jemandem was besseres für &quot;Creations&quot; einfällt, immer her damit.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12">Erstellungen</text>
+      <sha1>ncdvpllmrxdyjlfvwj4xq5jo3xucfq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Globalrank</title>
+    <ns>8</ns>
+    <id>29252</id>
+    <revision>
+      <id>479672</id>
+      <parentid>419188</parentid>
+      <timestamp>2017-05-23T09:34:56Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <comment>Es gibt dafür extra eine Spezialseite</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">Gamepedia-Rang ([[Spezial:WikiPoints/global|Liste]])</text>
+      <sha1>anpq6mq0t62mffhrq49zb3q9tutstgw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection-all</title>
+    <ns>8</ns>
+    <id>51136</id>
+    <revision>
+      <id>484689</id>
+      <parentid>426646</parentid>
+      <timestamp>2017-06-11T14:12:47Z</timestamp>
+      <contributor>
+        <username>Violine1101</username>
+        <id>60839</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43">([[Spezial:Achievements/$1|Alle anzeigen]])</text>
+      <sha1>1f5hnhvupxrfgsv1cwo9um51kdaq9bc</sha1>
+    </revision>
+  </page>
 </mediawiki>
