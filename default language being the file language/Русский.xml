@@ -218,6 +218,24 @@
     </revision>
   </page>
   <page>
+    <title>MediaWiki:Commentboard-empty</title>
+    <ns>8</ns>
+    <id>119088</id>
+    <revision>
+      <id>728285</id>
+      <parentid>728240</parentid>
+      <timestamp>2019-02-19T13:02:57Z</timestamp>
+      <contributor>
+        <username>MakandIv</username>
+        <id>526861</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="69">Архив сообщений этого участника пуст.</text>
+      <sha1>l1i87k7eda089kz1msb9qz3u4w3sebb</sha1>
+    </revision>
+  </page>
+  <page>
     <title>MediaWiki:Commentboard-link-backtoprofile</title>
     <ns>8</ns>
     <id>53247</id>
@@ -233,6 +251,24 @@
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="36">вернуться к профилю</text>
       <sha1>tiieejn6mj6m0f486tkbkmyc4yg081i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentboard-title</title>
+    <ns>8</ns>
+    <id>119087</id>
+    <revision>
+      <id>728286</id>
+      <parentid>728239</parentid>
+      <timestamp>2019-02-19T13:03:39Z</timestamp>
+      <contributor>
+        <username>MakandIv</username>
+        <id>526861</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33">Архив сообщений: $1</text>
+      <sha1>qktnqzbo6ziqh5sk3p7yb49vc1lb3xd</sha1>
     </revision>
   </page>
   <page>
@@ -521,6 +557,24 @@
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="12">Друзья</text>
       <sha1>gvj6pq11r5efq40ghsqid8ccvbwnhfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Localrank</title>
+    <ns>8</ns>
+    <id>118668</id>
+    <revision>
+      <id>717763</id>
+      <timestamp>2019-01-22T18:37:32Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Ранг на {{SITENAME}}&lt;br&gt;([[Special:WikiPoints|Список лидеров]])»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="82">Ранг на {{SITENAME}}&lt;br&gt;([[Special:WikiPoints|Список лидеров]])</text>
+      <sha1>myjbu0jiq990kwdm30kbuww8x4s063b</sha1>
     </revision>
   </page>
   <page>
@@ -890,19 +944,35 @@
     <ns>8</ns>
     <id>38968</id>
     <revision>
-      <id>238828</id>
-      <parentid>238726</parentid>
-      <timestamp>2014-03-21T10:12:28Z</timestamp>
+      <id>717771</id>
+      <parentid>238828</parentid>
+      <timestamp>2019-01-22T18:42:43Z</timestamp>
       <contributor>
         <username>AttemptToCallNil</username>
         <id>10144</id>
       </contributor>
-      <minor/>
-      <comment>может, лучше так?</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="61">Наиболее активные редакторы вики</text>
-      <sha1>cbf6toc4s88j0o23pm8g2oxl1esryl4</sha1>
+      <text xml:space="preserve" bytes="44">Рейтинг редакторов вики</text>
+      <sha1>o7rgz3fu6kvt6r6vkxwxqz70esxuvlb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Top wiki editors monthly</title>
+    <ns>8</ns>
+    <id>118673</id>
+    <revision>
+      <id>717770</id>
+      <timestamp>2019-01-22T18:42:23Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Рейтинг редакторов вики: по месяцам»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="65">Рейтинг редакторов вики: по месяцам</text>
+      <sha1>ly7b6t755eppcrm8utcpu5et23mmxw2</sha1>
     </revision>
   </page>
   <page>
@@ -928,17 +998,17 @@
     <ns>8</ns>
     <id>40787</id>
     <revision>
-      <id>249773</id>
-      <timestamp>2014-05-15T13:26:22Z</timestamp>
+      <id>717776</id>
+      <parentid>249773</parentid>
+      <timestamp>2019-01-22T18:47:04Z</timestamp>
       <contributor>
-        <username>Ivan r</username>
-        <id>16509</id>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
       </contributor>
-      <comment>Новая страница: «Удалённых»</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="18">Удалённых</text>
-      <sha1>o3gk7yicdsouwtumdmcxr43lwn2ddyq</sha1>
+      <text xml:space="preserve" bytes="29">Удалено страниц</text>
+      <sha1>9em3fgmw09mg4ehcb7t8ahahselkf83</sha1>
     </revision>
   </page>
   <page>
@@ -1000,17 +1070,17 @@
     <ns>8</ns>
     <id>40794</id>
     <revision>
-      <id>249780</id>
-      <timestamp>2014-05-15T13:29:02Z</timestamp>
+      <id>717777</id>
+      <parentid>249780</parentid>
+      <timestamp>2019-01-22T18:47:15Z</timestamp>
       <contributor>
-        <username>Ivan r</username>
-        <id>16509</id>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
       </contributor>
-      <comment>Новая страница: «Проверенных»</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22">Проверенных</text>
-      <sha1>0jqm4lwcjdkaul9un5n0svoxtqdlnmt</sha1>
+      <text xml:space="preserve" bytes="31">Проверено правок</text>
+      <sha1>m7fndp6zp3y03i2xn0vbxqfekje7o4n</sha1>
     </revision>
   </page>
   <page>
@@ -1037,17 +1107,17 @@
     <ns>8</ns>
     <id>40784</id>
     <revision>
-      <id>249770</id>
-      <timestamp>2014-05-15T13:23:32Z</timestamp>
+      <id>717775</id>
+      <parentid>249770</parentid>
+      <timestamp>2019-01-22T18:46:53Z</timestamp>
       <contributor>
-        <username>Ivan r</username>
-        <id>16509</id>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
       </contributor>
-      <comment>Новая страница: «Правок»</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12">Правок</text>
-      <sha1>gjilg0mx1ljt413b3uqt5fabnumrczc</sha1>
+      <text xml:space="preserve" bytes="27">Сделано правок</text>
+      <sha1>i1zfawx1odlfs03r4b41auog717k5lr</sha1>
     </revision>
   </page>
   <page>
@@ -1194,6 +1264,240 @@
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="48">Выберите имя пользователя</text>
       <sha1>8t9cf9e6d5c91zye7y6nn95ytxjy3u8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-profile</title>
+    <ns>8</ns>
+    <id>40805</id>
+    <revision>
+      <id>249791</id>
+      <timestamp>2014-05-15T13:52:19Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Использовать Curse тип страницы»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="54">Использовать Curse тип страницы</text>
+      <sha1>ru2v5h3gbmfokov5ftx3df9k3vc6xln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-wiki</title>
+    <ns>8</ns>
+    <id>40808</id>
+    <revision>
+      <id>249797</id>
+      <timestamp>2014-05-15T13:53:11Z</timestamp>
+      <contributor>
+        <username>Ivan r</username>
+        <id>16509</id>
+      </contributor>
+      <comment>Новая страница: «Использовать стандартную вики страницу»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="73">Использовать стандартную вики страницу</text>
+      <sha1>qdjtufrl9s6as6pngvh4mb4ea0apfj5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-profile</title>
+    <ns>8</ns>
+    <id>113523</id>
+    <revision>
+      <id>662937</id>
+      <timestamp>2018-03-01T08:53:54Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Использовать улучшенные комментарии к профилю участника»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="105">Использовать улучшенные комментарии к профилю участника</text>
+      <sha1>79ysm54grbjvtjs1twbcfyurpgeyzfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentpref-wiki</title>
+    <ns>8</ns>
+    <id>113522</id>
+    <revision>
+      <id>662936</id>
+      <timestamp>2018-03-01T08:53:13Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Использовать обычную вики-страницу обсуждения участника»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="105">Использовать обычную вики-страницу обсуждения участника</text>
+      <sha1>kqyvm91qmgpwykze70xs6h9zk1jfdql</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Commentprefselect</title>
+    <ns>8</ns>
+    <id>113521</id>
+    <revision>
+      <id>662935</id>
+      <timestamp>2018-03-01T08:52:36Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Тип страницы комментариев»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48">Тип страницы комментариев</text>
+      <sha1>cpuiut1b6w6sv4mbjqjrdoyr70rr9h1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Preference-global</title>
+    <ns>8</ns>
+    <id>113528</id>
+    <revision>
+      <id>662942</id>
+      <timestamp>2018-03-01T08:58:31Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «Эта настройка глобальна для всей сети Hydra.»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="76">Эта настройка глобальна для всей сети Hydra.</text>
+      <sha1>td9t02rqkwqxjmy2k2f59xrd4d7id77</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-friendship</title>
+    <ns>8</ns>
+    <id>113536</id>
+    <revision>
+      <id>662950</id>
+      <timestamp>2018-03-01T09:30:30Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «запрос на добавление в друзья»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="54">запрос на добавление в друзья</text>
+      <sha1>0dx260e4aglbsnf4cq86yihf18wiei3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-comment</title>
+    <ns>8</ns>
+    <id>113537</id>
+    <revision>
+      <id>662952</id>
+      <timestamp>2018-03-01T09:31:19Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «новый комментарий на странице профиля»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="70">новый комментарий на странице профиля</text>
+      <sha1>161vxmkbq344lbqr0fozj40rgn9f2v8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-report</title>
+    <ns>8</ns>
+    <id>113538</id>
+    <revision>
+      <id>662953</id>
+      <timestamp>2018-03-01T09:31:47Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <comment>Новая страница: «новая жалоба на комментарий»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="51">новая жалоба на комментарий</text>
+      <sha1>eht38rp0bkwoi00p3kpuqncapty6jja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcreations</title>
+    <ns>8</ns>
+    <id>104442</id>
+    <revision>
+      <id>717774</id>
+      <parentid>583698</parentid>
+      <timestamp>2019-01-22T18:46:42Z</timestamp>
+      <contributor>
+        <username>AttemptToCallNil</username>
+        <id>10144</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Создано страниц</text>
+      <sha1>qyy4afof9r9bra1wn5ohkzkqoqak4xj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Globalrank</title>
+    <ns>8</ns>
+    <id>53402</id>
+    <revision>
+      <id>327938</id>
+      <timestamp>2015-01-22T19:42:24Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «Ранг Gamepedia»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18">Ранг Gamepedia</text>
+      <sha1>3z1nyvouo6jc1gcwh1q5vox17ilrlcq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection-all</title>
+    <ns>8</ns>
+    <id>106966</id>
+    <revision>
+      <id>604861</id>
+      <timestamp>2017-07-21T15:35:33Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <comment>Новая страница: «([[Служебная:Achievements/$1|Смотреть все]])»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="64">([[Служебная:Achievements/$1|Смотреть все]])</text>
+      <sha1>hjovrf38uxebucmt3d658nphy40vi3k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:View all</title>
+    <ns>8</ns>
+    <id>82125</id>
+    <revision>
+      <id>440386</id>
+      <parentid>440376</parentid>
+      <timestamp>2015-12-24T11:38:15Z</timestamp>
+      <contributor>
+        <username>Asassin 1</username>
+        <id>15566</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29">Просмотреть все</text>
+      <sha1>13pxajcnf0hea3fmez41la6kvzraai9</sha1>
     </revision>
   </page>
 </mediawiki>
