@@ -1158,4 +1158,148 @@
       <sha1>7orxzeiackl02exvflbwbby2vjtwi7b</sha1>
     </revision>
   </page>
+  <page>
+    <title>MediaWiki:Profilepref-profile</title>
+    <ns>8</ns>
+    <id>14661</id>
+    <revision>
+      <id>20622</id>
+      <timestamp>2014-06-16T07:59:07Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Usa una pagina utente di profilo Curse migliorata&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49">Usa una pagina utente di profilo Curse migliorata</text>
+      <sha1>iw4ak9j7dsb7hoksu6q8zhoitoculmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-wiki</title>
+    <ns>8</ns>
+    <id>14659</id>
+    <revision>
+      <id>20620</id>
+      <timestamp>2014-06-16T07:56:51Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Usa una pagina wiki utente standard&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35">Usa una pagina wiki utente standard</text>
+      <sha1>3y8mwex8fs6hxg6l5wdq30kssh81dbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-category-title-profile-comment</title>
+    <ns>8</ns>
+    <id>16943</id>
+    <revision>
+      <id>31889</id>
+      <timestamp>2016-05-03T15:50:46Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Commento sul profilo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20">Commento sul profilo</text>
+      <sha1>kfi55pk5n6ze09zauszwf2kizkvcbn0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notification-header-comment</title>
+    <ns>8</ns>
+    <id>18431</id>
+    <revision>
+      <id>41604</id>
+      <timestamp>2018-10-23T07:24:05Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;$1 ha lasciato un commento sul tuo profilo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42">$1 ha lasciato un commento sul tuo profilo</text>
+      <sha1>1o46t050eassxmynwwdvako8w3z2ypy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-tooltip-profile-comment</title>
+    <ns>8</ns>
+    <id>16944</id>
+    <revision>
+      <id>31890</id>
+      <timestamp>2016-05-03T15:52:17Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Notificami quando qualcuno lascia un commento sul mio profilo.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="62">Notificami quando qualcuno lascia un commento sul mio profilo.</text>
+      <sha1>5hi3e68azzk1d3y0ybgo9pepkduqvq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Echo-pref-subscription-profile-comment</title>
+    <ns>8</ns>
+    <id>14669</id>
+    <revision>
+      <id>20630</id>
+      <timestamp>2014-06-16T08:06:50Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Lascia un commento sul mio profilo&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34">Lascia un commento sul mio profilo</text>
+      <sha1>nj8wsf61imhi0uhwi45oqhqhcs62ko4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Globalrank</title>
+    <ns>8</ns>
+    <id>14623</id>
+    <revision>
+      <id>20584</id>
+      <timestamp>2014-06-16T07:36:54Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Rango Gamepedia&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15">Rango Gamepedia</text>
+      <sha1>anx5320elendsqy983y7skw2omdq1ar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:View all</title>
+    <ns>8</ns>
+    <id>16324</id>
+    <revision>
+      <id>28930</id>
+      <timestamp>2015-09-09T08:19:01Z</timestamp>
+      <contributor>
+        <username>Raffox97</username>
+        <id>2</id>
+      </contributor>
+      <comment>Creata pagina con &quot;Visualizza tutti&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16">Visualizza tutti</text>
+      <sha1>jewj0h682qdixs0fr9npaz4p7h5fdw2</sha1>
+    </revision>
+  </page>
 </mediawiki>
