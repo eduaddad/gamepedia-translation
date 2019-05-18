@@ -1,4 +1,4 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pl">
+﻿<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pl">
   <siteinfo>
     <sitename>Minecraft Wiki Polska</sitename>
     <dbname>minecraft_pl_gamepedia</dbname>
@@ -79,7 +79,7 @@
       <id>73465</id>
       <timestamp>2016-03-20T19:45:11Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>spolszczenie</comment>
@@ -115,7 +115,7 @@
       <id>102810</id>
       <timestamp>2017-07-02T12:41:47Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>Utworzono nową stronę &quot;Znajomi!&quot;</comment>
@@ -461,7 +461,7 @@
       <parentid>74738</parentid>
       <timestamp>2016-03-29T11:28:49Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>po co to?</comment>
@@ -479,7 +479,7 @@
       <id>74522</id>
       <timestamp>2016-03-28T21:40:05Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>spolszczenie</comment>
@@ -732,7 +732,7 @@
       <parentid>74533</parentid>
       <timestamp>2016-03-28T21:57:05Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>tak?</comment>
@@ -1116,7 +1116,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102804</id>
       <timestamp>2017-07-02T12:36:54Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>Utworzono nową stronę &quot;usuń osiągnięcia&quot;</comment>
@@ -1134,7 +1134,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102967</id>
       <timestamp>2017-07-09T17:54:27Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>tłumaczenie (I guess)</comment>
@@ -1152,7 +1152,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102963</id>
       <timestamp>2017-07-09T17:53:06Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>tłumaczenie (I guess)</comment>
@@ -1170,7 +1170,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102797</id>
       <timestamp>2017-07-02T12:32:55Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>Utworzono nową stronę &quot;Kategoria&quot;</comment>
@@ -1188,7 +1188,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102806</id>
       <timestamp>2017-07-02T12:39:20Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>Utworzono nową stronę &quot;Aktywni użytkownicy&quot;</comment>
@@ -1224,7 +1224,7 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <id>102808</id>
       <timestamp>2017-07-02T12:41:28Z</timestamp>
       <contributor>
-        <username>@DeletedUser564641</username>
+        <username>NTBG</username>
         <id>564641</id>
       </contributor>
       <comment>Utworzono nową stronę &quot;Wszystkie oficjalne wiki&quot;</comment>
@@ -1250,6 +1250,98 @@ Zostaniesz tam przekierowany za 5 sekund lub po naciśnięciu przycisku Kontynuu
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="154">Tutaj możesz zmienić adres e-mail swojego konta Curse.com. Zmiana wpłynie na wszystkie konta powiązane z siecią Curse oraz pozostałe wiki Gamepedii.</text>
       <sha1>tll2dpuzz2nkjgtfqf4ly6vr013rij2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-profile/pl</title>
+    <ns>8</ns>
+    <id>13203</id>
+    <revision>
+      <id>74637</id>
+      <timestamp>2016-03-29T10:38:38Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52">Używaj rozbudowanego profilu użytkownika Gamepedii</text>
+      <sha1>8z8yne6h74kgctg7cnh28wwg09wvokt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Profilepref-wiki/pl</title>
+    <ns>8</ns>
+    <id>13201</id>
+    <revision>
+      <id>74635</id>
+      <timestamp>2016-03-29T10:37:00Z</timestamp>
+      <contributor>
+        <username>Matik7</username>
+        <id>536</id>
+      </contributor>
+      <comment>Tłumacz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38">Używaj domyślnej strony użytkownika</text>
+      <sha1>t0nc7n3zyiedzjtvii7tr6sg2l912zl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Totalcreations/pl</title>
+    <ns>8</ns>
+    <id>19605</id>
+    <revision>
+      <id>114661</id>
+      <timestamp>2019-01-22T16:50:36Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9">Utworzone</text>
+      <sha1>ns8j8igv46kmvnc3nofuigo7z0k62yj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Globalrank/pl</title>
+    <ns>8</ns>
+    <id>13143</id>
+    <revision>
+      <id>112131</id>
+      <parentid>74574</parentid>
+      <timestamp>2018-08-24T22:50:47Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <minor/>
+      <comment>Aktualizacja</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63">Miejsce na Gamepedii&lt;br&gt;([[Special:WikiPoints/global|Ranking]])</text>
+      <sha1>q2mxgiwrb3vxyfgd00ei7a7fb30lknd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Cp-achievementssection-all/pl</title>
+    <ns>8</ns>
+    <id>15339</id>
+    <revision>
+      <id>87531</id>
+      <timestamp>2016-08-15T14:48:27Z</timestamp>
+      <contributor>
+        <username>Frisk</username>
+        <id>20302</id>
+      </contributor>
+      <comment>Tłumaczenie interfejsu MediaWiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43">([[Special:Achievements|Zobacz wszystkie]])</text>
+      <sha1>84m9dj0yr847mt7spjbrzgfwfanv400</sha1>
     </revision>
   </page>
 </mediawiki>
